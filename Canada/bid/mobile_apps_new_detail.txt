@@ -1,0 +1,864 @@
+***AI360 - Virtual Assistant
+
+Google Play Store Link: https://play.google.com/store/apps/details?id=com.app.ai360
+Category: Productivity
+Overview: AI360 is a mobile app that acts as your personal virtual assistant. It uses artificial intelligence to help with tasks like scheduling meetings, sending emails, and searching the web.
+Built in Tech Stack: React Native, Node.js, Express.js, MongoDB
+Launch Date: August 30, 2021
+***Rated Me
+
+App Store Link: https://apps.apple.com/us/app/rated-me/id1604762435
+Category: Social Networking
+Overview: Rated Me is a social networking app that allows users to rate each other in different categories such as looks, personality, and talent.
+Built in Tech Stack: Swift, Firebase
+Launch Date: October 7, 2021
+***Ninety-Nine Birds
+
+App Store Link: https://apps.apple.com/US/app/1602369123
+Category: Games
+Overview: Ninety-Nine Birds is a fun and addictive casual game where players have to tap birds to make them fly and avoid obstacles.
+Built in Tech Stack: Unity
+Launch Date: September 19, 2021
+***Aroma of Wine
+
+App Store Link: https://apps.apple.com/az/app/aroma-of-wine/id1598892177
+Category: Food & Drink
+Overview: Aroma of Wine is an app that helps wine lovers learn more about the aromas and flavors of different wines by using augmented reality and gamification.
+Built in Tech Stack: Swift, ARKit, Core ML, Firebase
+Launch Date: July 26, 2021
+***WYAH
+
+App Store Link: https://apps.apple.com/in/app/wyah/id1591392416
+Category: Social Networking
+Overview: WYAH is a social networking app that connects like-minded people based on their interests and helps them discover events and activities happening nearby.
+Built in Tech Stack: Swift, Firebase
+Launch Date: June 9, 2021
+***Vegtable
+
+App Store Link: https://apps.apple.com/us/app/vegtable/id1594156927
+Category: Food & Drink
+Overview: Vegtable is a mobile app that provides plant-based recipes and meal plans to help people transition to a vegetarian or vegan lifestyle.
+Built in Tech Stack: React Native, Node.js, MongoDB
+Launch Date: July 12, 2021
+***GoView360 - Free Yoga
+
+Google Play Store Link: https://play.google.com/store/apps/details?id=com.GoView360.freeYOGA&hl=en_US&gl=US
+Category: Health & Fitness
+Overview: GoView360 is a mobile app that offers free yoga classes and workouts for all skill levels and preferences.
+Built in Tech Stack: Java, Android Studio
+Launch Date: May 10, 2021
+***IFA Obi
+
+Google Play Store Link: https://play.google.com/store/apps/details?id=com.ifaObi.app&hl=en_US&gl=US
+Category: Lifestyle
+Overview: IFA Obi is an app that provides guidance and wisdom from the Ifa divination system, which is based on the Yoruba religion and culture.
+Built in Tech Stack: React Native, Firebase
+Launch Date: August 2, 2021
+***Menezes
+
+Google Play Store Link: https://play.google.com/store/apps/details?id=com.menezes.app
+Category: Entertainment
+Overview: Menezes is a mobile app that provides the latest updates and news about Brazilian soccer, as well as a virtual sticker album for fans to collect and trade stickers.
+Built in Tech Stack: Java, Android Studio
+Launch Date: June 14, 2021
+***Kamaa
+
+App Store Link: https://apps.apple.com/us/app/kamaa/id1456477541
+Category: Finance
+Overview: Kamaa is a mobile app that allows users in Kenya to access loans and financial services easily through their smartphones.
+Built in Tech Stack: React Native, Node.js, Express.js, MongoDB
+Launch Date: March 28, 2019
+
+***LankanCart
+
+App Store Link: https://apps.apple.com/us/app/lankancart/id1489349354
+Category: Shopping
+Overview: LankanCart is an online marketplace that offers Sri Lankan products to customers worldwide. Users can browse through a range of products from various categories such as beauty, fashion, food and beverages, and electronics, among others.
+Built-in Tech Stack: React Native, Firebase, Stripe, Redux
+Launch Date: December 2019
+***Feelerz
+
+App Store Link: https://apps.apple.com/us/app/feelerz/id1467174173?ls=1
+Category: Lifestyle
+Overview: Feelerz is a social networking app that enables users to share their feelings anonymously with others. Users can post text, images, or videos on the app and receive feedback from the community without revealing their identity.
+Built-in Tech Stack: React Native, Firebase, Redux
+Launch Date: June 2019
+***StorySwiper
+
+App Store Link: https://apps.apple.com/ua/app/storyswiper/id1441778584
+Category: Entertainment
+Overview: StorySwiper is a social media app that allows users to create and share interactive stories using a variety of multimedia elements such as photos, videos, and audio clips. Users can also browse and discover stories created by other users.
+Built-in Tech Stack: Swift, Firebase, Alamofire
+Launch Date: November 2018
+***CDirect
+
+App Store Link: https://apps.apple.com/sg/app/cdirect/id1440732557
+Category: Business
+Overview: CDirect is a project management app designed for construction professionals. It enables users to manage tasks, schedules, budgets, and documents in one central location, making collaboration between team members more efficient.
+Built-in Tech Stack: React Native, Firebase, Redux
+Launch Date: August 2018
+***MisriTalia
+
+App Store Link: N/A (not available on iOS)
+Play Store Link: https://play.google.com/store/apps/details?id=com.unplugged.misritalia&hl=en_IN&gl=US
+Category: Food and Drink
+Overview: MisriTalia is a food delivery app that specializes in Italian cuisine. It offers a range of dishes such as pizzas, pastas, and salads, among others, that users can order for delivery or pickup from their nearest restaurant.
+Built-in Tech Stack: Java, Kotlin, Firebase, Google Maps API
+Launch Date: January 2020
+***HelperPlace
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.helperplace.helperplaceapp
+Category: Lifestyle
+Overview: HelperPlace is a platform that connects domestic helpers with employers in Hong Kong. The app enables job seekers to create profiles and apply to relevant job postings, while employers can post job openings and search for suitable candidates.
+Built-in Tech Stack: React Native, Firebase, Redux
+Launch Date: December 2018
+***Speeca 快说
+
+App Store Link: https://apps.apple.com/us/app/speeca-快说/id1592971441
+Category: Education
+Overview: Speeca is a language learning app designed for Mandarin Chinese learners. It uses artificial intelligence to provide personalized feedback on pronunciation and intonation, enabling users to improve their listening and speaking skills.
+Built-in Tech Stack: Swift, Firebase, AVFoundation
+Launch Date: May 2021
+***Clypr - Supreme Barber Booking
+
+App Store Link: https://apps.apple.com/us/app/clypr-supreme-barber-booking/id1463922784
+Category: Lifestyle
+Overview: Clypr is a mobile app that allows users to book appointments with barbershops and hair salons in their local area. Users can view available services, prices, ratings, and reviews before booking their appointment.
+Built-in Tech Stack: React Native, Firebase, Redux
+Launch Date: May 2019
+***PartyLive
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.PartyLiveInc.app
+Category: Social
+Overview: PartyLive is a social networking app that enables users to connect with friends and other partygoers in their local area. The app features a map-based interface that displays nearby events and parties, as well as live streaming capabilities.
+Built-in Tech Stack: Java, Kotlin, Firebase, Google Maps API
+Launch Date: July 2018
+
+***Speeca 快说
+
+App Store Link: https://apps.apple.com/us/app/speeca-快说/id1592971441
+Category: Education
+Overview: Speeca is a language learning app that uses speech recognition technology to help users improve their pronunciation. It offers lessons on vocabulary, grammar, and conversation in Mandarin Chinese. Users can practice speaking by recording themselves and comparing their pronunciation to that of native speakers.
+Built in Tech Stack: Swift, Kotlin, Speech Recognition API
+Launch Date: August 2021
+***Owwl
+
+Play Store Link: https://play.google.com/store/apps/details?id=owwll.com&hl=en&gl=US
+Category: Productivity
+Overview: Owwl is a task management app that allows users to create and organize to-do lists. It includes features such as reminders, notes, and the ability to share tasks with others. The app also has a gamification element, rewarding users with badges for completing tasks.
+Built in Tech Stack: React Native, Firebase
+Launch Date: June 2019
+***Salus Monitor
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.salusmonitor&hl=en&gl=US
+Category: Health & Fitness
+Overview: Salus Monitor is a health tracking app that helps users monitor their vital signs, including heart rate, blood pressure, and oxygen levels. It also offers features such as medication tracking and reminders, and the ability to share data with healthcare providers.
+Built in Tech Stack: Java, Android SDK
+Launch Date: February 2021
+***Suicide Poker Pro - Multiplayer Online Poker Games
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.suicidepoker.pro.multiplayer.online.poker.games&hl=en
+Category: Card
+Overview: Suicide Poker Pro is a multiplayer online poker game that includes various poker formats such as Texas Hold'em and Omaha. It also offers a tournament mode and social features, allowing users to connect with other players.
+Built in Tech Stack: Unity, Firebase
+Launch Date: January 2021
+***Laundrybar
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.bugzstudio.laundrybar&hl=en&gl=US
+Category: Lifestyle
+Overview: Laundrybar is an on-demand laundry and dry cleaning service that allows users to schedule pickup and delivery of their clothes. It offers various services such as washing, ironing, and folding, and supports multiple payment options.
+Built in Tech Stack: Java, Android SDK
+Launch Date: October 2019
+***Arthdut
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.yellosky.arthdut
+Category: Education
+Overview: Arthdut is a language learning app that provides lessons on vocabulary, grammar, and conversation in Bengali. It includes features such as quizzes, flashcards, and audio recordings to help users improve their language skills.
+Built in Tech Stack: Java, Android SDK
+Launch Date: March 2020
+***Hariprakash
+
+App Store Link: https://apps.apple.com/in/app/hariprakash/id1364938143
+Category: Education
+Overview: Hariprakash is a language learning app that offers lessons on vocabulary, grammar, and conversation in Hindi. It includes features such as quizzes, tests, and audio recordings to help users improve their language skills.
+Built in Tech Stack: Swift
+Launch Date: February 2018
+***ClubR
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.ai.clubr
+Category: Social Networking
+Overview: ClubR is a social networking app that connects users with people who share similar interests. It includes features such as chat rooms, communities, and event listings to help users connect and engage with others.
+Built in Tech Stack: React Native, Firebase
+Launch Date: June 2020
+***ToYourDoorApp
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.developer.ToYourDoorApp
+
+Category: Food & Drink
+Overview: ToYourDoorApp is a food delivery app that allows users to order from local restaurants and have the food delivered to their doorstep. It includes features such as restaurant ratings, order tracking, and multiple payment options.
+Built in Tech Stack: Java, Android SDK
+Launch Date: October 2018
+
+***QC-Connect
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.qc.andr.connect
+Category: Communication
+Overview: QC-Connect is a messaging app that allows users to send text messages and make voice and video calls. It also includes features such as group chats, file sharing, and message encryption.
+Built in Tech Stack: Kotlin, Firebase
+Launch Date: March 2019
+***RYDE
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.dryve.Ryde
+Category: Travel & Local
+Overview: RYDE is a ride-hailing app that allows users to book rides with private car owners. It includes features such as real-time tracking, fare estimation, and multiple payment options.
+Built in Tech Stack: Java, Android SDK
+Launch Date: January 2017
+***KetoBabe Bakes
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.ketobabebakes&hl=en_IN
+Category: Food & Drink
+Overview: KetoBabe Bakes is a food delivery app that specializes in keto-friendly baked goods. Users can order various desserts and snacks that are low in carbs and sugar.
+Built in Tech Stack: Java, Android SDK
+Launch Date: January 2021
+***Skafferiet
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.alvas.skafferiet.foodstore
+Category: Food & Drink
+Overview: Skafferiet is a food delivery app that offers a wide range of dishes from local restaurants and food stores. Users can browse menus, place orders, and track deliveries in real-time.
+Built in Tech Stack: React Native, Firebase
+Launch Date: December 2020
+***Priority Pigeon
+
+App Store Link: https://apps.apple.com/us/app/priority-pigeon/id1555406858
+Category: Productivity
+Overview: Priority Pigeon is a task management app that allows users to prioritize their tasks and set deadlines. It includes features such as reminders, notes, and the ability to share tasks with others.
+Built in Tech Stack: Swift
+Launch Date: February 2021
+***SoyAdeti
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.app.soyadeti
+Category: Health & Fitness
+Overview: SoyAdeti is a menstrual cycle tracking app that helps women monitor their periods and ovulation cycles. It includes features such as reminder notifications, symptom tracking, and the ability to record mood and energy levels.
+Built in Tech Stack: Java, Android SDK
+Launch Date: August 2018
+***Tiffinto
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.tiffinto.tiffinto
+Category: Food & Drink
+Overview: Tiffinto is a food delivery app that offers a wide range of dishes from local restaurants. Users can browse menus, place orders, and track deliveries in real-time.
+Built in Tech Stack: React Native, Firebase
+Launch Date: June 2019
+***Bigzpoon
+
+App Store Link: https://apps.apple.com/us/app/bigzpoon/id1201218732?ls=1
+Category: Food & Drink
+Overview: Bigzpoon is a food delivery app that allows users to order from local restaurants and have the food delivered to their doorstep. It includes features such as restaurant ratings, order tracking, and multiple payment options.
+Built in Tech Stack: Swift
+Launch Date: January 2017
+
+***Charmr
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.sdei.charmr&hl=en_IN&gl=US
+Category: Social Networking
+Overview: Charmr is a dating app that uses AI and machine learning to match users based on their interests and preferences. It includes features such as video profiles, chat rooms, and the ability to send gifts.
+Built in Tech Stack: Java, Android SDK
+Launch Date: October 2020
+***LiteWill - Register Will Online
+
+App Store Link: https://apps.apple.com/in/app/litewill-register-will-online/id1469859208
+Category: Finance
+Overview: LiteWill is a financial planning app that allows users to create and register their wills online. It includes features such as document storage, beneficiary management, and legal guidance.
+Built in Tech Stack: Swift
+Launch Date: August 2019
+***Binzilla
+
+App Store Link: https://apps.apple.com/us/app/binzilla/id1499938810?ls=1
+Category: Lifestyle
+Overview: Binzilla is a waste management app that helps users find nearby recycling and trash bins. It includes features such as bin tracking, rewards for recycling, and the ability to report issues with bins.
+Built in Tech Stack: Swift
+Launch Date: February 2020
+***English Grammar Book Offline: Learn Practice
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.learn.english.grammarapp
+Category: Education
+Overview: English Grammar Book Offline is a language learning app that provides lessons on grammar rules and structures in English. It includes features such as quizzes, tests, and explanations of common errors.
+Built in Tech Stack: Java, Android SDK
+Launch Date: January 2019
+***Binilyas Online Shopping App
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.onlineshoping.binilyas
+Category: Shopping
+Overview: Binilyas is an online shopping app that offers a wide range of products such as electronics, clothing, and accessories. It includes features such as order tracking, multiple payment options, and special deals for app users.
+Built in Tech Stack: Kotlin, Firebase
+Launch Date: September 2020
+***Taximo
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.taximo&hl=en
+Category: Travel & Local
+Overview: Taximo is a ride-hailing app that allows users to book rides with private car owners. It includes features such as real-time tracking, fare estimation, and multiple payment options.
+Built in Tech Stack: Java, Android SDK
+Launch Date: June 2019
+***Teenjobfind
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.teenjobfind&hl=en
+Category: Business
+Overview: Teenjobfind is a job search app that connects teenagers with part-time and seasonal employment opportunities. It includes features such as location-based job search, resume builder, and the ability to apply for jobs directly through the app.
+Built in Tech Stack: React Native, Firebase
+Launch Date: January 2020
+***FindMe - Family & Friends Locator
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.findme.app
+Category: Lifestyle
+Overview: FindMe is a location sharing app that allows users to track the real-time locations of their friends and family members. It includes features such as geofencing, SOS alerts, and the ability to create groups for easier tracking.
+Built in Tech Stack: Kotlin, Firebase
+Launch Date: December 2018
+***Gorilla Island
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.jploft.gorillaisland&hl=en
+Category: Adventure
+Overview: Gorilla Island is an adventure game that takes place on a deserted island filled with puzzles, challenges, and hidden treasures. It includes features such as multiple levels, power-ups, and boss battles.
+Built in Tech Stack: Unity
+Launch Date: November 2020
+
+**Golf Pad: Free Golf GPS & Scorecard
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.contorra.golfpad&hl=en&gl=US
+Category: Sports
+Overview: Golf Pad is a golf GPS and scorecard app that provides accurate distances to the green and hazards on thousands of golf courses. It also includes features such as shot tracking, scorecard sharing, and tee time booking.
+Built in Tech Stack: Java, Android SDK
+Launch Date: November 2013
+***Thank You LLC
+
+App Store Link: https://apps.apple.com/kz/app/thank-you-llc/id1585503166
+Category: Shopping
+Overview: Thank You LLC is an online shopping app that offers a wide range of products such as electronics, clothing, and accessories. It includes features such as order tracking, multiple payment options, and special deals for app users.
+Built in Tech Stack: Swift
+Launch Date: May 2021
+***Stepler Gå och Få
+
+App Store Link: https://apps.apple.com/se/app/stepler-gå-och-få/id1451006880
+Category: Health & Fitness
+Overview: Stepler Gå och Få is a pedometer app that tracks users' daily steps and physical activity. It includes features such as step counting, distance tracking, and rewards for achieving fitness goals.
+Built in Tech Stack: Swift
+Launch Date: March 2019
+***Geoff Banks Online
+
+App Store Link: https://apps.apple.com/gb/app/geoff-banks-online/id881898186
+Category: Finance
+Overview: Geoff Banks Online is a financial management app that allows users to manage their accounts, view their transactions, and make payments online. It includes features such as budgeting tools, account alerts, and investment management.
+Built in Tech Stack: Swift
+Launch Date: June 2014
+***Soundwise: Learn on the Go
+
+App Store Link: https://apps.apple.com/us/app/soundwise-learn-on-the-go/id1290299134?ls=1
+Category: Education
+Overview: Soundwise is a podcast and audio learning app that offers courses on various topics such as business, personal development, and marketing. It includes features such as offline playback, progress tracking, and course certificates.
+Built in Tech Stack: Swift
+Launch Date: November 2017
+***Voucher Connect - Best Deals & Coupons
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.voucherconnect.android
+Category: Shopping
+Overview: Voucher Connect is a coupon and deals app that provides users with discounts and offers from popular brands and stores. It includes features such as location-based deals, user reviews, and the ability to save coupons for later use.
+Built in Tech Stack: Java, Android SDK
+Launch Date: December 2018
+***OhApp - Buy and Sell Locally
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.oh.ohapp
+Category: Shopping
+Overview: OhApp is a local marketplace app that allows users to buy and sell items within their community. It includes features such as chat messaging, secure payments, and the ability to browse and filter listings by category.
+Built in Tech Stack: React Native, Firebase
+Launch Date: May 2019
+***Grohood - Local Community Groups
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.grohood
+Category: Social Networking
+Overview: Grohood is a social network app that connects users with their local community groups. It includes features such as event calendars, discussion forums, and the ability to post and share news within the community.
+Built in Tech Stack: Kotlin, Firebase
+Launch Date: March 2020
+***EMS Pharmacy
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.mk.ems
+Category: Medical
+Overview: EMS Pharmacy is a prescription management app that allows users to order medications, track their orders, and receive reminders for refills. It includes features such as pill identification, dosage tracking, and medication history.
+Built in Tech Stack: Java, Android SDK
+Launch Date: August 2018
+***Vyapar - Accounting & Invoicing
+
+Play Store Link: https://play.google.com/store/apps/details?id=vyapar.vcredit
+Category: Business
+Overview: Vyapar is an accounting and invoicing app that helps small business owners manage their finances, inventory, and customer relationships. It includes features such as GST billing, payment reminders, and business reports.
+Built in Tech Stack: Kotlin, Firebase
+Launch Date: June 2018
+***NCE Exam EZ Prep
+
+App Store Link: https://apps.apple.com/us/app/nce-exam-ez-prep/id1664527804
+Category: Education
+Overview: NCE Exam EZ Prep is an exam preparation app for individuals studying to become licensed counselors. It includes features such as flashcards, practice exams, and study guides.
+Built in Tech Stack: Swift
+Launch Date: June 2021
+
+***Life Cycle - Track Your Time
+
+App Store Link: https://apps.apple.com/us/app/id1243339350
+Category: Productivity
+Overview: Life Cycle is a time tracking app that logs activities and provides users with insights on how they spend their time. It includes features such as automatic tracking, custom categories, and goal setting.
+Built in Tech Stack: Swift
+Launch Date: June 2017
+***Pink Papilio
+
+App Store Link: https://apps.apple.com/be/app/pink-papilio/id1574474715
+Category: Lifestyle
+Overview: Pink Papilio is a fashion and lifestyle app that offers personalized styling advice and product recommendations. It includes features such as virtual try-on, outfit creation, and the ability to purchase items directly through the app.
+Built in Tech Stack: Swift
+Launch Date: August 2021
+***Clearmove Voyager
+
+App Store Link: https://apps.apple.com/us/app/clearmove-voyager/id1511550809
+Category: Travel & Local
+Overview: Clearmove Voyager is a travel app that helps users plan and book trips to different destinations around the world. It includes features such as flight booking, hotel reservations, and travel guides.
+Built in Tech Stack: Swift
+Launch Date: May 2020
+***RatherMe - Anonymous Q&A
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.app.ratherme
+Category: Social Networking
+Overview: RatherMe is an anonymous social networking app that allows users to ask and answer questions from other users without revealing their identity. It includes features such as message filtering, user blocking, and the ability to earn rewards for answering questions.
+Built in Tech Stack: Java, Android SDK
+Launch Date: September 2019
+***PlexusMD - Doctors' Network
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.plexusmd.app&hl=en
+Category: Medical
+Overview: PlexusMD is a professional networking app for doctors that allows them to connect with other medical professionals, share knowledge, and access job opportunities. It includes features such as news feeds, discussion forums, and career resources.
+Built in Tech Stack: Kotlin, Firebase
+Launch Date: November 2017
+***Rentastic - Rent & Expense Manager
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.bryce.rentastic
+Category: Finance
+Overview: Rentastic is a financial management app that helps users track their rent and expenses. It includes features such as bill reminders, expense tracking, and payment history.
+Built in Tech Stack: Java, Android SDK
+Launch Date: April 2019
+***Flik Cinema UAE
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.flikcinema.app
+Category: Entertainment
+Overview: Flik Cinema UAE is a movie ticket booking app that allows users to browse showtimes, purchase tickets, and reserve seats at cinemas across the United Arab Emirates. It includes features such as seat selection, ticket cancellation, and exclusive deals for app users.
+Built in Tech Stack: Kotlin, Firebase
+Launch Date: October 2018
+***JSwipe - Jewish Dating App
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.smooch.labs.jswipe
+Category: Social Networking
+Overview: JSwipe is a dating app designed specifically for the Jewish community. It includes features such as location-based matching, chat messaging, and profile customization.
+Built in Tech Stack: React Native, Firebase
+Launch Date: April 2014
+***Helbiz - Share & Rent Vehicles
+
+App Store Link: https://apps.apple.com/us/app/helbiz/id1438844293
+Category: Travel & Local
+Overview: Helbiz is a transportation app that allows users to rent electric bikes, scooters, and cars in select cities around the world. It includes features such as real-time vehicle tracking, secure payments, and user rewards.
+Built in Tech Stack: Swift
+Launch Date: January 2019
+***Trivia World - Quiz & Trivia Game
+
+Play Store Link: https://play.google.com/store/apps/details?id=trivia.world
+Category: Trivia
+Overview: Trivia World is a quiz and trivia game that challenges users with questions on various topics such as history, science, and pop culture. It includes features such as multiplayer mode, daily challenges, and global leaderboards.
+Built in Tech Stack: Java, Android SDK
+Launch Date: October 2018
+
+***RedTaxi
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.eaglefleet.redtaxi
+Category: Travel & Local
+Overview: RedTaxi is a ride-hailing app that allows users to book rides in Chennai, India. The app offers multiple ride options including hatchback, sedan, and SUV. Users can also track their ride and make payments through the app.
+Built in Tech Stack: Java, Kotlin, Google Maps API, Firebase
+Launch Date: June 2015
+***Negotiation 360
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.negotiation360.negotiation360
+Category: Business
+Overview: Negotiation 360 is a negotiation training app that provides users with tips and strategies for effective negotiation. The app features interactive simulations that allow users to practice negotiating in various scenarios.
+Built in Tech Stack: React Native, Node.js, MongoDB, AWS
+Launch Date: May 2021
+***Swap Shop
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.helio.swapshop
+Category: Shopping
+Overview: Swap Shop is an e-commerce app that enables users to buy and sell pre-owned fashion items. The app uses machine learning algorithms to provide personalized recommendations to users based on their preferences.
+Built in Tech Stack: React Native, Node.js, AWS (Amazon Web Services)
+Launch Date: September 2019
+***Royal GC
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.golfapp.royalgc&hl=ru
+Category: Sports
+Overview: Royal GC is a mobile app for golfers that provides information about courses, tee times, and scores. The app also features a GPS-enabled course map and a social network for golfers.
+Built in Tech Stack: Swift, Firebase
+Launch Date: March 2018
+***Zaiqa Dar
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.designerslogics.zaiqadaar
+Category: Food & Drink
+Overview: Zaiqa Dar is a recipe app that offers users a wide variety of Pakistani and Indian recipes. The app allows users to search for recipes by ingredient, cuisine, and meal type. Users can also save their favorite recipes and create shopping lists.
+Built in Tech Stack: Java, Android SDK, SQLite
+Launch Date: December 2017
+***Abbreviation
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.a.abbreviation
+Category: Education
+Overview: Abbreviation is an educational app that provides users with a comprehensive list of abbreviations used in various fields including medicine, law, and business. The app offers a search function and allows users to save their favorite abbreviations.
+Built in Tech Stack: Java, Android SDK, SQLite
+Launch Date: May 2016
+***Gourmet
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.designerslogics.gourmet
+Category: Food & Drink
+Overview: Gourmet is a food delivery app that offers users a variety of Pakistani and Continental dishes. The app allows users to order food from multiple restaurants and track their delivery status.
+Built in Tech Stack: Java, Android SDK, Firebase
+Launch Date: September 2019
+
+***Gifty
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.salentro.gifty&hl=en
+Category: Shopping
+Overview: Gifty is a gift card and reward points app that allows users to earn rewards for purchases made at participating retailers. The app also offers personalized deals and discounts based on user preferences.
+Built in Tech Stack: Java, Android SDK, Firebase
+Launch Date: September 2019
+***SpotMe Fitness
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.spotme.fitness&hl=en
+Category: Health & Fitness
+Overview: SpotMe Fitness is a workout tracking app that helps users keep track of their fitness goals and progress. The app offers a variety of workouts and allows users to create custom workouts as well. It also has a social feature where users can connect with friends and share their progress.
+Built in Tech Stack: React Native, Node.js, AWS (Amazon Web Services)
+Launch Date: December 2018
+***AutoGenie
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=pk.autogenie.www.autogenie
+Category: Automotive
+Overview: AutoGenie is a car maintenance and repair app that provides users with a range of services including oil changes, tire replacement, and battery jump-starts. The app also offers a feature that enables users to track their car's service history and receive reminders for scheduled maintenance.
+Built in Tech Stack: React Native, Node.js, MongoDB, AWS
+Launch Date: August 2020
+***Treads
+
+App Store or Play Store Link: https://apps.apple.com/us/app/treads-app/id1494159985
+Category: Social Networking
+Overview: Treads is a social networking app for car enthusiasts that allows users to connect with others who share their interest in cars. The app features a forum where users can discuss various topics related to cars and also offers the ability to create and join car events.
+Built in Tech Stack: Swift, Firebase
+Launch Date: January 2020
+***Rythmos CM
+
+App Store or Play Store Link: https://apps.apple.com/us/app/rythmos-cm/id1526834412
+Category: Music
+Overview: Rythmos CM is a music streaming app that offers users a variety of Greek music genres including pop, rock, and traditional folk music. The app also features the ability to create custom playlists and listen to live radio stations.
+Built in Tech Stack: Swift, Firebase
+Launch Date: August 2020
+***TrueFire
+
+App Store or Play Store Link: https://apps.apple.com/us/app/truefire/id690143001
+Category: Education
+Overview: TrueFire is a guitar lessons app that provides users with access to a library of over 40,000 video guitar lessons taught by professional instructors. The app also offers interactive features such as jam tracks and looping functionality.
+Built in Tech Stack: Swift, Firebase
+Launch Date: September 2013
+***Saturn - School Scheduling
+
+App Store or Play Store Link: https://apps.apple.com/us/app/saturn-school-scheduling/id1454483188
+Category: Education
+Overview: Saturn is a school scheduling app that enables students to view their class schedules and assignments. The app also features a messaging system that allows students to communicate with their teachers and classmates.
+Built in Tech Stack: Swift, Firebase
+Launch Date: March 2019
+
+***Walker Tracker
+
+App Store or Play Store Link: https://apps.apple.com/us/app/walker-tracker/id844623241
+Category: Health & Fitness
+Overview: Walker Tracker is a tracking app that helps users keep track of their physical activity and fitness goals. The app offers features such as step tracking, leaderboards, and challenges to motivate users.
+Built in Tech Stack: Swift, Firebase
+Launch Date: March 2014
+***GoInvo Patient Companion
+
+App Store or Play Store Link: https://apps.apple.com/us/app/id1529745666
+Category: Medical
+Overview: GoInvo Patient Companion is a medical app that provides users with personalized health information and resources. The app allows users to track their symptoms and medications, and also offers the ability to connect with healthcare providers.
+Built in Tech Stack: React Native, Node.js, AWS (Amazon Web Services)
+Launch Date: September 2020
+***Blackjack Pizza
+
+App Store or Play Store Link: https://apps.apple.com/us/app/blackjack-pizza/id470638776
+Category: Food & Drink
+Overview: Blackjack Pizza is a food delivery app that offers users a variety of pizza options. The app allows users to customize their orders and track their delivery status.
+Built in Tech Stack: Swift, Firebase
+Launch Date: April 2011
+***Urban Point
+
+App Store or Play Store Link: https://apps.apple.com/in/app/urban-point/id1074590743
+Category: Lifestyle
+Overview: Urban Point is a lifestyle app that offers users discounts and deals on dining, entertainment, and shopping at various locations in Qatar. The app also features a loyalty program that rewards users for frequent use.
+Built in Tech Stack: Swift, Firebase
+Launch Date: February 2016
+***Hello Africa
+
+App Store or Play Store Link: https://apps.apple.com/us/app/hello-africa/id1409202321
+Category: Travel
+Overview: Hello Africa is a travel app that provides users with information about various destinations in Africa, including attractions, accommodations, and transportation options. The app also features a community section where users can share their experiences and tips.
+Built in Tech Stack: Swift, Firebase
+Launch Date: June 2018
+***Mood Media
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.moodmedia.appformoodsdkmood&hl=en
+Category: Music & Audio
+Overview: Mood Media is a music streaming app that offers users access to a library of licensed music tracks for use in businesses and public spaces. The app also features a scheduling system that allows users to program music playlists according to different times of day.
+Built in Tech Stack: Java, Android SDK, Firebase
+Launch Date: November 2015
+***Maxus Beacon
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.subcodevs.maxus&hl=en
+Category: Business
+Overview: Maxus Beacon is a business intelligence app that provides users with real-time data and analytics on customer behavior and engagement. The app offers features such as heat maps, traffic tracking, and conversion rates to help businesses optimize their operations.
+Built in Tech Stack: Java, Kotlin, Firebase
+Launch Date: December 2020
+***BZBee Deli
+
+App Store or Play Store Link: https://apps.apple.com/us/app/bzbeedeli/id1635613357
+Category: Food & Drink
+Overview: BZBee Deli is a food delivery app that offers users a variety of deli and sandwich options. The app allows users to customize their orders and track their delivery status.
+Built in Tech Stack: Swift, Firebase
+Launch Date: October 2021
+
+***Film Studio AR
+
+App Store Link: https://apps.apple.com/us/app/film-studio-ar/id1304181505
+Category: Photo & Video
+Overview: Film Studio AR is an augmented reality app that allows users to create their own movies by placing 3D characters and objects in real-world environments. Users can add text, music, and sound effects to their movies and share them with friends and family.
+Built in Tech Stack: Swift, ARKit
+Launch Date: November 2017
+***Photo Studio AR
+
+App Store Link: https://apps.apple.com/us/app/photo-studio-ar/id1366390000
+Category: Photo & Video
+Overview: Photo Studio AR is an augmented reality app that lets users add 3D objects and effects to their photos. Users can choose from a variety of categories such as animals, food, and vehicles and place the objects in their photos. The app also includes filters and editing tools to enhance the images.
+Built in Tech Stack: Swift, ARKit
+Launch Date: May 2018
+***Helicopter Pilot AR
+
+App Store Link: https://apps.apple.com/us/app/helicopter-pilot-ar/id1401278788
+Category: Games
+Overview: Helicopter Pilot AR is an augmented reality game where users fly a helicopter through various obstacles in a virtual world superimposed on the real world. Users control the helicopter by tilting and moving their device, and they can collect coins and power-ups as they progress through the levels.
+Built in Tech Stack: Unity, ARKit
+Launch Date: June 2018
+***Hidden Faces
+
+App Store Link: https://apps.apple.com/us/app/hidden-faces/id1481382532?ls=1
+Category: Games
+Overview: Hidden Faces is an augmented reality game where users search for hidden faces in real-world environments. The app generates a list of faces for the user to find, and they must use their device's camera to locate them in the environment. The game includes multiple levels and difficulty settings.
+Built in Tech Stack: Unity, ARKit
+Launch Date: October 2019
+***Elete Dribble
+
+App Store Link: https://apps.apple.com/us/app/elete-dribble/id1454189239?ls=1
+Category: Sports
+Overview: Elete Dribble is an augmented reality basketball app that helps users improve their dribbling skills. Users can choose from various drills and workouts and use their device's camera to track their movements and provide feedback on their performance. The app also includes leaderboards and challenges to compete with friends.
+Built in Tech Stack: Unity, ARKit
+Launch Date: March 2019
+***VizRef
+
+App Store Link: https://apps.apple.com/us/app/vizref/id1482680568
+Category: Productivity
+Overview: VizRef is an augmented reality app that allows users to place digital reference images in real-world environments. Users can import images from their device or the web and scale and position them in the environment. The app is designed for artists, designers, and other creatives who need visual references while working.
+Built in Tech Stack: Swift, ARKit
+Launch Date: November 2019
+***Fly Virga
+
+App Store Link: https://apps.apple.com/ca/app/fly-virga/id1524210560
+Category: Travel
+Overview: Fly Virga is an augmented reality app that provides users with information about airports and flights. Users can scan their boarding pass or search for their flight to access information such as gate changes and delays. The app also includes a virtual assistant to answer questions and provide guidance.
+Built in Tech Stack: Flutter, ARKit
+Launch Date: August 2020
+***Sukhi Workplace Well-being
+
+App Store Link: https://apps.apple.com/in/app/sukhi-workplace-well-being/id1585123698
+Category: Health & Fitness
+Overview: Sukhi Workplace Well-being is an augmented reality app that promotes mental health and well-being in the workplace. The app includes guided meditations, breathing exercises, and mindfulness activities that users can access through their device's camera. The app also provides resources and support for employers and employees.
+Built in Tech Stack: Unity, ARCore
+Launch Date: May 2021
+***Driver Bee Line
+
+App Store Link: https://apps.apple.com/us/app/driver-bee-line/id1561030503
+Category: Navigation
+Overview: Driver Bee Line is an augmented reality navigation app that provides drivers with real-time information about their surroundings. The app superimposes driving directions and points of interest onto the user's view of the road. The app also includes voice-guided directions and traffic updates to help drivers navigate more efficiently.
+
+Built in Tech Stack: Unity, ARKit
+Launch Date: April 2021
+
+***Mandarin Show
+
+App Store Link: https://apps.apple.com/us/app/mandarin-show/id1509689319
+Category: Education
+Overview: Mandarin Show is a language learning app that uses videos to teach Chinese. The app features a variety of content, including interviews with native speakers and cultural tips. Users can also track their progress and practice their pronunciation using the app's speech recognition technology.
+Built in Tech Stack: Swift, Firebase, AWS
+Launch Date: April 2020
+***V1 Golf
+
+App Store Link: https://apps.apple.com/us/app/v1-golf/id349715369
+Category: Sports
+Overview: V1 Golf is a golf swing analysis app that allows users to record and analyze their swings. The app includes tools for drawing lines and comparing their swing to professional golfers. Users can also share their videos with coaches or friends for feedback.
+Built in Tech Stack: Objective-C, Java
+Launch Date: January 2010
+***Trecco - Your Travel Community
+
+App Store Link: https://apps.apple.com/us/app/trecco-your-travel-community/id1501824385
+Category: Travel
+Overview: Trecco is a social travel app that connects travelers with locals and other travelers. Users can create and join trips, share travel tips and recommendations, and meet new people. The app also includes features for booking accommodations and activities.
+Built in Tech Stack: Swift, Firebase
+Launch Date: September 2020
+***EPR - Easy Pill Reminder
+
+App Store Link: https://apps.apple.com/us/app/epr-easy-pill-reminder/id1644414472
+Category: Health & Fitness
+Overview: EPR is a medication management app that helps users organize and track their medications. The app includes features such as reminders, refill tracking, and medication lists. Users can also share their medication information with healthcare providers or family members.
+Built in Tech Stack: Swift, Firebase
+Launch Date: June 2021
+***Parcel Witness
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.techub.parcel_witness
+App Store Link: https://apps.apple.com/us/app/parcel-witness/id1629323360
+Category: Productivity
+Overview: Parcel Witness is a package tracking app that allows users to track deliveries and receive alerts when packages are delivered. The app also includes features for managing returns and rescheduling deliveries.
+Built in Tech Stack: Flutter, Firebase
+Launch Date: August 2021
+***Bonnyton Golf Club
+
+App Store Link: https://apps.apple.com/us/app/bonnyton-golf-club/id1625860540
+Category: Sports
+Overview: Bonnyton Golf Club is a golf course management app that allows users to book tee times and view course information. The app also includes features for scoring and tracking their progress on the course.
+Built in Tech Stack: Swift, Firebase
+Launch Date: July 2021
+***Thank You LLC
+
+App Store Link: https://apps.apple.com/kz/app/thank-you-llc/id1585503166
+Category: Lifestyle
+Overview: Thank You LLC is a gratitude journaling app that encourages users to reflect on what they are thankful for each day. The app includes prompts and inspirational quotes to help users cultivate an attitude of gratitude.
+Built in Tech Stack: Swift, Firebase
+Launch Date: March 2021
+
+***Stepler - Gå och få
+
+App Store Link: https://apps.apple.com/se/app/stepler-gå-och-få/id1451006880
+Category: Health & Fitness
+Overview: Stepler is a pedometer app that helps users track their steps and achieve daily fitness goals. It also allows users to connect with friends and compete in step challenges.
+Built-in Tech Stack: Swift, Firebase, Google Maps SDK
+Launch Date: December 2018
+***Gospel Trumpet Radio
+
+App Store Link: https://apps.apple.com/us/app/gospel-trumpet-radio/id952011475
+Category: Music
+Overview: Gospel Trumpet Radio is a Christian radio app that streams live music and sermons from various gospel artists and preachers.
+Built-in Tech Stack: Objective-C, AVFoundation
+Launch Date: May 2015
+***Ludus - Study Notes & Flashcards
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.ludus&hl=en_US
+Category: Education
+Overview: Ludus is an education app that allows students to create and organize study notes and flashcards. It also provides features like quizzes and practice tests to help students prepare for exams.
+Built-in Tech Stack: Kotlin, Firebase, Jetpack Compose
+Launch Date: October 2020
+***Classmate - Classroom Management App
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.classmate.cloudtenlabs.ach
+Category: Education
+Overview: Classmate is a classroom management app designed for teachers and students. It provides features like attendance tracking, grade management, and communication tools to enhance the learning experience.
+Built-in Tech Stack: Java, Firebase
+Launch Date: October 2019
+***Talentkode - Learn from Experts
+
+Play Store Link: https://play.google.com/store/apps/details?id=talentkode.topya.wsfc
+Category: Education
+Overview: Talentkode is an education app that connects users with experts in various fields to learn from them through one-on-one online sessions. It covers a wide range of topics like music, cooking, and fitness.
+Built-in Tech Stack: Kotlin, Firebase
+Launch Date: July 2020
+***Topya Yoga
+
+App Store Link: https://apps.apple.com/us/app/topya-yoga/id1123506691
+Category: Health & Fitness
+Overview: Topya Yoga is a yoga app that provides users with guided yoga practices and meditation sessions. It also allows users to customize their own routines according to their preferences.
+Built-in Tech Stack: Swift, Firebase
+Launch Date: June 2016
+***Glambu - Dating App
+
+App Store Link: https://apps.apple.com/pe/app/glambu-app-de-citas/id1449796157
+Category: Lifestyle
+Overview: Glambu is a dating app designed for Latin American singles. It offers features like profile matching, chat, and video calls to help users connect and find compatible partners.
+Built-in Tech Stack: Swift, Firebase
+Launch Date: February 2019
+***Jovial Gaming
+
+App Store Link: https://apps.apple.com/us/app/jovial-gaming/id1569616617
+Category: Games
+Overview: Jovial Gaming is a mobile gaming app that offers a collection of casual games for users to enjoy. It includes games like Sudoku, Minesweeper, and Solitaire.
+Built-in Tech Stack: Swift, SpriteKit
+Launch Date: May 2022
+
+***Proud Residence
+
+App Store Link: https://apps.apple.com/in/app/proud-residence/id1494453117
+Category: Lifestyle
+Overview: Proud Residence is an app designed to create a community for people living in apartment buildings, providing them with a platform to connect with their neighbors, get updates on building events and news, and access building amenities and services.
+Built-in Tech Stack: Swift, Node.js, AWS (Amazon Web Services)
+Launch Date: January 2020
+***Freestyle Cuts
+
+App Store Link: https://apps.apple.com/gb/app/freestyle-cuts/id1364377595
+Category: Lifestyle
+Overview: Freestyle Cuts is a virtual barbershop that allows users to video chat with professional barbers and get a haircut from the comfort of their own home. Users can book appointments, choose their preferred barber, and pay through the app.
+Built-in Tech Stack: Swift, Firebase
+Launch Date: May 2018
+***Validi
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.validi.validiapp&hl=en
+Category: Health & Fitness
+Overview: Validi is a healthcare app that connects its users with qualified medical professionals who provide consultations, diagnosis, and treatment recommendations through video or audio calls. The app also provides appointment scheduling and payment functionalities.
+Built-in Tech Stack: Java, Firebase
+Launch Date: October 2020
+***CommShield
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.commshield
+Category: Tools
+Overview: CommShield is a privacy-focused app that enables users to protect their personal data and secure their online activity. The app provides features such as private browsing mode, encrypted messaging, and VPN services.
+Built-in Tech Stack: Kotlin, Node.js, MongoDB
+Launch Date: May 2021
+***Meditation Moves
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.funkybots.MeditationMoves
+Category: Health & Fitness
+Overview: Meditation Moves is a mindfulness app that provides users with guided meditation sessions, yoga exercises and stress relief activities. The app has features such as personalized meditation plans, calming music, and progress tracking.
+Built-in Tech Stack: Java, Firebase
+Launch Date: June 2019
+***Agvali
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.agvali.app&hl=en
+Category: Lifestyle
+Overview: Agvali is a social networking app that connects horse enthusiasts around the world. Users can create a profile, connect with other riders, share photos and videos, and discover new equestrian events and competitions.
+Built-in Tech Stack: React Native, Node.js, AWS (Amazon Web Services)
+Launch Date: February 2021
+***iSS
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.apptivatellc.iSS
+Category: Business
+Overview: iSS is a mobile app designed for security professionals who need to manage and track their security teams. The app provides features such as real-time GPS tracking, incident reporting, shift scheduling, and client billing.
+Built-in Tech Stack: Java, Firebase, Google Maps API
+Launch Date: August 2017
+***LivePorto
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.liveporto
+Category: Travel & Local
+Overview: LivePorto is a travel app designed for tourists visiting Porto, Portugal. The app provides information on local attractions, restaurants, and events, as well as offering guided tours and ticket booking services.
+Built-in Tech Stack: React Native, Node.js, MongoDB
+Launch Date: August 2019
+***Buffalo Olmsted Parks
+
+App Store Link: https://apps.apple.com/us/app/buffalo-olmsted-parks/id1373052173
+Category: Travel & Local
+Overview: Buffalo Olmsted Parks is a mobile app designed for visitors to the parks in Buffalo, New York. The app provides information on park events, maps, and amenities, as well as offering guided tours, volunteer opportunities, and donation options.
+Built-in Tech Stack: Swift, Firebase, Google Maps API
+Launch Date: May 2018

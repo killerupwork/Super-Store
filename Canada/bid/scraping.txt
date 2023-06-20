@@ -1,0 +1,12 @@
+I am going to research mobile apps below and need detailed information for each mobile apps.
+This is output format that I want.
+***Project Name
+- App Store Link
+- Category
+- Overview
+- Programming Language
+- Built-in Frameworks (front-end, back-end, database)
+- Launch Date
+Give me formatted information for these mobile app links:
+
+

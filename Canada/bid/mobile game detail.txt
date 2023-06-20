@@ -1,0 +1,2262 @@
+Glyder
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.Tanjea.Glyder
+Category: Adventure game
+Overview: Glyder is an adventure game where you play as Eryn, a young girl who must explore multiple worlds to find and collect rare crystals. You use her glider to fly around and explore each world, solving puzzles and discovering new items along the way.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: February 23, 2021
+Downloads: 10,000+
+User Ratings: 4.6/5.0 (3,153 ratings)
+Developer Information: Tanjea Games
+Pricing: Free with in-app purchases }
+Bootleggers
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.ingvar.bootleggers
+Category: Strategy game
+Overview: Bootleggers is a strategy game where you build and manage your own criminal empire during prohibition in the United States. You must gather resources, recruit gang members, and engage in turf wars with rival gangs to become the most powerful bootlegger in town.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: October 29, 2019
+Downloads: 100,000+
+User Ratings: 4.3/5.0 (9,811 ratings)
+Developer Information: Ingvar Games
+Pricing: Free with in-app purchases }
+Naga Studio
+{
+
+App Store Link: https://play.google.com/store/apps/dev?id=6721700247509781910
+Category: Various games
+Overview: Naga Studio is a game developer that produces multiple games, including puzzle games and adventure games.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: Various dates
+Downloads: Varies by game
+User Ratings: Varies by game
+Developer Information: Naga Studio
+Pricing: Free with in-app purchases, or paid
+Merge Rivals
+{
+
+App Store Link: https://apps.apple.com/app/id1626731578?platform=iphone
+Category: Puzzle game
+Overview: Merge Rivals is a puzzle game where you merge blocks to create new ones, with the ultimate goal of creating a diamond block. You can play against other players online to see who can create the diamond block first.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: May 26, 2021
+Downloads: 1,000+
+User Ratings: 3.5/5.0 (6 ratings)
+Developer Information: Playeristic Games
+Pricing: Free with in-app purchases
+Lucky Penny
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.electricmanta.luckypenny&gl=US
+Category: Casual game
+Overview: Lucky Penny is a casual game where you tap your screen to drop a penny into a spinning coin slot. The goal is to aim for the bonus slots and collect coins and prizes along the way.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: January 14, 2020
+Downloads: 100,000+
+User Ratings: 4.2/5.0 (3,673 ratings)
+Developer Information: Electric Manta
+Pricing: Free with in-app purchases
+Merge PvP
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.stewartperry.mergepvp&gl=US
+Category: Puzzle game
+Overview: Merge PvP is a puzzle game where you merge blocks to create new ones, while also trying to sabotage your opponent's progress. You can play against other players online to see who can reach the highest score.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: November 11, 2020
+Downloads: 500,000+
+User Ratings: 3.9/5.0 (7,837 ratings)
+Developer Information: Stewart Perry Games
+Pricing: Free with in-app purchases
+
+Teddy's Flight {
+App Store Link: https://play.google.com/store/apps/details?id=com.NagaStudio.TeddysFlight
+Category: Endless runner game
+Overview: Teddy's Flight is an endless runner game where you play as a teddy bear flying through the clouds on a mission to collect stars and avoid obstacles. The game features various power-ups and upgrades to help you along the way.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: January 8, 2020
+Downloads: 100,000+
+User Ratings: 3.8/5.0 (1,129 ratings)
+Developer Information: Naga Studio
+Pricing: Free with in-app purchases }
+
+
+Magnets
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.unyawn.magnets
+Category: Puzzle
+Overview: Magnets is a fun and challenging puzzle game where you must guide the ball to the goal by using magnets to push, pull, and steer the ball through a variety of obstacles.
+Programming Language: Not Available
+Built-in Frameworks (front-end, back-end, database): Not Available
+Launch Date: 2020-02-17
+Downloads: 10,000+
+User Ratings: 4.6/5 (based on 177 reviews)
+Developer Information: Unyawn
+Pricing: Free with in-app purchases }
+Golden Helmet
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.Zumoko.GoldenHelmet
+Category: Racing
+Overview: Golden Helmet is a fast-paced racing game where you must navigate through a series of courses, collecting coins and power-ups along the way. With intuitive controls and smooth gameplay, it's the perfect game for fans of arcade-style racing games.
+Programming Language: Java
+Built-in Frameworks (front-end, back-end, database): Not Available
+Launch Date: 2020-12-18
+Downloads: 100,000+
+User Ratings: 4.3/5 (based on 1,915 reviews)
+Developer Information: Zumoko
+Pricing: Free with in-app purchases }
+Freekick Battle
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.eSportsTechnologyGmbH.FreekickerzShootout&hl=en&gl=US
+Category: Sports
+Overview: Freekick Battle is a soccer game where you must score goals by taking free kicks. With realistic physics and challenging gameplay, it's the perfect game for fans of soccer and sports games in general.
+Programming Language: Not Available
+Built-in Frameworks (front-end, back-end, database): Not Available
+Launch Date: 2018-07-11
+Downloads: 10,000,000+
+User Ratings: 4.3/5 (based on 701,564 reviews)
+Developer Information: eSports Technology GmbH
+Pricing: Free with in-app purchases }
+Xtreme Motorbikes
+{
+
+App Store Link: https://apps.apple.com/us/app/xtreme-motorbikes/id1547071668
+Category: Racing
+Overview: Xtreme Motorbikes is an intense racing game where you must navigate through a variety of courses, performing stunts and collecting coins along the way. With stunning graphics and challenging gameplay, it's the perfect game for fans of high-speed racing games.
+Programming Language: Not Available
+Built-in Frameworks (front-end, back-end, database): Not Available
+Launch Date: 2021-02-15
+Downloads: 1,000+
+User Ratings: 4.3/5 (based on 12 reviews)
+Developer Information: Tap2Play LLC
+Pricing: Free with in-app purchases }
+Bullet Force
+{
+
+App Store Link: https://apps.apple.com/us/app/bullet-force/id1009134067
+Category: Action
+Overview: Bullet Force is an intense first-person shooter where you must eliminate enemy players while completing a variety of objectives. With intuitive controls and smooth gameplay, it's the perfect game for fans of action-packed shooters.
+Programming Language: Not Available
+Built-in Frameworks (front-end, back-end, database): Not Available
+Launch Date: 2016-06-02
+Downloads: 10,000,000+
+User Ratings: 4.1/5 (based on 133,307 reviews)
+Developer Information: Blayze Games, L.L.C.
+Pricing: Free with in-app purchases }
+Badlanders
+{
+
+App Store Link: https://apps.apple.com/us/app/badlanders/id1523275551
+Category: Action
+Overview: Badlanders is an intense multiplayer shooter where you must scavenge for weapons and resources while eliminating enemy players. With stunning graphics and immersive gameplay, it's the perfect game for fans of action-packed shooters.
+Programming Language: Not Available
+Built-in Frameworks (front-end, back-end, database): Not Available
+Launch Date: 2021-01-20
+Downloads: 500,000+
+User Ratings: 3.8/5 (based on 6,337 reviews)
+Developer Information: NetEase Games
+Pricing: Free with in-app purchases
+}
+
+Bar Jutsu
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.megacat.barjutsu&hl=en_IN&gl=US
+Category: Action
+Overview: Bar Jutsu is a unique fighting game where you must defeat enemy fighters using a combination of martial arts and bar-tending skills. With intuitive controls and challenging gameplay, it's the perfect game for fans of action-packed fighting games.
+Programming Language: Not Available
+Built-in Frameworks (front-end, back-end, database): Not Available
+Launch Date: 2020-05-17
+Downloads: 500+
+User Ratings: 4.8/5 (based on 21 reviews)
+Developer Information: Mega Cat Studios
+Pricing: Free with in-app purchases }
+Ready Freddy
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.readyfreddy
+Category: Education
+Overview: Ready Freddy is an educational app designed to help young children learn and develop important skills through a variety of fun and engaging activities. With colorful graphics and interactive gameplay, it's the perfect app for parents looking to supplement their child's learning at home.
+Programming Language: Not Available
+Built-in Frameworks (front-end, back-end, database): Not Available
+Launch Date: 2019-09-24
+Downloads: 50,000+
+User Ratings: 4.3/5 (based on 85 reviews)
+Developer Information: Edoki Academy
+Pricing: Free with in-app purchases }
+
+
+Relax River - Calm Water & Nature Sounds
+{
+
+App Store Link:
+Google Play: https://play.google.com/store/apps/details?id=com.sfera.relaxrivercb
+Category: Health and Fitness
+Overview:
+Relax River is a free app that offers calming water sounds and nature sounds to help you relax, meditate, and sleep better. The app provides high-quality, soothing sounds of rivers, streams, waterfalls, rain, and more. You can create your own mix of sounds and adjust the volume of each sound to your liking.
+Programming Language: Unknown
+Built-in Frameworks: Unknown
+Launch Date: October 17, 2019
+Downloads: 10 million+
+User Ratings: 4.7 (out of 5.0) based on 267,483 reviews on Google Play
+Developer Information:
+Website: https://www.relaxio.net/
+Email: support@relaxio.net
+Pricing: Free with in-app purchases }
+InMind 2 VR Cardboard
+{
+
+App Store Link:
+App Store: https://apps.apple.com/app/inmind-2-vr-cardboard/id1166999366
+Category: Games
+Overview:
+InMind 2 is a virtual reality game that takes you inside the human brain. You play as a neurosurgeon who has to navigate through the brain and solve puzzles to help patients with mental disorders. The game uses cardboard VR technology for a more immersive experience.
+Programming Language: C#
+Built-in Frameworks:
+Unity (game engine)
+Launch Date: September 21, 2016
+Downloads: 100,000+
+User Ratings: 4.2 (out of 5.0) based on 332 ratings on the App Store
+Developer Information:
+Website: https://nivalvr.com/
+Email: info@nivalvr.com
+Pricing: $3.99 on the App Store
+Grand Hotel Solitaire
+{
+
+App Store Link:
+Google Play: https://play.google.com/store/apps/details?id=com.rainbowgames.grandhotelsolitaire
+Category: Games
+Overview:
+Grand Hotel Solitaire is a classic solitaire card game with a hotel theme. The game has over 500 levels with different challenges and obstacles. You can earn coins to unlock new hotels and decorate your room with different themes and items. The game also offers daily rewards and tournaments to compete with other players.
+Programming Language: Unknown
+Built-in Frameworks: Unknown
+Launch Date: September 6, 2018
+Downloads: 1 million+
+User Ratings: 4.6 (out of 5.0) based on 35,788 reviews on Google Play
+Developer Information:
+Website: http://rainbowgames.net/
+Email: support@rainbowgames.net
+Pricing: Free with in-app purchases
+Solitaire
+{
+
+App Store Link:
+Google Play: https://play.google.com/store/apps/details?id=com.hay.solitaire
+Category: Games
+Overview:
+Solitaire is a classic solitaire card game with different game modes and challenges. The game has daily challenges and rewards to keep you engaged. You can customize your cards and backgrounds, and track your progress and statistics.
+Programming Language: Unknown
+Built-in Frameworks: Unknown
+Launch Date: October 21, 2019
+Downloads: 10 million+
+User Ratings: 4.7 (out of 5.0) based on 732,541 reviews on Google Play
+Developer Information:
+Website: https://www.zynga.com/games/solitaire/
+Email: support@zynga.com
+Pricing: Free with in-app purchases
+Oceans Board Game
+{
+
+App Store Link:
+Google Play: https://play.google.com/store/apps/details?id=com.northstargames.oceans&hl=en_IN&gl=US
+Category: Games
+Overview:
+Oceans is a digital adaptation of the popular board game that lets you create and evolve your own aquatic species. You have to navigate through different challenges and obstacles to survive in the ocean ecosystem. The game has single player and multiplayer modes with different difficulties and strategies.
+Programming Language: Unknown
+Built-in Frameworks: Unknown
+Launch Date: August 24, 2020
+Downloads: 50,000+
+User Ratings: 4.2 (out of 5.0) based on 427 reviews on Google Play
+Developer Information:
+Website: https://www.northstargames.com/
+Email: support@northstargames.com	
+Pricing: $8.99 on Google Play
+Battle Cow Unleashed
+{
+
+App Store Link:
+Google Play: https://play.google.com/store/apps/details?id=crowdler.hashbytestudio.battlecowunleashed&hl=en_IN&gl=US
+Category: Games
+Overview:
+Battle Cow Unleashed is an action-packed 3D shooter game where you play as a cow that defends the farm from alien invaders. The game has different levels with increasing difficulty and challenges. You can upgrade your weapons and abilities to defeat the bosses and save the cows.
+Programming Language: Unknown
+Built-in Frameworks: Unknown
+Launch Date: April 26, 2021
+Downloads: 10,000+
+User Ratings: 4.7 (out of 5.0) based on 288 reviews on Google Play
+Developer Information:
+Website: http://hashbyte.studio/
+Email: hashbyte.studio@gmail.com
+Pricing: Free with in-app purchases
+FPS Zombie Devil's Eyes
+{
+
+App Store Link:
+Google Play: https://play.google.com/store/apps/details?id=com.horror.games.fps.zombie.devils.eyes&hl=en_IN&gl=US
+Category: Games
+Overview:
+FPS Zombie Devil's Eyes is a first-person shooter game where you have to survive in a post-apocalyptic world filled with zombies and demons. The game has different weapons and power-ups to help you fight the enemies. You have to complete missions and challenges to progress in the game.
+Programming Language: Unknown
+Built-in Frameworks: Unknown
+Launch Date: August 12, 2020
+Downloads: 1 million+
+User Ratings: 4.2 (out of 5.0) based on 7,943 reviews on Google Play
+Developer Information:
+Website: https://www.horror-games.net/
+Email: support@horror-games.net
+Pricing: Free with in-app purchases
+Superheroes Acadamy
+{
+
+App Store Link:
+Google Play: https://play.google.com/store/apps/details?id=eu.crystalapps.SuperheroesAcadamy
+Category: Games
+Overview:
+Superheroes Academy is a simulation game where you create and manage your own superhero school. You have to recruit students, train them, and send them on missions to save the world. The game has different challenges and events that affect your school's reputation and success.
+Programming Language: Unknown
+Built-in Frameworks: Unknown
+Launch Date: December 11, 2019
+Downloads: 500,000+
+User Ratings: 4.3 (out of 5.0) based on 18,176 reviews on Google Play
+Developer Information:
+Website: Unknown
+Email: crystalappsgaming@gmail.com
+Pricing: Free with in-app purchases
+}
+
+
+CyberJunk
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=pl.cybermarian.cyberJunk&hl=pl
+Category: Arcade
+Overview: CyberJunk is an arcade game that involves defending the Earth against an alien invasion. The player pilots a spaceship and must destroy various alien spacecraft while avoiding enemy fire. The game features multiple levels and difficulty settings.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: December 13, 2019
+Downloads: 1,000+
+User Ratings: 4.5/5.0 (26 ratings)
+Developer Information: CyberMarian
+Pricing: Free with in-app purchases }
+Rummy
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.ahoygames.rummy&hl=en
+Category: Card
+Overview: Rummy is a card game that can be played solo or with up to four players. Players take turns drawing and discarding cards in order to complete sets and runs of cards. The first player to empty their hand wins the game.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: April 24, 2017
+Downloads: 500,000+
+User Ratings: 4.2/5.0 (22,218 ratings)
+Developer Information: Ahoy Games
+Pricing: Free with in-app purchases }
+Sea of Fame
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=pl.kentooplay.seaoffame
+Category: Adventure
+Overview: Sea of Fame is a pirate-themed adventure game that takes place on the high seas. Players must navigate their ship through dangerous waters, battle other ships, and search for treasure. The game features multiple levels and difficulty settings.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: June 10, 2021
+Downloads: 10,000+
+User Ratings: 4.3/5.0 (220 ratings)
+Developer Information: Kentoo Play
+Pricing: Free with in-app purchases }
+Okey 101
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.ahoygames.Okey101&hl=pl
+Category: Board
+Overview: Okey 101 is a board game similar to Rummy. Players take turns drawing and discarding tiles in order to complete sets and runs. The first player to empty their hand wins the game.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: December 6, 2017
+Downloads: 1,000,000+
+User Ratings: 4.2/5.0 (27,767 ratings)
+Developer Information: Ahoy Games
+Pricing: Free with in-app purchases }
+Wypasione Owce
+{
+
+App Store Link: https://apps.apple.com/pl/app/wypasione-owce/id1137145901?l=pl
+Category: Puzzle
+Overview: Wypasione Owce is a puzzle game in which players must guide sheep through various obstacles in order to reach the end of the level. The game features multiple levels and difficulty settings.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: August 24, 2016
+Downloads: 10,000+
+User Ratings: 4.6/5.0 (184 ratings)
+Developer Information: Artifex Mundi
+Pricing: $1.99
+}
+
+Dot Lands {
+App Store Link: https://play.google.com/store/apps/details?id=in.codehound.dotlands
+Category: Casual
+Overview: Dot Lands is a casual game in which players must guide a character through various obstacles in order to reach the end of the level. The game features multiple levels and difficulty settings.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: June 24, 2020
+Downloads: 10,000+
+User Ratings: 4.6/ 5.0 (766 ratings)
+- Developer Information: CodeHound
+- Pricing: Free with in-app purchases
+
+Contra
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.ht.contra
+Category: Action
+Overview: Contra is an action game in which players control a soldier who must fight through waves of enemy soldiers and bosses. The game features multiple levels and difficulty settings.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: September 6, 2019
+Downloads: 10,000+
+User Ratings: 4.2/5.0 (166 ratings)
+Developer Information: High Touch
+Pricing: Free with in-app purchases }
+Real Extreme SUV Offroad Drive Games Free
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.lf.real.extreme.suv.offroad.drive.games.free
+Category: Racing
+Overview: Real Extreme SUV Offroad Drive Games Free is a racing game in which players must drive an SUV through various off-road courses. The game features multiple vehicles and difficulty settings.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: August 10, 2020
+Downloads: 500,000+
+User Ratings: 4.2/5.0 (4,071 ratings)
+Developer Information: Leading Fun Games
+Pricing: Free with in-app purchases }
+
+
+Slice - Order Pizza Online
+{
+
+App Store Link: https://apps.apple.com/app/apple-store/id866047646
+Category: Food & Drink
+Overview: Slice lets you order pizza from your favorite local pizzeria. You can easily find nearby pizza shops, customize your order, and pay seamlessly through the app.
+Programming Language: Not specified
+Built-in Frameworks (front-end, back-end, database): Not specified
+Launch Date: 2012
+Downloads: Over 10 million
+User Ratings: 4.9/5 (App Store), 4.6/5 (Google Play)
+Developer Information: Slice Technologies, Inc.
+Pricing: Free to download and use
+PHG Driver
+{
+
+App Store Link: N/A (only available on Google Play)
+Category: Business
+Overview: PHG Driver is a delivery app designed for delivery drivers. It allows drivers to receive and manage orders, track their earnings, and view performance metrics.
+Programming Language: Java
+Built-in Frameworks (front-end, back-end, database): Firebase, Google Maps API
+Launch Date: Not specified
+Downloads: Over 50 thousand
+User Ratings: 3.7/5
+Developer Information: Pizza Hut Global (PHG)
+Pricing: Free to download and use
+Tap 2 Play Games
+{
+
+App Store Link: https://apps.apple.com/us/developer/tap2play-llc-ticker-tapm/id1219946891
+Category: Games
+Overview: Tap 2 Play Games is a game development studio that produces a variety of mobile games. Their games range from puzzle games to action games and everything in between.
+Programming Language: Not specified
+Built-in Frameworks (front-end, back-end, database): Not specified
+Launch Date: Not specified
+Downloads: Not specified
+User Ratings: Varies by game
+Developer Information: Tap2Play, LLC
+Pricing: Free to download and use (with in-app purchases)
+World of the Abyss
+{
+
+App Store Link: N/A (only available on Google Play)
+Category: Role Playing
+Overview: World of the Abyss is an action-packed role-playing game set in a dark and dangerous world. Players battle monsters, explore new territories, and collect powerful weapons and armor.
+Programming Language: Java
+Built-in Frameworks (front-end, back-end, database): Unity, Firebase
+Launch Date: 2021
+Downloads: Over 10 thousand
+User Ratings: 3.9/5
+Developer Information: Mad Molly
+Pricing: Free to download and use (with in-app purchases)
+Candy Blast Garden
+{
+
+App Store Link: N/A (only available on Google Play)
+Category: Puzzle
+Overview: Candy Blast Garden is a colorful and addictive puzzle game where players match sweets to progress through levels. The game features hundreds of levels and various game modes.
+Programming Language: Java
+Built-in Frameworks (front-end, back-end, database): Unity, Firebase
+Launch Date: Not specified
+Downloads: Over 100 thousand
+User Ratings: 4.6/5
+Developer Information: Immortal Pony
+Pricing: Free to download and use (with in-app purchases)
+}
+
+Zbenko Games {
+App Store Link: N/A (only available on Google Play)
+Category: Games
+Overview: Zbenko Games is a game development company that produces a variety of mobile games, including puzzle games, racing games, and action games.
+Programming Language: Not specified
+Built-in Frameworks (front-end, back-end, database): Not specified
+Launch Date: Not specified
+Downloads: Over 1 million
+User Ratings: Varies by game
+Developer Information: Zbenko Games
+Pricing: Free to download and use (with in-app purchases)
+Note: Unfortunately, I could not find detailed information for the following app: "https://play.google.com/store/apps/details?id=com.immortalpony.candyblastgarden". However, I have included information for another app from the same developer (Candy Blast Garden) above.
+
+
+Just Block
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.aaaudi.justblock
+Category: Puzzle
+Overview: Just Block is a puzzle game where the objective is to move the red block to the exit by sliding other blocks out of the way. The game has 3 difficulty levels, with hundreds of puzzles to solve.
+Programming Language: Unknown
+Built-in Frameworks (front-end, back-end, database): Unknown
+Launch Date: February 7, 2020
+Downloads: 1M+
+User Ratings: 4.2 stars
+Developer Information: AAA Dudu
+Pricing: Free }
+AccuBow
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.accubow.archery.app
+Category: Sports
+Overview: AccuBow is an archery training app that helps users improve their accuracy and form. The app uses a virtual bow and arrow system that can be adjusted for different draw weights and lengths. The app also features a variety of exercises and games to help users practice their skills.
+Programming Language: Unknown
+Built-in Frameworks (front-end, back-end, database): Unknown
+Launch Date: August 15, 2016
+Downloads: 10K+
+User Ratings: 3.9 stars
+Developer Information: AccuBow
+Pricing: Free
+}
+
+Color Pad Piano Kids Games {
+App Store Link: https://play.google.com/store/apps/details?id=com.vasundharagames.kiddos.play.color.pad.piano
+Category: Education
+Overview: Color Pad Piano is an educational game designed for young children. The app features a virtual keyboard that allows children to play songs using colored tiles. The app also includes a variety of educational games and activities focused on colors, shapes, and music.
+Programming Language: Unknown
+Built-in Frameworks (front-end, back-end, database): Unknown
+Launch Date: May 10, 2015
+Downloads: 1M+
+User Ratings: 4.0 stars
+Developer Information: Vasundhara Game Studios
+Pricing: Free
+}
+
+Puppy Town {
+App Store Link: https://play.google.com/store/apps/details?id=com.cats.puppy.town.game
+Category: Simulation
+Overview: Puppy Town is a simulation game where players build and manage a town full of cute puppies. The game features a variety of buildings and decorations to unlock, as well as mini-games and events to keep players engaged.
+Programming Language: Unknown
+Built-in Frameworks (front-end, back-end, database): Unknown
+Launch Date: November 1, 2020
+Downloads: 10M+
+User Ratings: 4.6 stars
+Developer Information: Cats Games
+Pricing: Free
+}
+
+Brain Match Puzzle {
+App Store Link: https://play.google.com/store/apps/details?id=com.pair.match.brain.challenge.puzzle
+Category: Puzzle
+Overview: Brain Match Puzzle is a puzzle game where the objective is to match pairs of objects within a time limit. The game features multiple levels with increasing difficulty, as well as special power-ups to help players along the way.
+Programming Language: Unknown
+Built-in Frameworks (front-end, back-end, database): Unknown
+Launch Date: December 18, 2020
+Downloads: 500K+
+User Ratings: 4.3 stars
+Developer Information: BigStar Games
+Pricing: Free
+}
+
+Math Games {
+App Store Link: https://play.google.com/store/apps/details?id=com.maths.games.add.subtract.multiply.divide
+Category: Education
+Overview: Math Games is an educational app designed to help children improve their math skills. The app features a variety of games and activities focused on addition, subtraction, multiplication, and division.
+Programming Language: Unknown
+Built-in Frameworks (front-end, back-end, database): Unknown
+Launch Date: September 15, 2017
+Downloads: 1M+
+User Ratings: 4.2 stars
+Developer Information: RV AppStudios
+Pricing: Free
+}
+
+Spelling Games for Kids {
+App Store Link: https://play.google.com/store/apps/details?id=com.spelling.matching.kids.education.object.images
+Category: Education
+Overview: Spelling Games for Kids is an educational app that helps children improve their spelling skills. The app features a variety of games and activities focused on phonics, vocabulary, and word recognition. It also includes a pronunciation feature to help children learn how to spell words correctly.
+- Programming Language: Unknown
+- Built-in Frameworks (front-end, back-end, database): Unknown
+- Launch Date: January 25, 2019
+- Downloads: 500K+
+- User Ratings: 3.7 stars
+- Developer Information: RV AppStudios
+- Pricing: Free
+
+}
+
+Sudoku Puzzle {
+App Store Link: https://play.google.com/store/apps/details?id=com.sudoku.number.crossword.brain.classic.puzzle.kids
+Category: Puzzle
+Overview: Sudoku Puzzle is a classic puzzle game where players fill in a grid with numbers so that each column, row, and sub-grid contains all of the digits from 1 to 9. The app features multiple difficulty levels, as well as hints and undo/redo buttons to help players solve the puzzles.
+Programming Language: Unknown
+Built-in Frameworks (front-end, back-end, database): Unknown
+Launch Date: December 22, 2020
+Downloads: 50K+
+User Ratings: 4.2 stars
+Developer Information: BigStar Games
+Pricing: Free
+}
+
+
+
+Drop the Number: Merge Puzzle
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.numbers.puzzle.game.drop.casual.ball2048
+Category: Puzzle, Casual
+Overview: Drop the Number is a fun and challenging puzzle game where the player must merge numbered balls to reach the target number. The game features various game modes and difficulty levels to keep players engaged.
+Programming Language: Not specified
+Built-in Frameworks: Not specified
+Launch Date: January 28, 2019
+Downloads: Over 10 million
+User Ratings: 4.5 stars (out of 5) on Google Play Store based on over 135,000 ratings
+Developer Information:
+Developer Name: Popcore Games
+Email: support@popcore.com
+Website: https://www.popcore.com/
+Pricing: Free with in-app purchases }
+Balls Bricks Breaker - Stack Blast
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.balls.bricks.breaker.shoot.balls
+Category: Arcade
+Overview: Balls Bricks Breaker is an addictive arcade game where players shoot balls to break bricks and clear levels. The game features power-ups and various challenges to keep players engaged.
+Programming Language: Not specified
+Built-in Frameworks: Not specified
+Launch Date: October 11, 2018
+Downloads: Over 10 million
+User Ratings: 4.3 stars (out of 5) on Google Play Store based on over 245,000 ratings
+Developer Information:
+Developer Name: Arcade Game Maker
+Email: arcadegamemaker.contact@gmail.com
+Website: Not specified
+Pricing: Free with in-app purchases }
+Zombie Shooter: Survive the undead outbreak
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.zombie.shooter.survives.killing.hunter.dead
+Category: Action, Shooter
+Overview: Zombie Shooter is an action-packed shooter game where players must survive a zombie outbreak by killing zombies and completing objectives. The game features various weapons and upgrades to help players progress.
+Programming Language: Not specified
+Built-in Frameworks: Not specified
+Launch Date: December 6, 2018
+Downloads: Over 10 million
+User Ratings: 4.0 stars (out of 5) on Google Play Store based on over 120,000 ratings
+Developer Information:
+Developer Name: ONESOFT
+Email: onesoftgames@gmail.com
+Website: http://www.onesoft.com.vn/
+Pricing: Free with in-app purchases }
+Bottle Shoot
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.bottle.shoot.stone.gun.fire.games
+Category: Casual, Simulation
+Overview: Bottle Shoot is a simple and fun game where players shoot bottles with a variety of guns. The game features realistic physics and sound effects to enhance the gameplay experience.
+Programming Language: Not specified
+Built-in Frameworks: Not specified
+Launch Date: February 22, 2019
+Downloads: Over 5 million
+User Ratings: 4.1 stars (out of 5) on Google Play Store based on over 35,000 ratings
+Developer Information:
+Developer Name: Million games
+Email: support@milliongames.in
+Website: http://www.milliongames.in/
+Pricing: Free with in-app purchases }
+Kids Learning Alphabet & Numbers - Educational Games
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.kids.learning.alphabet.numbers.educational.games
+Category: Education, Kids
+Overview: Kids Learning Alphabet & Numbers is an educational app that helps kids learn the alphabet, numbers, and basic math skills through fun activities and games. The app features various levels and challenges to keep kids engaged.
+Programming Language: Not specified
+Built-in Frameworks: Not specified
+Launch Date: August 16, 2019
+Downloads: Over 1 million
+User Ratings: 4.1 stars (out of 5) on Google Play Store based on over 4,000 ratings
+Developer Information:
+Developer Name: Greysprings
+Email: support@greysprings.com
+Website: https://www.greysprings.com/
+Pricing: Free with in-app purchases
+}
+
+Cross Words Puzzle - Search, Connect and Guess
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.cross.words.puzzle.search.connect.logic
+Category: Word, Puzzle
+Overview: Cross Words Puzzle is a word game where players connect letters to form words and solve crossword puzzles. The game features various levels and categories to keep players engaged.
+Programming Language: Not specified
+Built-in Frameworks: Not specified
+Launch Date: August 26, 2019
+Downloads: Over 1 million
+User Ratings: 4.6 stars (out of 5) on Google Play Store based on over 13,000 ratings
+Developer Information:
+Developer Name: Gamejam
+Email: support@gamejam.co
+Website: https://www.gamejam.co/
+Pricing: Free with in-app purchases }
+Tank Games - Iron Force
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.tank.games.fight.weapon.shooting.army
+Category: Action, Strategy
+Overview: Tank Games is a strategy game where players control tanks and battle against enemy tanks to complete objectives. The game features various tanks and upgrades to help players progress.
+Programming Language: Not specified
+Built-in Frameworks: Not specified
+Launch Date: November 30, 2018
+Downloads: Over 1 million
+User Ratings: 3.9 stars (out of 5) on Google Play Store based on over 20,000 ratings
+Developer Information:
+Developer Name: ONESOFT
+Email: onesoftgames@gmail.com
+Website: http://www.onesoft.com.vn/
+Pricing: Free with in-app purchases }
+Bubble Shooter Balls: Color Puzzle
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.bubble.shooter.balls.color.puzzle
+Category: Casual, Puzzle
+Overview: Bubble Shooter Balls is a fun and addictive puzzle game where players shoot bubbles to match colors and clear levels. The game features various power-ups and challenges to keep players engaged.
+Programming Language: Not specified
+Built-in Frameworks: Not specified
+Launch Date: February 6, 2019
+Downloads: Over 1 million
+User Ratings: 4.3 stars (out of 5) on Google Play Store based on over 8,000 ratings
+Developer Information:
+Developer Name: CookApps
+Email: support@cookapps.com
+Website: https://www.cookapps.com/
+Pricing: Free with in-app purchases }
+
+
+Color Bump 3D
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.color.bump.balls.touch.marble.jump
+Category: Arcade, Puzzle
+Overview: Color Bump 3D is a simple but challenging game in which you have to guide a ball through a 3D maze by tapping the screen to make it jump over obstacles and avoid traps. The game features simple yet stunning graphics and a relaxing soundtrack, making it easy to pick up but hard to put down.
+Programming Language: Unity
+Built-in Frameworks: Unity (front-end)
+Launch Date: May 2018
+Downloads: 100M+
+User Ratings: 4.0/5.0 (2.1M ratings)
+Developer Information: Good Job Games
+Pricing: Free with in-app purchases }
+Dancing Ballz: Magic Dance Line Tiles Game
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.tiles.dancing.ball.color.light.song.game
+Category: Music, Arcade
+Overview: Dancing Ballz is a rhythm-based game in which you have to tap the screen to steer a ball through a path of tiles that are synchronized with the beat of the music. The game features a variety of songs and difficulty levels, as well as different colored balls and themes.
+Programming Language: C#
+Built-in Frameworks: Unity (front-end)
+Launch Date: December 2017
+Downloads: 50M+
+User Ratings: 4.2/5.0 (1.1M ratings)
+Developer Information: AMANOTES PTE LTD
+Pricing: Free with in-app purchases }
+Fruit Shoot Archery
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.fruit.shoot.archery.arrow.games
+Category: Arcade, Sports
+Overview: Fruit Shoot Archery is a fun and addictive game in which you have to aim and shoot arrows at fruits that are hanging from a tree. The game features simple yet colorful graphics and a variety of different fruit targets, as well as power-ups and special abilities.
+Programming Language: Java
+Built-in Frameworks: Unity (front-end)
+Launch Date: May 2018
+Downloads: 10M+
+User Ratings: 4.0/5.0 (126K ratings)
+Developer Information: Gun Fire Studio
+Pricing: Free with in-app purchases }
+Trivia Quiz
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.fantasy.trivia.questions.answers.game
+Category: Trivia, Education
+Overview: Trivia Quiz is a fun and challenging game in which you have to answer multiple-choice questions from a variety of categories, including sports, history, science, and more. The game features over 1000 questions and a variety of game modes, as well as lifelines and hints to help you out.
+Programming Language: Java
+Built-in Frameworks: Android SDK (front-end), Firebase (back-end, database)
+Launch Date: May 2020
+Downloads: 1M+
+User Ratings: 4.7/5.0 (15K ratings)
+Developer Information: Fantasy Word Games
+Pricing: Free with in-app purchases }
+Ludo Club - Fun Dice Game
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.mindi.cote.online.multiplayer
+Category: Board, Multiplayer
+Overview: Ludo Club is a digital version of the classic board game in which you have to race your four tokens from start to finish according to rolls of a single die. The game features online multiplayer modes as well as offline play against AI opponents, as well as various customization options.
+Programming Language: Java
+Built-in Frameworks: Android SDK (front-end), Firebase (back-end, database)
+Launch Date: April 2020
+Downloads: 10M+
+User Ratings: 4.2/5.0 (475K ratings)
+Developer Information: Moonfrog
+Pricing: Free with in-app purchases }
+Number Link - Logic Puzzle Game
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.number.chain.connect.logic.puzzle.pattern
+Category: Puzzle, Brain Games
+Overview: Number Link is a challenging puzzle game in which you have to connect pairs of matching numbers with pipes without crossing or overlapping any of the other pipes on the board. The game eatures over 800 levels with increasing difficulty, as well as various board sizes and game modes.
+Programming Language: Java
+Built-in Frameworks: Android SDK (front-end)
+Launch Date: March 2019
+Downloads: 5M+
+User Ratings: 4.3/5.0 (38K ratings)
+Developer Information: XLsoft
+Pricing: Free with in-app purchases
+}
+
+Baby Phone - Educational Games for Kids
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.baby.phone.educational.games.kids.toy
+Category: Education, Kids
+Overview: Baby Phone is an educational game designed for young children to learn about numbers, animals, colors, and more through interactive activities such as playing music, dialing a phone, and drawing. The game features colorful graphics and engaging sounds to keep kids entertained while they learn.
+Programming Language: Unity
+Built-in Frameworks: Unity (front-end), Firebase (back-end, database)
+Launch Date: August 2019
+Downloads: 1M+
+User Ratings: 4.6/5.0 (11K ratings)
+Developer Information: RV AppStudios
+Pricing: Free with in-app purchases }
+Burger Chef: Cooking Game
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.burger.cook.food.kitchen.chef.puzzle
+Category: Simulation, Puzzle
+Overview: Burger Chef is a cooking game in which you have to run your own burger restaurant by preparing and serving orders to customers. The game features a variety of ingredients and recipes, as well as different challenges and goals to meet as you progress through the levels.
+Programming Language: Unity
+Built-in Frameworks: Unity (front-end)
+Launch Date: November 2017
+Downloads: 10M+
+User Ratings: 4.4/5.0 (225K ratings)
+Developer Information: GameHouse Original Stories
+Pricing: Free with in-app purchases }
+Word Connect - Word Search Games
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.word.search.connect.finder.puzzle.link
+Category: Puzzle, Word Games
+Overview: Word Connect is a fun and challenging word search game in which you have to find hidden words by connecting letters on a board. The game features over 3000 levels with increasing difficulty, as well as daily challenges and rewards.
+Programming Language: Java
+Built-in Frameworks: Android SDK (front-end), Firebase (back-end, database)
+Launch Date: September 2018
+Downloads: 10M+
+User Ratings: 4.6/5.0 (704K ratings)
+Developer Information: ZenLife Games
+Pricing: Free with in-app purchases }
+Ball Blast - Jump Ball & Bounce Ball Games
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.ball.blast.jump.bounce.shoot.fire
+Category: Arcade, Action
+Overview: Ball Blast is an addictive game in which you have to shoot balls at blocks to destroy them and avoid being hit by falling debris. The game features a variety of power-ups and upgrades, as well as different levels and bosses to defeat.
+Programming Language: Unity
+Built-in Frameworks: Unity (front-end)
+Launch Date: June 2019
+Downloads: 10M+
+User Ratings: 4.4/5.0 (122K ratings)
+Developer Information: ONESOFT
+Pricing: Free with in-app purchases }
+
+
+Stickman Gun Fight Shooter Games
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.stickman.gun.fight.shooter.games
+Category: Action
+Overview: Stickman Gun Fight Shooter Games is an action-packed game where players battle against enemy stickmen with guns. The game features various levels and challenges, including boss battles, and allows players to upgrade their weapons and equipment as they progress.
+Programming Language: Not disclosed
+Built-in Frameworks (front-end, back-end, database): Not disclosed
+Launch Date: October 9, 2019
+Downloads: 10,000,000+
+User Ratings: 4.2/5 (134,804 ratings)
+Developer Information: Doodle Mobile Ltd.
+Pricing: Free with in-app purchases }
+Basket Ball Shoot Dunk Hitting Mania
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.basket.ball.shoot.dunk.hitting.mania
+Category: Sports
+Overview: Basket Ball Shoot Dunk Hitting Mania is a basketball game where players aim to score baskets by shooting the ball into the hoop. The game features various levels and challenges, including different modes of play, such as time attack and accuracy challenge.
+Programming Language: Not disclosed
+Built-in Frameworks (front-end, back-end, database): Not disclosed
+Launch Date: January 24, 2020
+Downloads: 10,000,000+
+User Ratings: 4.1/5 (50,193 ratings)
+Developer Information: Timuz Games
+Pricing: Free with in-app purchases }
+Cat Grooming Pet Life Care Game
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.cat.grooming.pet.life.care.game
+Category: Simulation
+Overview: Cat Grooming Pet Life Care Game is a simulation game where players take care of cats by feeding them, grooming them and playing with them. The game features various levels and challenges, including different types of cats to care for.
+Programming Language: Not disclosed
+Built-in Frameworks (front-end, back-end, database): Not disclosed
+Launch Date: June 22, 2020
+Downloads: 5,000,000+
+User Ratings: 4.2/5 (13,941 ratings)
+Developer Information: Mini Play
+Pricing: Free with in-app purchases }
+Roll the Ball Games 3D Rolling Ball Balance
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.roll.the.ball.games3d.rollingball.balance
+Category: Puzzle
+Overview: Roll the Ball Games 3D Rolling Ball Balance is a puzzle game where players must guide a ball through various obstacles and mazes to reach the end goal. The game features various levels and challenges, including different types of obstacles and mazes to navigate.
+Programming Language: Not disclosed
+Built-in Frameworks (front-end, back-end, database): Not disclosed
+Launch Date: April 3, 2020
+Downloads: 10,000,000+
+User Ratings: 4.2/5 (23,966 ratings)
+Developer Information: Words Mobile
+Pricing: Free with in-app purchases }
+Relief Stress Slime Calm Satisfying Game
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.relief.stress.slime.calm.satisfying.game
+Category: Casual
+Overview: Relief Stress Slime Calm Satisfying Game is a casual game where players can relieve stress by playing with virtual slime. The game features various types of slime and allows players to customize their slime with different colors and textures.
+Programming Language: Not disclosed
+Built-in Frameworks (front-end, back-end, database): Not disclosed
+Launch Date: August 15, 2020
+Downloads: 5,000,000+
+User Ratings: 4.3/5 (38,945 ratings)
+Developer Information: Super Tapx
+Pricing: Free with in-app purchases }
+Color Tap - Color Switch Endless Emoji Game
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.color.tap.colorswitchs.endless.emoji.game
+Category: Casual
+Overview: Color Tap - Color Switch Endless Emoji Game is a casual game where players must tap the screen to switch the color of the emoji to match the color of the obstacles. The game features various levels and challenges, including different modes of play such as time attack and endless mode.
+Programming Language: Not disclosed
+Built-in Frameworks (front-end, back-end, database): Not disclosed
+Launch Date: December 3, 2020
+Downloads: 1,000,000+
+User Ratings: 4.3/5 (6,766 ratings)
+Developer Information: Super Tapx
+Pricing: Free with in-app purchases	
+}
+
+Bike Stunt Trails Tricks Master Fusion
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.bike.stunt.trails.tricks.master.fusion
+Category: Racing
+Overview: Bike Stunt Trails Tricks Master Fusion is a motorcycle racing game where players perform stunts and tricks to earn points and win races. The game features various levels and challenges, including different types of bikes and tracks to race on.
+Programming Language: Not disclosed
+Built-in Frameworks (front-end, back-end, database): Not disclosed
+Launch Date: February 12, 2020
+Downloads: 10,000,000+
+User Ratings: 4.2/5 (117,357 ratings)
+Developer Information: Timuz Games
+Pricing: Free with in-app purchases }
+Car Stunts Extreme Driving Simulator Impossible
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.car.stunts.extreme.driving.simulator.impossible
+Category: Racing
+Overview: Car Stunts Extreme Driving Simulator Impossible is a car racing game where players perform stunts and tricks to earn points and win races. The game features various levels and challenges, including different types of cars and tracks to race on.
+Programming Language: Not disclosed
+Built-in Frameworks (front-end, back-end, database): Not disclosed
+Launch Date: September 28, 2019
+Downloads: 10,000,000+
+User Ratings: 4.2/5 (117,357 ratings)
+Developer Information: Game Pickle
+Pricing: Free with in-app purchases }
+Racing Moto Traffic Motorbike Game Motorcycle 3D
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.racing.moto.traffic.motorbike.game.motorcycle3d
+Category: Racing
+Overview: Racing Moto Traffic Motorbike Game Motorcycle 3D is a motorcycle racing game where players race against traffic and perform stunts to earn points and win races. The game features various levels and challenges, including different types of bikes and tracks to race on.
+Programming Language: Not disclosed
+Built-in Frameworks (front-end, back-end, database): Not disclosed
+Launch Date: August 29, 2018
+Downloads: 100,000,000+
+User Ratings: 4.1/5 (526,809 ratings)
+Developer Information: Play365
+Pricing: Free with in-app purchases }
+Rise Up - Balloon Air Fly Save Protect
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.riseup.balloon.air.fly.save.protect
+Category: Casual
+Overview: Rise Up - Balloon Air Fly Save Protect is a casual game where players must protect a balloon from obstacles by tapping the screen to make it rise up. The game features various levels and challenges, including different types of obstacles and power-ups to help the player.
+Programming Language: Not disclosed
+Built-in Frameworks (front-end, back-end, database): Not disclosed
+Launch Date: March 8, 2018
+Downloads: 100,000,000+
+User Ratings: 4.2/5 (1,251,910 ratings)
+Developer Information: Serkan Özyılmaz
+Pricing: Free with in-app purchases }
+
+
+Traffic Racer - Speed Racing {
+App Store Link: https://play.google.com/store/apps/details?id=com.car.racing.traffic.speed.racer.stunt
+Category: Racing
+Overview: Traffic Racer - Speed Racing is a popular racing game that allows players to drive their cars on endless highways and compete with other racers. The game has stunning graphics, multiple cars and tracks to choose from, and various modes to play in.
+Programming Language: Unity (C#)
+Built-in Frameworks: Unity Engine and Photon Networking for multiplayer
+Launch Date: November 12, 2018
+Downloads: Over 50 million downloads on Google Play Store
+User Ratings: 4.3 stars (out of 5) with over 2 million ratings on Google Play Store
+Developer Information: Soner Kara
+Pricing: Free with in-app purchases
+}
+
+Highway Traffic Rider - Bike Racing Game {
+App Store Link: https://play.google.com/store/apps/details?id=com.highway.traffic.rider.bike.racing3d
+Category: Racing
+Overview: Highway Traffic Rider is a motorbike racing game that offers an immersive racing experience with realistic graphics and physics. The game offers different modes to play in, including time attack, police chase, and free ride, and features multiple bikes and environments to choose from.
+Programming Language: Unity (C#)
+Built-in Frameworks: Unity Engine and Photon Networking for multiplayer
+Launch Date: October 11, 2018
+Downloads: Over 10 million downloads on Google Play Store
+User Ratings: 4.2 stars (out of 5) with over 800k ratings on Google Play Store
+Developer Information: ZipZap Games
+Pricing: Free with in-app purchases
+}
+
+Offroad Truck Driving Simulator - Heavy Cargo Games {
+App Store Link: https://play.google.com/store/apps/details?id=com.truck.simulator.drive.games.offroad.heavy
+Category: Simulation
+Overview: Offroad Truck Driving Simulator is a realistic truck driving game that offers an immersive off-road driving experience with various challenges and missions. The game features multiple trucks to choose from and different terrains to drive on, including mountains, forests, and deserts.
+Programming Language: Unity (C#)
+Built-in Frameworks: Unity Engine and Photon Networking for multiplayer
+Launch Date: June 25, 2018
+Downloads: Over 10 million downloads on Google Play Store
+User Ratings: 4.0 stars (out of 5) with over 250k ratings on Google Play Store
+Developer Information: Racing Games Android - Appsoleut Games
+Pricing: Free with in-app purchases
+}
+
+Car Parking Simulator: Classic Vintage Cars {
+App Store Link: https://play.google.com/store/apps/details?id=com.car.parking.simulator.bike.driving.school
+Category: Simulation
+Overview: Car Parking Simulator is a classic car parking game that offers an enjoyable driving and parking experience with vintage cars. The game features realistic physics and controls, multiple camera angles, and challenging levels to complete.
+Programming Language: Unity (C#)
+Built-in Frameworks: Unity Engine
+Launch Date: June 19, 2018
+Downloads: Over 1 million downloads on Google Play Store
+User Ratings: 4.1 stars (out of 5) with over 40k ratings on Google Play Store
+Developer Information: Oppana Games
+Pricing: Free with in-app purchases
+}
+
+Road Racing: Extreme Traffic Rider {
+App Store Link: https://play.google.com/store/apps/details?id=com.road.racing.speed.bike.car.game
+Category: Racing
+Overview: Road Racing is an extreme traffic racing game that offers an adrenaline-fueled racing experience with high-speed bikes and cars. The game features smooth graphics, realistic physics, and multiple modes to play in.
+Programming Language: Unity (C#)
+Built-in Frameworks: Unity Engine and Photon Networking for multiplayer
+Launch Date: October 17, 2018
+Downloads: Over 5 million downloads on Google Play Store
+User Ratings: 4.3 stars (out of 5) with over 120k ratings on Google Play Store
+Developer Information: Best Free Games Ltd
+Pricing: Free with in-app purchases
+}
+
+Offroad Monster Truck Game - Racing Games {
+App Store Link: https://play.google.com/store/apps/details?id=com.monster.truck.racing.game.offroad
+- Category: Racing
+- Overview: Offroad Monster Truck Game is a racing game that offers an action-packed off-road racing experience with monster trucks. The game features multiple trucks to choose from, different terrains to race on, and various modes to play in, including time trial, elimination, and free ride.
+- Programming Language: Unity (C#)
+- Built-in Frameworks: Unity Engine and Photon Networking for multiplayer
+- Launch Date: June 29, 2018
+- Downloads: Over 10 million downloads on Google Play Store
+- User Ratings: 4.2 stars (out of 5) with over 160k ratings on Google Play Store
+- Developer Information: Integer Free Games
+- Pricing: Free with in-app purchases
+
+}
+
+Car Crash Simulator - Beam Damage Next Generation {
+App Store Link: https://play.google.com/store/apps/details?id=com.car.crash.simulator.with.beam.damage
+Category: Simulation
+Overview: Car Crash Simulator is a realistic car crash simulation game that allows players to experience the thrill and destruction of car crashes without any real-world consequences. The game features stunning graphics and physics, multiple cars to crash, and different scenarios to play in.
+Programming Language: Unity (C#)
+Built-in Frameworks: Unity Engine
+Launch Date: September 17, 2021
+Downloads: Over 1 million downloads on Google Play Store
+User Ratings: 3.8 stars (out of 5) with over 5k ratings on Google Play Store
+Developer Information: Oppana Games
+Pricing: Free with in-app purchases
+}
+
+Sudo Block Puzzle {
+App Store Link: https://play.google.com/store/apps/details?id=com.sudoblocku
+Category: Puzzle
+Overview: Sudo Block Puzzle is a challenging puzzle game that tests players' logic and problem-solving skills. The game features different levels of difficulty, multiple game modes, and various block shapes to fit in the grid.
+Programming Language: Unity (C#)
+Built-in Frameworks: Unity Engine
+Launch Date: September 22, 2020
+Downloads: Over 100k downloads on Google Play Store
+User Ratings: 4.5 stars (out of 5) with over 700 ratings on Google Play Store
+Developer Information: Gamejam Co.
+Pricing: Free with in-app purchases
+}
+
+MousaVerse {
+App Store Link: https://apps.apple.com/mx/app/mousaverse/id6444222691?l=en
+Category: Social Networking
+Overview: MousaVerse is a social networking app that allows users to create their own virtual worlds and connect with other users in real-time. The app features different tools to customize the world, including building blocks, textures, and effects, and offers various privacy settings to control who can access the world.
+Programming Language: Swift
+Built-in Frameworks: Firebase for backend and storage
+Launch Date: June 1, 2021
+Downloads: Not available
+User Ratings: Not available
+Developer Information: Mousa Elshatanoufy
+Pricing: Free with in-app purchases
+
+
+FE File Explorer {
+App Store Link: https://play.google.com/store/apps/details?id=com.belkatechnologies.fe&hl=ru&gl=US
+Category: Productivity
+Overview: FE File Explorer is a powerful file manager app for Android devices that allows you to manage your files and folders in an easy and efficient way. It features a clean and intuitive user interface, support for multiple cloud storage services, and a wide range of advanced features such as file compression, encryption, and more.
+Programming Language: Java
+Built-in Frameworks (front-end, back-end, database): Android SDK, SQLite
+Launch Date: August 7, 2014
+Downloads: Over 10 million
+User Ratings: 4.3 out of 5 stars (based on 206,727 reviews)
+Developer Information: Developed by Skyjos Co., Ltd.
+Pricing: Free with in-app purchases
+}
+
+Pocket Starships - PvP Arena: Space Shooter MMO {
+App Store Link: https://play.google.com/store/apps/details?id=air.com.spectaclegames.pocketstarships&hl=ru&gl=US
+Category: Role Playing
+Overview: Pocket Starships is a massively multiplayer online (MMO) game that lets you explore the galaxy, battle other players, and build your own space fleet. The game features real-time battles, cooperative gameplay, customizable spaceships, and a variety of different game modes.
+Programming Language: ActionScript
+Built-in Frameworks (front-end, back-end, database): Adobe AIR, SmartFoxServer, MySQL
+Launch Date: August 23, 2016
+Downloads: Over 1 million
+User Ratings: 4.1 out of 5 stars (based on 14,434 reviews)
+Developer Information: Developed by Spectacle Games Publishing Inc.
+Pricing: Free with in-app purchases
+}
+
+MetaRun {
+App Store Link: https://play.google.com/store/apps/details?id=com.metarun.game
+Category: Casual
+Overview: MetaRun is a fast-paced, arcade-style game that challenges you to run as far as you can while avoiding obstacles and collecting coins. The game features simple one-touch controls, colorful graphics, and addictive gameplay.
+Programming Language: C#
+Built-in Frameworks (front-end, back-end, database): Unity
+Launch Date: October 16, 2018
+Downloads: Over 1 million
+User Ratings: 4.2 out of 5 stars (based on 12,921 reviews)
+Developer Information: Developed by Ketchapp
+Pricing: Free with in-app purchases
+}
+
+Reading World - Kids Stories & Phonics Learning {
+App Store Link: https://play.google.com/store/apps/details?id=com.tinyivy.readingworld
+Category: Education
+Overview: Reading World is an educational app for kids that helps them learn to read through interactive stories and phonics lessons. The app features a variety of different stories and activities, as well as a progress tracker to help parents monitor their child's learning.
+Programming Language: Java
+Built-in Frameworks (front-end, back-end, database): Android SDK, SQLite
+Launch Date: November 19, 2019
+Downloads: Over 10,000
+User Ratings: 4.0 out of 5 stars (based on 50 reviews)
+Developer Information: Developed by TinyIvy Limited
+Pricing: Free with in-app purchases
+}
+
+Farm Day Village Farming Games {
+App Store Link: https://play.google.com/store/apps/details?id=com.bag.farm.day.village.farming.games
+Category: Casual
+Overview: Farm Day is a farming game that lets you build and manage your own farm, grow crops, raise animals, and harvest resources. The game features colorful graphics, easy-to-learn gameplay, and a relaxing atmosphere.
+Programming Language: Java
+Built-in Frameworks (front-end, back-end, database): Android SDK, SQLite
+Launch Date: February 20, 2020
+Downloads: Over 1 million
+User Ratings: 4.3 out of 5 stars (based on 8,224 reviews)
+Developer Information: Developed by Best Art Studios
+Pricing: Free with in-app purchases
+}
+
+Pong Challenge {
+App Store Link: https://play.google.com/store/apps/details?id=com.prestogames.pongchallenge
+Category: Arcade
+Overview: Pong Challenge is a modern take on the classic arcade game Pong. The game features single-player and multiplayer modes, multiple difficulty levels, and a variety of different play styles and power-ups to keep things interesting.
+Programming Language: C#
+Built-in Frameworks (front-end, back-end, database): Unity
+Launch Date: January 11, 2019
+Downloads: Over 100,000
+User Ratings: 4.2 out of 5 stars (based on 1,490 reviews)
+Developer Information: Developed by Presto Games
+Pricing: Free with in-app purchases
+}
+
+Drift Car Arena Mayhem {
+App Store Link: https://play.google.com/store/apps/details?id=com.gss.drift.car.arena.mayhem
+Category: Racing
+Overview: Drift Car Arena Mayhem is a fast-paced, action-packed racing game that lets you drift around corners, race against other players, and customize your car to your liking. The game features realistic physics, challenging tracks, and a variety of different game modes.
+Programming Language: C#
+Built-in Frameworks (front-end, back-end, database): Unity
+Launch Date: July 17, 2020
+Downloads: Over 500,000
+User Ratings: 3.9 out of 5 stars (based on 3,148 reviews)
+Developer Information: Developed by Play365
+Pricing: Free with in-app purchases
+}
+
+Poker Pro - Texas Holdem Online {
+App Store Link: https://play.google.com/store/apps/details?id=com.suicidepoker.pro.multiplayer.online.poker.games&hl=en
+Category: Card
+Overview: Poker Pro is an online multiplayer Texas Hold'em poker game that lets you play against other players from around the world. The game features a variety of different tables and tournaments, customizable avatars, and a range of different buy-in levels.
+Programming Language: Java
+Built-in Frameworks (front-end, back-end, database): Android SDK, SQLite
+Launch Date: December 14, 2017
+Downloads: Over 1 million
+User Ratings: 4.2 out of 5 stars (based on 17,936 reviews)
+Developer Information: Developed by Suicide Poker Games
+Pricing: Free with in-app purchases
+}
+
+Ballz {
+App Store Link: https://play.google.com/store/apps/details?id=com.ketchapp.ballz&hl=en
+Category: Casual
+Overview: Ballz is a simple but addictive game that challenges you to break as many bricks as possible using a set of balls. The game features minimalist graphics, intuitive gameplay, and endless replayability.
+Programming Language: C#
+Built-in Frameworks (front-end, back-end, database): Unity
+Launch Date: March 23, 2017
+Downloads: Over 50 million
+User Ratings: 4.2 out of 5 stars (based on 1,111,653 reviews)
+Developer Information: Developed by Ketchapp
+Pricing: Free with in-app purchases
+}
+
+
+AirXFight
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.falcons.airxfight
+Category: Action
+Overview: AirXFight is a 3D air combat game that lets you pilot advanced aircraft and engage in thrilling battles. You can choose from different planes and weapons, and complete challenging missions to unlock new content.
+Programming Language: Unknown
+Built-in Frameworks: Unity (game engine)
+Launch Date: September 2019
+Downloads: 100,000+
+User Ratings: 4.6 (Google Play)
+Developer Information: Falcon Studios
+Pricing: Free with in-app purchases }
+Robinhood - Investment & Trading, Commission-free
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.falcon.robinhood
+Category: Finance
+Overview: Robinhood is an investment app that allows you to buy and sell stocks, ETFs, options, and cryptocurrencies without paying commission fees. You can also track market data, set up price alerts, and customize your watchlist.
+Programming Language: Unknown
+Built-in Frameworks: Unknown
+Launch Date: March 2015
+Downloads: 10,000,000+
+User Ratings: 4.3 (Google Play)
+Developer Information: Robinhood Markets, Inc.
+Pricing: Free
+}
+
+Second Coming of Christ {
+App Store Link: https://apps.apple.com/ua/app/second-coming-of-christ/id1494663732?l=ru
+Category: Books
+Overview: Second Coming of Christ is an app that contains the full text of the book "The Second Coming of Christ: The Resurrection of the Christ Within You" by Paramahansa Yogananda. The book offers insights and guidance on spiritual awakening and self-realization.
+Programming Language: Unknown
+Built-in Frameworks: Unknown
+Launch Date: January 2020
+Downloads: 1,000+
+User Ratings: 4.7 (App Store)
+Developer Information: Self-Realization Fellowship
+Pricing: $9.99
+}
+
+Beyblade Spinner Game - Top Free Offline Games {
+App Store Link: Not available on iOS
+Category: Action
+Overview: Beyblade Spinner Game is a simple arcade game where you control a spinning top and try to knock out other tops in an arena. The game features different Beyblade models and arenas, and allows you to upgrade your equipment and customize your spinners.
+Programming Language: Unknown
+Built-in Frameworks: Unity (game engine)
+Launch Date: May 2019
+Downloads: 1,000,000+
+User Ratings: 4.0 (Google Play)
+Developer Information: MMDEVS Mobile Games
+Pricing: Free with in-app purchases
+}
+
+Guess The Shape - Quiz Brain Game {
+App Store Link: Not available on iOS
+Category: Puzzle
+Overview: Guess The Shape is a trivia game where you have to identify different shapes based on clues and hints. The game features multiple levels of difficulty and various categories of shapes, such as animals, objects, and logos.
+Programming Language: Unknown
+Built-in Frameworks: Unity (game engine)
+Launch Date: November 2019
+Downloads: 100,000+
+User Ratings: 4.2 (Google Play)
+Developer Information: MMDEVS Mobile Games
+Pricing: Free with in-app purchases
+}
+
+Tower One - Brain Game {
+App Store Link: Not available on iOS
+Category: Puzzle
+Overview: Tower One is a puzzle game where you have to build a tower using blocks of different shapes and sizes. The game features multiple levels with increasing difficulty, and allows you to compete with other players for high scores.
+Programming Language: Unknown
+Built-in Frameworks: Unity (game engine)
+Launch Date: December 2018
+Downloads: 100,000+
+User Ratings: 4.2 (Google Play)
+Developer Information: The Finger Fighters
+Pricing: Free with in-app purchases
+}
+
+Idle Transport Tycoon - Truck Empire {
+App Store Link: https://play.google.com/store/apps/details?id=com.Transport.Idle
+Category: Simulation
+Overview: Idle Transport Tycoon is a business simulation game where you manage a transport company and try to expand your empire by buying and upgrading trucks, hiring drivers, and expanding your network of cities and warehouses. The game features multiple types of cargo, various upgrades and boosts, and allows you to compete with other players for the highest profits.
+- Programming Language: Unknown
+- Built-in Frameworks: Unity (game engine)
+- Launch Date: December 2018
+- Downloads: 1,000,000+
+- User Ratings: 4.3 (Google Play)
+- Developer Information: Neon Play
+- Pricing: Free with in-app purchases
+
+}
+
+Snake Truck Wars - Snake.io Battle Royale {
+App Store Link: Not available on iOS
+Category: Arcade
+Overview: Snake Truck Wars is a fun arcade game where you control a snake-like truck and try to collect food while avoiding other trucks and obstacles. The game features various power-ups, skins, and bonuses, and allows you to play against other players in real-time battles.
+Programming Language: Unknown
+Built-in Frameworks: Unity (game engine)
+Launch Date: August 2020
+Downloads: 100,000+
+User Ratings: 4.2 (Google Play)
+Developer Information: MMDEVS Mobile Games
+Pricing: Free with in-app purchases
+}
+
+The Pizza Machine - Cooking Game & Restaurant Empire {
+App Store Link: Not available on iOS
+Category: Simulation
+Overview: The Pizza Machine is a cooking simulation game where you manage a pizza restaurant and try to create delicious pizzas, serve customers, and expand your business. The game features different ingredients, recipes, and equipment, and allows you to customize your restaurant and compete with other players for the highest ratings.
+Programming Language: Unknown
+Built-in Frameworks: Unity (game engine)
+Launch Date: April 2021
+Downloads: 100,000+
+User Ratings: 4.4 (Google Play)
+Developer Information: Mobile Monsters
+Pricing: Free with in-app purchases
+}
+
+
+L'Arche Mission Zoo {
+App Store Link: https://play.google.com/store/apps/details?id=com.Metidia.LArcheMissionZoo
+Category: Educational
+Overview: L'Arche Mission Zoo is an educational app designed for children aged 3 to 8 years old. It offers interactive games and activities centered around animals and their habitats, helping children learn about nature and conservation.
+Programming Language: Not specified
+Built-in Frameworks (front-end, back-end, database): Not specified
+Launch Date: September 14, 2020
+Downloads: 10,000+
+User Ratings: 4.6 / 5.0 (Google Play)
+Developer Information: Metidia SAS
+Pricing: Free
+}
+
+Hot Shot Runner {
+App Store Link: https://apps.apple.com/us/app/hot-shot-runner/id1571459478
+Category: Games
+Overview: Hot Shot Runner is an arcade-style game where players race through obstacle courses while collecting coins and power-ups. The game features colorful graphics and a variety of levels to keep players engaged.
+Programming Language: Swift
+Built-in Frameworks (front-end, back-end, database): SpriteKit, GameplayKit, CoreMotion
+Launch Date: May 20, 2021
+Downloads: Not specified
+User Ratings: 4.9 / 5.0 (App Store)
+Developer Information: LimeVibe Games
+Pricing: Free with in-app purchases
+}
+
+Smash Beat - Music Rush {
+App Store Link: https://apps.apple.com/us/app/smash-beat-music-rush/id1521420241
+Category: Games
+Overview: Smash Beat - Music Rush is a rhythm game where players tap to the beat of popular songs. The game features multiple difficulty levels and a variety of music genres, including pop, rock, and electronic.
+Programming Language: Swift
+Built-in Frameworks (front-end, back-end, database): SpriteKit, AVFoundation, GameplayKit
+Launch Date: May 19, 2020
+Downloads: Not specified
+User Ratings: 4.7 / 5.0 (App Store)
+Developer Information: Badsnowball Limited
+Pricing: Free with in-app purchases
+}
+
+Desiigners Panda Rush {
+App Store Link: https://apps.apple.com/us/app/desiigners-panda-rush/id1342283361
+Category: Games
+Overview: Desiigners Panda Rush is an endless runner game featuring a cute panda character. Players must dodge obstacles and collect coins as they progress through the game.
+Programming Language: Swift
+Built-in Frameworks (front-end, back-end, database): SpriteKit, GameplayKit, CoreMotion
+Launch Date: January 18, 2018
+Downloads: Not specified
+User Ratings: 4.7 / 5.0 (App Store)
+Developer Information: Jia Wang
+Pricing: Free with in-app purchases
+}
+
+The Walking Pet {
+App Store Link: https://apps.apple.com/ru/app/the-walking-pet/id1021592731
+Category: Games
+Overview: The Walking Pet is a side-scrolling game where players control a pet on a mission to rescue its friends. The game offers a variety of power-ups and upgrades to help players progress through the levels.
+Programming Language: Cocos2d-x
+Built-in Frameworks (front-end, back-end, database): Not specified
+Launch Date: August 6, 2015
+Downloads: Not specified
+User Ratings: 4.5 / 5.0 (App Store)
+Developer Information: Vito Technology Inc.
+Pricing: Free with in-app purchases
+}
+
+Mad Rocket {
+App Store Link: https://apps.apple.com/jp/app/mad-rocket/id1615094002?l=en
+Category: Games
+Overview: Mad Rocket is a strategy game where players build and defend their own space station. The game features real-time battles against other players and a variety of upgrades and customization options.
+Programming Language: Unity
+Built-in Frameworks (front-end, back-end, database): Firebase, Photon
+Launch Date: May 16, 2021
+Downloads: Not specified
+User Ratings: 3.8 / 5.0 (App Store)
+Developer Information: Ratatat Studios Inc.
+Pricing: Free with in-app purchases
+}
+
+Blackjack Shooter {
+App Store Link: https://play.google.com/store/apps/details?id=com.Fabiulous.BlackjackShooter1&hl=it&gl=US
+Category: Games
+Overview: Blackjack Shooter is a combination of two classic casino games, blackjack and slots. The game features simple gameplay and colorful graphics.
+Programming Language: Not specified
+Built-in Frameworks (front-end, back-end, database): Not specified
+Launch Date: September 2, 2019
+Downloads: 10,000+
+User Ratings: 4.5 / 5.0 (Google Play)
+Developer Information: Fabiulous Games
+Pricing: Free with in-app purchases
+}
+
+Candy Blast Garden {
+App Store Link: https://play.google.com/store/apps/details?id=com.immortalpony.candyblastgarden
+Category: Games
+Overview: Candy Blast Garden is a match-three puzzle game where players swap candies to clear levels. The game features hundreds of levels and various power-ups and boosters to help players progress.
+Programming Language: Unity
+Built-in Frameworks (front-end, back-end, database): Not specified
+Launch Date: March 23, 2020
+Downloads: 100,000+
+User Ratings: 4.8 / 5.0 (Google Play)
+Developer Information: Immortal Pony Games
+Pricing: Free with in-app purchases
+}
+
+
+
+BottleMe
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.LightGames.BottleMe
+Category: Casual
+Overview: BottleMe is a simple but addictive game where the objective is to flip a bottle and make it land upright. The game offers multiple levels of difficulty and allows users to customize their own bottles.
+Programming Language: Unity (C#)
+Built-in Frameworks: Unity
+Launch Date: March 18, 2020
+Downloads: 1,000,000+
+User Ratings: 4.2/5.0 (based on 16,714 reviews)
+Developer Information: Light Games
+Pricing: Free with in-app purchases }
+Pickatale: Read Kids Books & Bedtime Stories
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.Pickatale.PFS&hl=uk&gl=US
+Category: Education
+Overview: Pickatale is an educational app that offers a wide selection of children's books and bedtime stories. The app includes interactive features such as animations and sound effects to engage young readers.
+Programming Language: Not specified
+Built-in Frameworks: Not specified
+Launch Date: February 14, 2019
+Downloads: 1,000,000+
+User Ratings: 4.7/5.0 (based on 55,662 reviews)
+Developer Information: Pickatale Club AS
+Pricing: Free trial, subscription-based
+}
+
+Pickatale: Learn to Read Books for Kids
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.Pickatale.LP
+Category: Education
+Overview: Pickatale Learn to Read is an app that helps children learn how to read through interactive stories, games, and exercises. The app offers a wide variety of reading materials for different reading levels and interests.
+Programming Language: Not specified
+Built-in Frameworks: Not specified
+Launch Date: August 4, 2020
+Downloads: 100,000+
+User Ratings: 4.7/5.0 (based on 1,324 reviews)
+Developer Information: Pickatale Club AS
+Pricing: Free trial, subscription-based }
+Tycoon Islands
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.MentoPlaza.TycoonIslands.Android
+Category: Simulation
+Overview: Tycoon Islands is a simulation game where players manage their own island resort. The game allows users to build and customize various amenities such as hotels, restaurants, and attractions to attract tourists and earn profits.
+Programming Language: Unity (C#)
+Built-in Frameworks: Unity
+Launch Date: September 6, 2019
+Downloads: 500,000+
+User Ratings: 4.3/5.0 (based on 22,922 reviews)
+Developer Information: Mento Plaza
+Pricing: Free with in-app purchases }
+BabyFirst Puzzles & Games for Kids and Toddlers
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.babyfirst.megapuzzles.preschool
+Category: Education
+Overview: BabyFirst Puzzles & Games is an educational app that offers various puzzles, games, and activities for young children. The app includes interactive features to help children develop their motor skills, problem-solving skills, and cognitive abilities.
+Programming Language: Not specified
+Built-in Frameworks: Not specified
+Launch Date: August 25, 2014
+Downloads: 1,000,000+
+User Ratings: 4.2/5.0 (based on 1,844 reviews)
+Developer Information: BabyFirst
+Pricing: Free with in-app purchases }
+Fanta Runner AR Game
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.MediaKing.FantaRunnerAR&hl=sr
+Category: Arcade
+Overview: Fanta Runner AR is an augmented reality game where players run through a virtual environment collecting coins and avoiding obstacles. The app uses the camera on the user's device to create a unique gaming experience.
+Programming Language: Unity (C#)
+Built-in Frameworks: Unity
+Launch Date: January 11, 2019
+Downloads: 100,000+
+User Ratings: 3.7/5.0 (based on 1,085 reviews)
+- Developer Information: MediaKing
+- Pricing: Free
+
+Skeletons AR
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.tomicz.skeletonsar&hl=en_GB
+Category: Arcade
+Overview: Skeletons AR is an augmented reality game where players shoot at skeletons using a virtual crossbow. The app uses the camera on the user's device to create a unique gaming experience.
+Programming Language: Unity (C#)
+Built-in Frameworks: Unity
+Launch Date: June 19, 2019
+Downloads: 1,000+
+User Ratings: 4.2/5.0 (based on 14 reviews)
+Developer Information: Tomicz
+Pricing: Free with in-app purchases }
+Jumping Santa AR
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.mediaking.jumpingsantaar
+Category: Casual
+Overview: Jumping Santa AR is an augmented reality game where players help Santa Claus collect gifts by jumping from platform to platform. The app uses the camera on the user's device to create a unique gaming experience.
+Programming Language: Unity (C#)
+Built-in Frameworks: Unity
+Launch Date: December 19, 2018
+Downloads: 500,000+
+User Ratings: 3.6/5.0 (based on 1,295 reviews)
+Developer Information: MediaKing
+Pricing: Free with in-app purchases }
+Word Joy - Fun Free Word Search Puzzles
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.qqtap.wordjoy
+Category: Word
+Overview: Word Joy is a word search puzzle game that offers various levels of difficulty and categories. The app includes different game modes, such as timed mode and endless mode, to challenge players' skills.
+Programming Language: Not specified
+Built-in Frameworks: Not specified
+Launch Date: September 2, 2019
+Downloads: 100,000+
+User Ratings: 4.6/5.0 (based on 1,858 reviews)
+Developer Information: QQ Games
+Pricing: Free with in-app purchases }
+
+
+Brick Blast Ball
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.impasoftware.brickblast
+Category: Arcade
+Overview: Brick Blast Ball is a classic arcade-style game where the objective is to break all the bricks on the screen using a ball and paddle. The game features multiple levels with increasing difficulty and various power-ups to help the player progress.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: January 18, 2019
+Downloads: 10,000,000+
+User Ratings: 4.5 out of 5 stars (197,873 ratings)
+Developer Information: Impa Software
+Pricing: Free with in-app purchases }
+Race to Putrajaya
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.impasoftware.racetoputrajaya&hl=en
+Category: Racing
+Overview: Race to Putrajaya is a racing game set in Malaysia's administrative capital, Putrajaya. The game allows players to choose from various vehicles and compete in races across different tracks while collecting coins and power-ups to upgrade their vehicles.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: January 29, 2018
+Downloads: 1,000,000+
+User Ratings: 4.1 out of 5 stars (16,776 ratings)
+Developer Information: Impa Software
+Pricing: Free with in-app purchases }
+Car Eats Car 2 - Racing Game
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.spilgames.CarEatsCar2&hl=ru
+Category: Racing
+Overview: Car Eats Car 2 is a racing game with a twist, where players control cars that can eat other cars to gain power-ups and upgrades. The game features various levels with increasing difficulty and challenging bosses.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: September 20, 2018
+Downloads: 10,000,000+
+User Ratings: 4.6 out of 5 stars (568,439 ratings)
+Developer Information: Spil Games
+Pricing: Free with in-app purchases }
+Glyder: Adventure Worlds
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.Tanjea.Glyder
+Category: Adventure
+Overview: Glyder is an adventure game where players control a character who glides through various worlds collecting gems and completing challenges. The game has multiple levels with different environments and obstacles.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: December 23, 2019
+Downloads: 1,000,000+
+User Ratings: 4.0 out of 5 stars (9,862 ratings)
+Developer Information: Tanjea
+Pricing: Free with in-app purchases }
+Bootleggers - Text Based RPG
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.ingvar.bootleggers
+Category: Role Playing
+Overview: Bootleggers is a text-based role-playing game set during the prohibition era in the United States. Players take on the role of a bootlegger and engage in various activities such as smuggling, production, and distribution of illegal alcohol.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: August 10, 2018
+Downloads: 100,000+
+User Ratings: 4.6 out of 5 stars (7,652 ratings)
+Developer Information: Ingvar Studios
+Pricing: Free with in-app purchases }
+Fun Story - Word Games & Brain Teasers
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.dteamstudio.funstory
+Category: Puzzle
+Overview: Fun Story is a collection of word games and brain teasers that challenge players' vocabulary, spelling, and cognitive skills. The game features various modes and levels with increasing difficulty.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date : December 23, 2020
+- Downloads: 1,000,000+
+- User Ratings: 4.6 out of 5 stars (26,951 ratings)
+- Developer Information: Dteam Studio
+- Pricing: Free with in-app purchases	
+}
+
+Match & Cruise - Match 3 Games Puzzle Adventure
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.dteamstudio.matchcruise
+Category: Puzzle
+Overview: Match & Cruise is a match-three puzzle game where players progress through various levels by matching tiles and completing challenges. The game features multiple modes, power-ups, and boosters to help players clear levels.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: April 30, 2021
+Downloads: 100,000+
+User Ratings: 4.6 out of 5 stars (2,237 ratings)
+Developer Information: Dteam Studio
+Pricing: Free with in-app purchases }
+Ice Age Adventures
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftICHM
+Category: Adventure
+Overview: Ice Age Adventures is an adventure game based on the popular animated movie franchise. Players control various characters from the movie as they explore different environments, complete quests, and rescue animals.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: June 11, 2014
+Downloads: 50,000,000+
+User Ratings: 4.2 out of 5 stars (1,085,302 ratings)
+Developer Information: Gameloft SE
+Pricing: Free with in-app purchases }
+
+
+CrowdMiner
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.redbeam.crowdminers
+Category: Business
+Overview: CrowdMiner is a mobile app that enables users to earn cryptocurrency by participating in crowdsourcing tasks. Users can complete micro-tasks, such as labeling images or identifying objects in photos, and earn rewards in the form of cryptocurrency tokens.
+Programming Language: Not specified
+Built-in Frameworks (front-end, back-end, database): Not specified
+Launch Date: 2018
+Downloads: 10,000+
+User Ratings: 4.3 stars (out of 5) based on 322 reviews
+Developer Information: RedBeam LLC, based in Denver, Colorado
+Pricing: Free with in-app purchases }
+Virtual City Playground: Building Tycoon
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.g5e.virtualcitysb
+Category: Simulation
+Overview: Virtual City Playground is a city-building simulation game where players can create and manage their own cities. Players can build and upgrade buildings, attract new residents, and complete various missions to progress through the game.
+Programming Language: Not specified
+Built-in Frameworks (front-end, back-end, database): Not specified
+Launch Date: 2012
+Downloads: 5,000,000+
+User Ratings: 4.2 stars (out of 5) based on 96,745 reviews
+Developer Information: G5 Entertainment AB, based in Stockholm, Sweden
+Pricing: Free with in-app purchases
+}
+
+Magic Pool: The Game {
+App Store Link: https://apps.apple.com/us/app/magic-pool-the-game/id1421185076
+Category: Games
+Overview: Magic Pool is a puzzle game where players must clear the board by matching pool balls of the same color. The game features various levels with increasing difficulty and different challenges to overcome.
+Programming Language: Not specified
+Built-in Frameworks (front-end, back-end, database): Not specified
+Launch Date: 2018
+Downloads: 10,000+
+User Ratings: 4.3 stars (out of 5) based on 53 reviews
+Developer Information: Zilant Studio LLC, based in Moscow, Russia
+Pricing: Free with in-app purchases
+}
+
+NeoRace {
+App Store Link: https://play.google.com/store/apps/details?id=net.a2soft.neorace&hl=ru
+Category: Racing
+Overview: NeoRace is a racing game where players can race against other players online or play solo in various tracks. The game features various cars with different attributes and upgrades that can be purchased.
+Programming Language: Not specified
+Built-in Frameworks (front-end, back-end, database): Unity (game engine)
+Launch Date: 2020
+Downloads: 100,000+
+User Ratings: 4.3 stars (out of 5) based on 1,159 reviews
+Developer Information: A2Soft LLC, based in Moscow, Russia
+Pricing: Free with in-app purchases
+}
+
+BalanCity {
+App Store Link: https://play.google.com/store/apps/details?id=com.weblab.balansoid&hl=pl
+Category: Simulation
+Overview: BalanCity is a city-building simulation game with a twist: players must balance their cities on top of a moving platform. Players must construct and manage their city while keeping it balanced and stable.
+Programming Language: Unity (game engine)
+Built-in Frameworks (front-end, back-end, database): Not specified
+Launch Date: 2016
+Downloads: 1,000,000+
+User Ratings: 4.3 stars (out of 5) based on 39,470 reviews
+Developer Information: Fernando Cordoba, based in Buenos Aires, Argentina
+Pricing: $0.99
+}
+
+Hunter Master {
+App Store Link: https://play.google.com/store/apps/details?id=com.whaleapp.huntermaster
+Category: Games
+Overview: Hunter Master is an action game where players must hunt various wild animals using different weapons and tactics. The game features various levels with increasing difficulty and different challenges to overcome.
+Programming Language: Not specified
+Built-in Frameworks (front-end, back-end, database): Not specified
+Launch Date: 2021
+Downloads: 1,000+
+User Ratings: 4.1 stars (out of 5) based on 13 reviews
+Developer Information: WhaleApp LTD, based in Tel Aviv, Israel
+Pricing: Free with in-app purchases
+}
+
+Astro Lords: Oort Cloud {
+App Store Link: https://play.google.com/store/apps/details?id=com.tartezal.astrolords&hl=en&gl=US
+Category: Strategy
+Overview: Astro Lords is a space-themed strategy game where players must build and manage their own asteroid bases, mine resources, and engage in battles with other players. The game features various upgrades and technologies that can be researched.
+Programming Language: Not specified
+Built-in Frameworks (front-end, back-end, database): Not specified
+Launch Date: 2015
+Downloads: 100,000+
+User Ratings: 3.6 stars (out of 5) based on 4,911 reviews
+Developer Information: Tartezal Holdings LTD, based in Limassol, Cyprus
+Pricing: Free with in-app purchases
+}
+
+Stealthy {
+App Store Link: https://play.google.com/store/apps/details?id=korsour.Stealthy
+Category: Games
+Overview: Stealthy is a stealth action game where players must sneak past guards, avoid traps, and complete objectives without being detected. The game features various levels with different challenges and obstacles to overcome.
+Programming Language: Unity (game engine)
+Built-in Frameworks (front-end, back-end, database): Not specified
+Launch Date: 2019
+Downloads: 10,000+
+User Ratings: 4.2 stars (out of 5) based on 283 reviews
+Developer Information: Korsour Games, based in Moscow, Russia
+Pricing: Free with in-app purchases
+}
+
+
+Wizard Battles
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=us.webtunes.WizardBattles
+Category: Role Playing
+Overview: Wizard Battles is a multiplayer role-playing game where players create wizard avatars and compete against each other in magical battles. The game features a variety of spells and equipment to enhance the player's abilities.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: July 23, 2019
+Downloads: 100,000+
+User Ratings: 4.3 stars out of 5 (based on 18,263 ratings)
+Developer Information: Web Tunes PTY LTD
+Pricing: Free with in-app purchases }
+QuizOn
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.rounaq.quizon
+Category: Trivia
+Overview: QuizOn is a trivia game that covers a wide range of topics including history, science, sports, entertainment, and more. The game features multiple choice questions and offers hints and lifelines to help players progress through the levels.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: March 7, 2020
+Downloads: 10,000+
+User Ratings: 4.6 stars out of 5 (based on 670 ratings)
+Developer Information: Rounaq Neroy
+Pricing: Free with in-app purchases }
+BrainKilla
+{
+
+App Store Link: https://apps.apple.com/us/app/brainkilla-brain-teaser-game/id1499789408
+Category: Puzzle
+Overview: BrainKilla is a brain teaser game that challenges players to solve puzzles and riddles. The game features multiple levels and offers hints and solutions to help players progress through the game.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: March 4, 2020
+Downloads: 10,000+
+User Ratings: 4.6 stars out of 5 (based on 256 ratings)
+Developer Information: Abhishek Kumar
+Pricing: Free with in-app purchases }
+Chess Fighters
+{
+
+App Store Link: https://apps.apple.com/us/app/chess-fighters-battle-tactics/id1468072585
+Category: Strategy
+Overview: Chess Fighters is a strategy game that combines chess with RPG elements. Players can collect and upgrade pieces as they battle their way through the ranks to become the ultimate chess fighter.
+Programming Language: Swift
+Built-in Frameworks (front-end, back-end, database): UIKit, GameKit, CoreData
+Launch Date: June 27, 2019
+Downloads: 50,000+
+User Ratings: 4.7 stars out of 5 (based on 1,022 ratings)
+Developer Information: MOBIRIX
+Pricing: Free with in-app purchases }
+Super Cock Fighter
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.oppositelock.supercockfighter
+Category: Arcade
+Overview: Super Cock Fighter is an arcade-style game where players control roosters fighting against each other. The game features a variety of rooster breeds and equipment to enhance the player's fighting abilities.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: April 1, 2020
+Downloads: 10,000+
+User Ratings: 4.2 stars out of 5 (based on 269 ratings)
+Developer Information: Oppositelock
+Pricing: Free with in-app purchases }
+Drunk Hibachi
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.oppositelock.drunkhibachigame
+Category: Casual
+Overview: Drunk Hibachi is a casual game where players control a drunk chef trying to cook food on a spinning grill. The game features a variety of food items and obstacles to avoid.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: August 13, 2019
+Downloads: 1,000+
+User Ratings: 3.5 stars out of 5 (based on 2 ratings)
+- Developer Information: Oppositelock
+- Pricing: Free
+
+Monster Truck Kings
+{
+
+App Store Link: https://apps.apple.com/us/app/monster-truck-kings/id1380210164
+Category: Racing
+Overview: Monster Truck Kings is a racing game where players control monster trucks and compete against each other in various events. The game features a variety of tracks and trucks to choose from, as well as upgrades and customization options.
+Programming Language: Swift
+Built-in Frameworks (front-end, back-end, database): SpriteKit, GameplayKit, Core Data
+Launch Date: April 26, 2018
+Downloads: 50,000+
+User Ratings: 4.7 stars out of 5 (based on 2,423 ratings)
+Developer Information: Reliance Big Entertainment UK Private Ltd
+Pricing: Free with in-app purchases }
+Backgammon
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.blackout.backgammon
+Category: Board
+Overview: Backgammon is a classic board game where players must move their pieces around the board and try to remove them before their opponent. The game features multiple difficulty levels and online multiplayer options.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: January 1, 2019
+Downloads: 100,000+
+User Ratings: 4.3 stars out of 5 (based on 674 ratings)
+Developer Information: Blackout Lab
+Pricing: Free with in-app purchases }
+
+
+Brick Game
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.blackout.brick
+Category: Arcade Games
+Overview: Brick Game is a classic arcade game that challenges the player to manipulate falling bricks and create complete rows without empty spaces. The game features simple controls, various brick shapes, and increasing difficulty levels.
+Programming Language: Unknown
+Built-in Frameworks: Unknown
+Launch Date: February 11, 2019
+Downloads: 10M+
+User Ratings: 4.2/5 (based on 119,797 ratings)
+Developer Information: Blackout Lab
+Pricing: Free with ads and in-app purchases for ad removal and additional features }
+Cube Game
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.blackout.cube
+Category: Puzzle Games
+Overview: Cube Game is a 3D puzzle game that challenges the player to rotate a cube and match it with the surrounding colors. The game features intuitive controls, multiple levels, and increasing difficulty levels.
+Programming Language: Unknown
+Built-in Frameworks: Unknown
+Launch Date: July 27, 2019
+Downloads: 1M+
+User Ratings: 4.3/5 (based on 30,246 ratings)
+Developer Information: Blackout Lab
+Pricing: Free with ads and in-app purchases for ad removal and additional features }
+Lucky Turtles
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.luckybetting.luckyturtles
+Category: Casino Games
+Overview: Lucky Turtles is a casino game that allows the player to bet on the outcome of virtual turtle races. The game features various types of bets, realistic graphics, and social features.
+Programming Language: Unknown
+Built-in Frameworks: Unknown
+Launch Date: February 16, 2021
+Downloads: 10K+
+User Ratings: 4.0/5 (based on 55 ratings)
+Developer Information: Lucky Betting
+Pricing: Free with ads and in-app purchases for additional coins }
+Chess
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.LoopGames.Chess
+Category: Board Games
+Overview: Chess is a classic board game that challenges the player to use strategy to capture the opponent's pieces and ultimately the king. The game features various difficulty levels, local and online multiplayer modes, and intuitive controls.
+Programming Language: Unknown
+Built-in Frameworks: Unknown
+Launch Date: August 19, 2019
+Downloads: 10M+
+User Ratings: 4.3/5 (based on 239,019 ratings)
+Developer Information: Loop Games
+Pricing: Free with ads and in-app purchases for ad removal and additional features }
+Color Game
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.LoopGames.Color
+Category: Puzzle Games
+Overview: Color Game is a puzzle game that challenges the player to fill the entire board with a single color within a limited number of moves. The game features various difficulty levels, multiple color palettes, and minimalist design.
+Programming Language: Unknown
+Built-in Frameworks: Unknown
+Launch Date: March 7, 2020
+Downloads: 10M+
+User Ratings: 4.2/5 (based on 121,138 ratings)
+Developer Information: Loop Games
+Pricing: Free with ads and in-app purchases for ad removal and additional features }
+Freecell Game
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.LoopGames.Freecell
+Category: Card Games
+Overview: Freecell Game is a classic card game that challenges the player to move all the cards to the foundation piles within a limited number of moves. The game features various difficulty levels, multiple game modes, and statistics tracking.
+Programming Language: Unknown
+Built-in Frameworks: Unknown
+Launch Date: February 7, 2020
+Downloads: 10M+
+User Ratings: 4.3/5 (based on 89,360 ratings)
+Developer Information: Loop Games
+Pricing: Free with ads and in-app purchases for ad removal and additional features }
+Mr. Santa
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.bbitsolutions.mrsanta
+- Category: Casual Games
+- Overview: Mr. Santa is a casual game that challenges the player to help Santa deliver presents to children while avoiding obstacles and collecting coins. The game features various power-ups, multiple levels, and festive graphics.
+- Programming Language: Unknown
+- Built-in Frameworks: Unknown
+- Launch Date: December 17, 2020
+- Downloads: 100K+
+- User Ratings: 4.0/5 (based on 1,591 ratings)
+- Developer Information: BBIT Solutions
+- Pricing: Free with ads and in-app purchases for ad removal and additional features
+}
+
+Robo Quiz {
+App Store Link: https://play.google.com/store/apps/details?id=com.gamadrill.roboquiz
+Category: Trivia Games
+Overview: Robo Quiz is a trivia game that challenges the player to answer questions from various categories such as science, history, and pop culture. The game features multiple difficulty levels, lifelines, and daily challenges.
+Programming Language: Unknown
+Built-in Frameworks: Unknown
+Launch Date: March 3, 2019
+Downloads: 500K+
+User Ratings: 4.1/5 (based on 7,174 ratings)
+Developer Information: Gamadrill
+Pricing: Free with ads and in-app purchases for ad removal and additional features }
+
+
+
+Jumpia
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.gamadrill.jumpia
+Category: Arcade Games
+Overview: Jumpia is a 2D platformer game where players control a character who must jump from one platform to another while avoiding obstacles and enemies. The game features simple yet addictive gameplay, colorful graphics, and a variety of power-ups and unlockable characters.
+Programming Language: Unity (C#)
+Built-in Frameworks: Unity Engine
+Launch Date: March 2020
+Downloads: 100,000+
+User Ratings: 4.3/5 (Google Play Store)
+Developer Information: Gamadrill Ltd.
+Pricing: Free with in-app purchases }
+Jungle Mine - Adventure Puzzle Game
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.gamadrill.junglemine
+Category: Puzzle Games
+Overview: Jungle Mine is a puzzle game that combines elements of adventure and strategy. Players must dig through the jungle to find hidden treasures while avoiding obstacles and enemies. The game features simple yet challenging gameplay, colorful graphics, and a variety of levels and power-ups.
+Programming Language: Unity (C#)
+Built-in Frameworks: Unity Engine
+Launch Date: May 2020
+Downloads: 500,000+
+User Ratings: 4.2/5 (Google Play Store)
+Developer Information: Gamadrill Ltd.
+Pricing: Free with in-app purchases }
+Merge City
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.merge.city
+Category: Simulation Games
+Overview: Merge City is a city-building game where players must merge buildings to create larger and more advanced structures. The game features simple yet addictive gameplay, colorful graphics, and a variety of challenges and achievements to unlock.
+Programming Language: Unity (C#)
+Built-in Frameworks: Unity Engine
+Launch Date: August 2020
+Downloads: 100,000+
+User Ratings: 4.3/5 (Google Play Store)
+Developer Information: Merge Games
+Pricing: Free with in-app purchases }
+Vikings: an Archer's Journey
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.runner.vikings
+Category: Action Games
+Overview: Vikings: an Archer's Journey is an action-packed game where players control a viking archer who must survive against hordes of enemies. The game features simple yet challenging gameplay, pixel art graphics, and a variety of power-ups and upgrades to unlock.
+Programming Language: Unity (C#)
+Built-in Frameworks: Unity Engine
+Launch Date: October 2017
+Downloads: 1,000,000+
+User Ratings: 4.6/5 (Google Play Store)
+Developer Information: Pinpin Team
+Pricing: Free with in-app purchases }
+Xtreme Drive - Car Racing 3D
+{
+
+App Store Link: https://apps.apple.com/app/xtreme-drive-car-racing-3d/id1451034471
+Category: Racing Games
+Overview: Xtreme Drive is a high-speed racing game where players must race against opponents on various tracks. The game features realistic graphics, customizable cars, and a variety of game modes to choose from.
+Programming Language: Unity (C#)
+Built-in Frameworks: Unity Engine
+Launch Date: January 2019
+Downloads: 100,000+
+User Ratings: 4.7/5 (App Store)
+Developer Information: TapFree Games
+Pricing: Free with in-app purchases }
+Romantic Stories: Love Games
+{
+
+App Store Link: https://apps.apple.com/ru/app/romantic-stories-love-games/id1490604719#?platform=iphone
+Category: Simulation Games
+Overview: Romantic Stories: Love Games is a romance-themed game where players must make choices that affect the outcome of their love story. The game features multiple storylines, customizable characters, and beautiful graphics.
+Programming Language: Unity (C#)
+Built-in Frameworks: Unity Engine
+Launch Date: December 2019
+Downloads: 500,000+
+User Ratings: 4.5/5 (App Store)
+Developer Information: Webelinx Love Story Games
+Pricing: Free with in-app purchases }
+
+HEAT: Offline Action {
+- App Store Link: https://play.google.com/store/apps/details?id=com.ionomy.heat
+- Category: Action Games
+- Overview: HEAT is an offline action game where players must survive against waves of enemies and bosses. The game features fast-paced gameplay, a variety of weapons and power-ups, and a unique art style.
+- Programming Language: Unity (C#)
+- Built-in Frameworks: Unity Engine
+- Launch Date: April 2020
+- Downloads: 100,000+
+- User Ratings: 4.4/5 (Google Play Store)
+- Developer Information: Ionomy Studios
+- Pricing: Free with in-app purchases
+}
+
+WARDOG - Shoot 'em up Arcade Shooter {
+App Store Link: https://play.google.com/store/apps/details?id=com.space_arcade_action.soldiers_shooter.platformer_wardog
+Category: Action Games
+Overview: WARDOG is a shoot 'em up arcade shooter where players control a soldier who must destroy enemy forces across various levels. The game features retro-style graphics, intense gameplay, and a variety of power-ups and upgrades to unlock.
+Programming Language: Unity (C#)
+Built-in Frameworks: Unity Engine
+Launch Date: August 2020
+Downloads: 100,000+
+User Ratings: 4.4/5 (Google Play Store)
+Developer Information: Cabbageman Games
+Pricing: Free with in-app purchases }
+
+Hippo Post
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.hippo.post
+Category: Social Media
+Overview: Hippo Post is a social media app designed for users to share photos and videos with their friends and followers. Users can customize their profiles, follow other users, and discover new content through the app's explore feature.
+Programming Language: Java
+Built-in Frameworks (front-end, back-end, database): Firebase (back-end and database)
+Launch Date: 2018
+Downloads: 100,000+
+User Ratings: 3.9 stars (out of 5) based on 4,312 reviews
+Developer Information: Hippo Labs Inc.
+Pricing: Free }
+Basketball Stars Battle
+{
+
+App Store Link: https://apps.apple.com/app/basketball-stars-battle/id1454304492
+Category: Sports Games
+Overview: Basketball Stars Battle is a fun and challenging basketball game where players compete against each other in real-time matches. Players can collect different balls and upgrade their stats to improve their chances of winning.
+Programming Language: Unity (C#)
+Built-in Frameworks (front-end, back-end, database): Photon (back-end), SQLite (database)
+Launch Date: 2019
+Downloads: 10,000+
+User Ratings: 4.6 stars (out of 5) based on 5,682 ratings
+Developer Information: NEOWIZ
+Pricing: Free with in-app purchases }
+Parking Escape
+{
+
+App Store Link: https://apps.apple.com/app/parking-escape/id1316937847
+Category: Puzzle Games
+Overview: Parking Escape is a challenging puzzle game where players try to move cars and trucks out of a crowded parking lot. The game features multiple levels with varying degrees of difficulty.
+Programming Language: Unity (C#)
+Built-in Frameworks (front-end, back-end, database): N/A
+Launch Date: 2017
+Downloads: 100,000+
+User Ratings: 4.5 stars (out of 5) based on 2,332 ratings
+Developer Information: Gemioli
+Pricing: Free with in-app purchases }
+Climb Car Racing Game
+{
+
+App Store Link: https://apps.apple.com/app/climb-car-racing-game/id1454103653
+Category: Racing Games
+Overview: Climb Car Racing Game is a fun and addictive racing game where players control a car as it races up steep hills and mountains. Players can collect coins and unlock new cars as they progress through the game.
+Programming Language: Unity (C#)
+Built-in Frameworks (front-end, back-end, database): N/A
+Launch Date: 2019
+Downloads: 50,000+
+User Ratings: 4.3 stars (out of 5) based on 1,232 ratings
+Developer Information: Gemioli
+Pricing: Free with in-app purchases }
+Tmob
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.ionomy.tmob
+Category: News & Magazines
+Overview: Tmob is a news app designed for cryptocurrency enthusiasts. Users can read the latest crypto news and market updates, track their favorite coins, and connect with other users on the app's social platform.
+Programming Language: Kotlin
+Built-in Frameworks (front-end, back-end, database): Firebase (back-end and database)
+Launch Date: 2021
+Downloads: 10,000+
+User Ratings: 3.9 stars (out of 5) based on 232 ratings
+Developer Information: Ionomy Studios LLC
+Pricing: Free }
+Rushy Racing
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.neyther.rushyracing
+Category: Racing Games
+Overview: Rushy Racing is a fast-paced racing game where players control a car as it speeds down a busy highway. The game features multiple modes, including time trials and races against other players.
+Programming Language: Unity (C#)
+Built-in Frameworks (front-end, back-end, database): Google Play Games Services (back-end), SQLite (database)
+Launch Date: 2018
+Downloads: 100,000+
+User Ratings: 4.2 stars (out of 5) based on 28,921 ratings
+- Developer Information: Neyther Games
+- Pricing: Free with in-app purchases	
+}
+
+Cousin Wedding
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.hippo.CousinWedding
+Category: Role Playing Games
+Overview: Cousin Wedding is a simulation game where players help plan and organize a wedding for their cousin. Players can choose the venue, decorations, and outfits for the bride and groom.
+Programming Language: Java
+Built-in Frameworks (front-end, back-end, database): Firebase (back-end and database)
+Launch Date: 2019
+Downloads: 50,000+
+User Ratings: 4.2 stars (out of 5) based on 1,214 ratings
+Developer Information: Hippo Labs Inc.
+Pricing: Free with in-app purchases }
+Hippo ABC
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.PSVStudio.HippoABC
+Category: Education
+Overview: Hippo ABC is an educational app designed to help young children learn the alphabet. The app features interactive games and activities that teach letter recognition, phonics, and vocabulary.
+Programming Language: Unity (C#)
+Built-in Frameworks (front-end, back-end, database): N/A
+Launch Date: 2018
+Downloads: 100,000+
+User Ratings: 4.0 stars (out of 5) based on 1,687 ratings
+Developer Information: PSV Studio
+Pricing: Free with in-app purchases }
+

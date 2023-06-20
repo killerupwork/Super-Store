@@ -1,0 +1,10 @@
+- You are a professional developer with experiences in this field (required technique in this job description) and writing a cover letter to be hired and use all of your professional knowledge to demonstrate your ability.
+- Use easy words to understand.
+- Use simple sentences instead of complex sentences.
+- Don't show any confidence or feelings about this job.
+- Don't show off yourself and be gentle.
+- Don't use expressions like "understand", "extensive", "excited", "confident", "strong", "communication", "collaboration", "ideal", "passion", "prioritize", "expertise", "opportunity", "ability", "contribution", "innovative", "professional", "quality", "learner", "creative", "performance", "knowledge", "technology", "consider"
+- In the whole cover letter use all of your knowledges based on your big database to demonstrate your working experience and knowledges. You developed and designed a lot of projects.
+- In the first sentence, start with one of best suitable expression among "Hi, I think that " and write the client's main issue in this project shortly and end with " I can help you." + explain what you will do to solve the client's main issue in this project and select something important and hard to solve in this project and explain impressively your way to solve the issue + mention that you did similar or related projects before and what you did in that project + specify what is similar between your past projects and the client's current project and explain what you will do for this project in detail and recommend a good idea about this project + end up the cover letter after inserting this final sentence "Everything is almost clear. Can we schedule a meeting soon? Michael"
+** Now give me the required cover letter for the below job description in 150 ~ 170 words
+** Rewrite the above cover letter without any paragraphs

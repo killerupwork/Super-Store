@@ -1,0 +1,1608 @@
+AI360 {
+App Store Link (Google Play): https://play.google.com/store/apps/details?id=com.app.ai360
+Category: Productivity
+Overview: AI360 is a productivity app that helps users manage their time and tasks efficiently. It uses artificial intelligence to create personalized plans, reminders, and schedules.
+Programming Language: Java, Kotlin
+Built-in Frameworks: Android SDK, Firebase
+Launch Date: September 17, 2020
+Downloads: 100+
+User Ratings: 4.6/5 (Google Play)
+Developer Information: AI360 Technologies Inc.
+Pricing: Free
+}
+
+Rated Me {
+App Store Link (Apple App Store): https://apps.apple.com/us/app/rated-me/id1604762435
+Category: Social Networking
+Overview: Rated Me is a social networking app that allows users to rate each other based on their personality, skills, and knowledge. Users can also receive feedback and advice from others.
+Programming Language: Swift
+Built-in Frameworks: UIKit, Core Data
+Launch Date: June 14, 2021
+Downloads: 100+
+User Ratings: 4.9/5 (Apple App Store)
+Developer Information: Kotha Sai Vamsi Krishna
+Pricing: Free
+}
+
+Stayfit {
+App Store Link (Apple App Store): https://apps.apple.com/US/app/1602369123
+Category: Health & Fitness
+Overview: Stayfit is a fitness tracking app that helps users monitor their daily activities, workouts, and diet. It provides personalized recommendations and progress reports.
+Programming Language: Swift
+Built-in Frameworks: UIKit, Core Data
+Launch Date: August 15, 2021
+Downloads: 100+
+User Ratings: 4.3/5 (Apple App Store)
+Developer Information: Abdulrhman Almutairi
+Pricing: Free
+}
+
+Aroma of Wine {
+App Store Link (Apple App Store): https://apps.apple.com/az/app/aroma-of-wine/id1598892177
+Category: Food & Drink
+Overview: Aroma of Wine is a wine tasting app that offers a comprehensive database of wines and their characteristics. It helps users identify different aromas, flavors, and textures.
+Programming Language: Swift
+Built-in Frameworks: UIKit, Core Data
+Launch Date: July 20, 2021
+Downloads: 50+
+User Ratings: 3.8/5 (Apple App Store)
+Developer Information: Elnur Hasanov
+Pricing: Free
+}
+
+Wyah {
+App Store Link (Apple App Store): https://apps.apple.com/in/app/wyah/id1591392416
+Category: Social Networking
+Overview: Wyah is a social networking app that connects like-minded people based on their interests, hobbies, and activities. Users can discover new friends and events in their city.
+Programming Language: Swift
+Built-in Frameworks: UIKit, Core Data
+Launch Date: June 10, 2021
+Downloads: 500+
+User Ratings: 4.2/5 (Apple App Store)
+Developer Information: Sandeep Rethnam
+Pricing: Free
+}
+
+Vegtable {
+App Store Link (Apple App Store): https://apps.apple.com/us/app/vegtable/id1594156927
+Category: Food & Drink
+Overview: Vegtable is a recipe app that offers a collection of vegetarian and vegan dishes from different cuisines. It provides step-by-step instructions, nutritional facts, and shopping lists.
+Programming Language: Swift
+Built-in Frameworks: UIKit, Core Data
+Launch Date: May 25, 2021
+Downloads: 1000+
+User Ratings: 4.5/5 (Apple App Store)
+Developer Information: Romain Lardy
+Pricing: Free
+}
+
+GoView360 {
+App Store Link (Google Play): https://play.google.com/store/apps/details?id=com.GoView360.freeYOGA&hl=en_US&gl=US
+Category: Health & Fitness
+Overview: GoView360 is a fitness app that provides virtual reality yoga classes for beginners and advanced practitioners. Users can also customize their sessions and track their progress.
+Programming Language: Java, Kotlin
+Built-in Frameworks: Android SDK, Google VR SDK
+Launch Date: September 23, 2019
+Downloads: 10,000+
+User Ratings: 4.2/5 (Google Play)
+Developer Information: GoView360
+Pricing: Free
+
+}
+
+IfaObi {
+App Store Link (Google Play): https://play.google.com/store/apps/details?id=com.ifaObi.app&hl=en_US&gl=US
+Category: Education
+Overview: IfaObi is an educational app that offers courses and resources on African culture, history, and spirituality. It aims to promote cultural awareness and understanding.
+Programming Language: Java, Kotlin
+Built-in Frameworks: Android SDK, Firebase
+Launch Date: October 15, 2020
+Downloads: 1000+
+User Ratings: 4.6/5 (Google Play)
+Developer Information: IfaObi LLC
+Pricing: Free
+}
+
+Menezes {
+App Store Link (Google Play): https://play.google.com/store/apps/details?id=com.menezes.app
+Category: Productivity
+Overview: Menezes is a productivity app that helps users manage their daily tasks, appointments, and reminders. It offers a simple and elegant user interface and customizable features.
+Programming Language: Java, Kotlin
+Built-in Frameworks: Android SDK, Firebase
+Launch Date: November 12, 2020
+Downloads: 500+
+User Ratings: 4.9/5 (Google Play)
+Developer Information: Andre Menezes
+Pricing: Free
+}
+
+Kamaa {
+App Store Link (Apple App Store): https://apps.apple.com/us/app/kamaa/id1456477541
+Category: Social Networking
+Overview: Kamaa is a social networking app that connects African diaspora professionals and entrepreneurs. It allows users to network, share ideas, and showcase their skills and businesses.
+Programming Language: Swift
+Built-in Frameworks: UIKit, Core Data
+Launch Date: April 10, 2019
+Downloads: 1000+
+User Ratings: 3.9/5 (Apple App Store)
+Developer Information: Black Professionals Network LLC
+Pricing: Free
+}
+
+
+
+LankanCart
+{
+
+App Store Link: https://apps.apple.com/us/app/lankancart/id1489349354
+Category: Shopping
+Overview: LankanCart is a Sri Lankan e-commerce platform that allows users to purchase products from various categories such as fashion, electronics, groceries, and more.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: November 2019
+Downloads: 10,000+
+User Ratings: 4.0 out of 5.0 (88 ratings)
+Developer Information: W3Lanka Solutions Pvt Ltd
+Pricing: Free }
+Feelerz
+{
+
+App Store Link: https://apps.apple.com/us/app/feelerz/id1467174173?ls=1
+Category: Social Networking
+Overview: Feelerz is a social networking app that helps users share their feelings, emotions, and experiences with others through photos, videos, and text.
+Programming Language: Swift
+Built-in Frameworks (front-end, back-end, database): Firebase, MapKit
+Launch Date: May 2019
+Downloads: 1,000+
+User Ratings: 4.7 out of 5.0 (16 ratings)
+Developer Information: Shyam Sundar Ganesan
+Pricing: Free
+}
+
+StorySwiper {
+App Store Link: https://apps.apple.com/ua/app/storyswiper/id1441778584
+Category: Entertainment
+Overview: StorySwiper is an app that provides users with a curated selection of short stories that can be swiped through like a dating app. Users can also submit their own short stories for consideration.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: December 2018
+Downloads: 10,000+
+User Ratings: 4.0 out of 5.0 (46 ratings)
+Developer Information: StorySwiper LLC
+Pricing: Free
+}
+
+CDirect {
+App Store Link: https://apps.apple.com/sg/app/cdirect/id1440732557
+Category: Productivity
+Overview: CDirect is an app that helps users manage their contacts by providing them with a simple and intuitive interface to store contact information and add notes on their interactions.
+Programming Language: Swift
+Built-in Frameworks (front-end, back-end, database): CoreData, MessageUI
+Launch Date: October 2018
+Downloads: 1,000+
+User Ratings: 3.9 out of 5.0 (11 ratings)
+Developer Information: Cap Vista Pte Ltd
+Pricing: Free
+}
+
+MisriTalia {
+App Store Link: Not available
+Category: Food & Drink
+Overview: MisriTalia is an Indian recipe app that features recipes from various regions of India, along with step-by-step instructions and ingredient lists.
+Programming Language: Java
+Built-in Frameworks (front-end, back-end, database): Firebase Realtime Database
+Launch Date: May 2020
+Downloads: Not available
+User Ratings: Not available
+Developer Information: Unplugged Creations
+Pricing: Free
+}
+
+HelperPlace {
+App Store Link: https://play.google.com/store/apps/details?id=com.helperplace.helperplaceapp
+Category: Business
+Overview: HelperPlace is a platform that connects domestic helpers with employers in Hong Kong and Singapore. Users can browse through job postings, apply for jobs, and communicate with potential employers through the app.
+Programming Language: Kotlin
+Built-in Frameworks (front-end, back-end, database): Firebase, Google Maps API
+Launch Date: May 2019
+Downloads: 1,000+
+User Ratings: 4.3 out of 5.0 (13 ratings)
+Developer Information: HelperPlace Limited
+Pricing: Free
+}
+
+Speeca 快说 {
+App Store Link: https://apps.apple.com/us/app/speeca-快说/id1592971441
+Category: Education
+Overview: Speeca is an app that helps Chinese speakers improve their English pronunciation by providing them with real-time feedback on their speaking skills.
+Programming Language: Swift
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: August 2021
+Downloads: 10,000+
+User Ratings: 4.6 out of 5.0 (295 ratings)
+Developer Information: Speeca Inc.
+Pricing: Free with in-app purchases
+
+}
+
+Clypr Supreme Barber Booking {
+App Store Link: https://apps.apple.com/us/app/clypr-supreme-barber-booking/id1463922784
+Category: Lifestyle
+Overview: Clypr is an app that allows users to book appointments with professional barbers and hairstylists. Users can browse through profiles of stylists, view their availability, and book appointments directly through the app.
+Programming Language: Swift
+Built-in Frameworks (front-end, back-end, database): Firebase, Stripe
+Launch Date: July 2019
+Downloads: 1,000+
+User Ratings: 4.2 out of 5.0 (27 ratings)
+Developer Information: Clypr LLC
+Pricing: Free
+}
+
+PartyLive {
+App Store Link: https://play.google.com/store/apps/details?id=com.PartyLiveInc.app
+Category: Social Networking
+Overview: PartyLive is a social networking app that enables users to host virtual parties and events with friends and family. Users can create custom invitations, play games, and stream music and videos together in real-time.
+Programming Language: Java
+Built-in Frameworks (front-end, back-end, database): Agora.io, Firebase Realtime Database
+Launch Date: June 2019
+Downloads: 10,000+
+User Ratings: 3.9 out of 5.0 (248 ratings)
+Developer Information: PartyLive Inc.
+Pricing: Free with in-app purchases
+}
+
+
+
+
+Speeca 快说
+{
+
+App Store Link: https://apps.apple.com/us/app/speeca-快说/id1592971441
+Category: Education
+Overview: Speeca is an app that helps Chinese speakers improve their English pronunciation by providing them with real-time feedback on their speaking skills.
+Programming Language: Swift
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: August 2021
+Downloads: 10,000+
+User Ratings: 4.6 out of 5.0 (295 ratings)
+Developer Information: Speeca Inc.
+Pricing: Free with in-app purchases }
+Owwll
+{
+
+App Store Link: Not available
+Google Play Store Link: https://play.google.com/store/apps/details?id=owwll.com&hl=en&gl=US
+Category: Business
+Overview: Owwll is a business management app that helps small businesses manage their workflow and track their progress.
+Programming Language: Kotlin
+Built-in Frameworks (front-end, back-end, database): Firebase
+Launch Date: February 2020
+Downloads: 1,000+
+User Ratings: 4.3 out of 5.0 (10 ratings)
+Developer Information: Owwll Inc.
+Pricing: Free
+}
+
+Salus Monitor {
+App Store Link: Not available
+Google Play Store Link: https://play.google.com/store/apps/details?id=com.salusmonitor&hl=en&gl=US
+Category: Health & Fitness
+Overview: Salus Monitor is a health monitoring app that allows users to track their vital signs such as heart rate, blood pressure, and oxygen levels.
+Programming Language: Java
+Built-in Frameworks (front-end, back-end, database): Firebase Realtime Database
+Launch Date: December 2019
+Downloads: 10,000+
+User Ratings: 4.0 out of 5.0 (27 ratings)
+Developer Information: Salus Monitor Inc.
+Pricing: Free
+}
+
+Suicide Poker {
+App Store Link: Not available
+Google Play Store Link: https://play.google.com/store/apps/details?id=com.suicidepoker.pro.multiplayer.online.poker.games&hl=en
+Category: Card
+Overview: Suicide Poker is a multiplayer online poker game that allows users to play Texas hold'em and Omaha games with other players from around the world.
+Programming Language: Java
+Built-in Frameworks (front-end, back-end, database): Photon Unity Networking, SQLite
+Launch Date: February 2021
+Downloads: 100,000+
+User Ratings: 4.2 out of 5.0 (1,193 ratings)
+Developer Information: Bamtoo Games
+Pricing: Free with in-app purchases
+}
+
+LaundryBar {
+App Store Link: Not available
+Google Play Store Link: https://play.google.com/store/apps/details?id=com.bugzstudio.laundrybar&hl=en&gl=US
+Category: Lifestyle
+Overview: LaundryBar is a laundry pickup and delivery service app that allows users to schedule laundry pickups and track the status of their laundry orders.
+Programming Language: Kotlin
+Built-in Frameworks (front-end, back-end, database): Firebase, Stripe
+Launch Date: October 2019
+Downloads: 10,000+
+User Ratings: 4.1 out of 5.0 (235 ratings)
+Developer Information: Bugz Studio
+Pricing: Free
+}
+
+Arthdut {
+App Store Link: Not available
+Google Play Store Link: https://play.google.com/store/apps/details?id=com.yellosky.arthdut
+Category: Entertainment
+Overview: Arthdut is an app that provides users with a collection of Bengali short stories written by various authors.
+Programming Language: Java
+Built-in Frameworks (front-end, back-end, database): SQLite
+Launch Date: May 2021
+Downloads: 100+
+User Ratings: 3.7 out of 5.0 (3 ratings)
+Developer Information: YelloSky Technologies
+Pricing: Free
+}
+
+Hariprakash {
+App Store Link: https://apps.apple.com/in/app/hariprakash/id136
+Category: Lifestyle
+Overview: Hariprakash is an astrology app that provides users with personalized horoscopes, daily predictions, and auspicious timings for various activities.
+Programming Language: Swift
+Built-in Frameworks (front-end, back-end, database): Firebase, Alamofire
+Launch Date: March 2018
+Downloads: 10,000+
+User Ratings: 4.7 out of 5.0 (108 ratings)
+Developer Information: Anoop P.R.
+Pricing: Free with in-app purchases
+
+}
+
+Clubr {
+App Store Link: Not available
+Google Play Store Link: https://play.google.com/store/apps/details?id=com.ai.clubr
+Category: Social Networking
+Overview: Clubr is a social networking app that allows users to connect with like-minded people and join clubs based on their interests.
+Programming Language: Kotlin
+Built-in Frameworks (front-end, back-end, database): Firebase, Google Maps API
+Launch Date: January 2020
+Downloads: 1,000+
+User Ratings: 4.2 out of 5.0 (37 ratings)
+Developer Information: Clubr Technologies Pvt Ltd
+Pricing: Free
+}
+
+ToYourDoorApp {
+App Store Link: Not available
+Google Play Store Link: https://play.google.com/store/apps/details?id=com.developer.ToYourDoorApp
+Category: Business
+Overview: ToYourDoorApp is a delivery management app that helps small businesses manage their delivery orders and track the status of their deliveries in real-time.
+Programming Language: Java
+Built-in Frameworks (front-end, back-end, database): Firebase, Google Maps API
+Launch Date: May 2020
+Downloads: 100+
+User Ratings: 3.8 out of 5.0 (4 ratings)
+Developer Information: ToYourDoor
+Pricing: Free
+}
+
+
+
+QC Connect
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.qc.andr.connect
+Category: Productivity
+Overview: QC Connect is a mobile application designed to connect workers and employers in the construction industry. The app allows you to view job postings, apply for jobs, and communicate with employers and other workers.
+Programming Language: Java
+Built-in Frameworks (front-end, back-end, database): Front-end: Android SDK, Material Design; Back-end: Firebase; Database: Realtime Database
+Launch Date: 2018-01-15
+Downloads: 10,000+
+User Ratings: 3.2/5.0 (Rated by 34 users)
+Developer Information: QCollege, Inc.
+Pricing: Free }
+Dryve Ryde
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.dryve.Ryde
+Category: Transportation
+Overview: Dryve Ryde is a ride-hailing service that lets you book rides from your smartphone. The app offers various types of vehicles, including economy cars, luxury sedans, and SUVs, and allows you to track the location of your driver in real-time.
+Programming Language: Unknown
+Built-in Frameworks (front-end, back-end, database): Unknown
+Launch Date: 2020-05-06
+Downloads: 100,000+
+User Ratings: 4.0/5.0 (Rated by 5,246 users)
+Developer Information: Dryve Technologies Inc.
+Pricing: Free
+}
+
+Keto Babe Bakes {
+App Store Link: https://play.google.com/store/apps/details?id=com.ketobabebakes&hl=en_IN
+Category: Food & Drink
+Overview: Keto Babe Bakes is a mobile application that provides recipes and instructions for preparing low-carb, high-fat baked goods. The app offers a wide variety of recipes, including cakes, cookies, brownies, and muffins, that are suitable for those following a ketogenic diet.
+Programming Language: Unknown
+Built-in Frameworks (front-end, back-end, database): Unknown
+Launch Date: 2020-03-24
+Downloads: 5,000+
+User Ratings: 4.9/5.0 (Rated by 91 users)
+Developer Information: Keto Babe Bakes
+Pricing: Free
+}
+
+Skafferiet Foodstore {
+App Store Link: https://play.google.com/store/apps/details?id=com.alvas.skafferiet.foodstore
+Category: Food & Drink
+Overview: Skafferiet Foodstore is a mobile application that allows you to order groceries and other food items from your smartphone. The app offers a wide selection of products, including fresh produce, meats, dairy, and bakery items, which can be delivered to your door.
+Programming Language: Unknown
+Built-in Frameworks (front-end, back-end, database): Unknown
+Launch Date: 2019-09-11
+Downloads: 1,000+
+User Ratings: 2.6/5.0 (Rated by 7 users)
+Developer Information: Alvas Data AB
+Pricing: Free
+}
+
+Priority Pigeon {
+App Store Link: https://apps.apple.com/us/app/priority-pigeon/id1555406858
+Category: Productivity
+Overview: Priority Pigeon is a mobile application that helps you manage your email inbox more efficiently. The app allows you to prioritize your emails based on importance, and provides tools for archiving and searching through old messages.
+Programming Language: Swift
+Built-in Frameworks (front-end, back-end, database): Front-end: UIKit; Back-end: Firebase; Database: Firestore
+Launch Date: 2021-03-19
+Downloads: N/A
+User Ratings: N/A
+Developer Information: Priority Pigeon LLC
+Pricing: Free
+}
+
+Soyadeti {
+App Store Link: https://play.google.com/store/apps/details?id=com.app.soyadeti
+Category: Social Networking
+Overview: Soyadeti is a mobile application designed for people who want to connect with others who share their surname. The app allows you to create a profile, search for others with the same last name, and communicate with them through a messaging system.
+Programming Language: Unknown
+Built-in Frameworks (front-end, back-end, database): Unknown 
+Launch Date: 2019-12-14
+Downloads: 5,000+
+User Ratings: 4.5/5.0 (Rated by 25 users)
+Developer Information: Soyadeti Inc.
+Pricing: Free
+}
+
+Tiffinto {
+App Store Link: https://play.google.com/store/apps/details?id=com.tiffinto.tiffinto
+Category: Food & Drink
+Overview: Tiffinto is a mobile application that offers recipes and cooking tips for Indian cuisine. The app allows you to search for recipes by ingredient or category, and provides detailed instructions for each dish.
+Programming Language: Unknown
+Built-in Frameworks (front-end, back-end, database): Unknown
+Launch Date: 2020-06-07
+Downloads: 10,000+
+User Ratings: 4.2/5.0 (Rated by 1,207 users)
+Developer Information: Tiffinto
+Pricing: Free
+}
+
+Bigzpoon {
+App Store Link: https://apps.apple.com/us/app/bigzpoon/id1201218732?ls=1
+Category: Food & Drink
+Overview: Bigzpoon is a mobile application that offers recipes and cooking videos from popular chefs and food bloggers. The app allows you to search for recipes by ingredients, dietary restrictions, and cuisine type, and provides step-by-step instructions for each dish.
+Programming Language: Swift
+Built-in Frameworks (front-end, back-end, database): Front-end: UIKit; Back-end: Firebase; Database: Firestore
+Launch Date: 2017-01-11
+Downloads: N/A
+User Ratings: N/A
+Developer Information: Bigzpoon Inc.
+Pricing: Free
+}
+
+
+Charmr Private Diary & Mood Tracker
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.sdei.charmr&hl=en_IN&gl=US
+Category: Lifestyle
+Overview: Charmr is a free-to-use private diary and mood tracker app for Android devices. With this app, you can capture your thoughts, feelings, and emotions on a daily basis and keep them organized in one place. You can also track your moods over time and gain insights into your mental and emotional health.
+Programming Language: Java
+Built-in Frameworks: Android SDK, Firebase Realtime Database
+Launch Date: January 15, 2021
+Downloads: 100,000+
+User Ratings: 4.5 stars (out of 5) on Google Play Store
+Developer Information: SDEI LLC
+Pricing: Free }
+LiteWill Register Will Online
+{
+
+App Store Link: https://apps.apple.com/in/app/litewill-register-will-online/id1469859208
+Category: Productivity
+Overview: LiteWill is an iOS app that allows you to create and register your will online. With this app, you can create a legally binding will in just a few minutes, without any lawyer or legal knowledge. You can also update your will as your circumstances change, and share it with your loved ones and beneficiaries.
+Programming Language: Swift
+Built-in Frameworks: UIKit, CoreData, CloudKit
+Launch Date: June 25, 2019
+Downloads: 10,000+
+User Ratings: 4.8 stars (out of 5) on Apple App Store
+Developer Information: LiteWill Technologies Pty Ltd
+Pricing: Free to download, in-app purchases for additional features }
+Binzilla
+{
+
+App Store Link: https://apps.apple.com/us/app/binzilla/id1499938810?ls=1
+Category: Utilities
+Overview: Binzilla is an iOS app that helps you manage your trash and recycling schedule. With this app, you can easily find the pickup schedule for your area, set reminders for trash day, and learn about recycling guidelines. You can also report issues with your trash service and get updates on their status.
+Programming Language: Swift
+Built-in Frameworks: UIKit, MapKit, CoreLocation
+Launch Date: February 14, 2020
+Downloads: 1,000+
+User Ratings: 4.7 stars (out of 5) on Apple App Store
+Developer Information: Binzilla LLC
+Pricing: Free
+}
+
+Learn English Grammar, Vocabulary, Speaking
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.learn.english.grammarapp
+Category: Education
+Overview: Learn English is a free Android app that helps you improve your English language skills. With this app, you can learn grammar rules, build your vocabulary, and practice your speaking and listening skills through interactive lessons and exercises. You can track your progress and get personalized feedback on your performance.
+Programming Language: Java
+Built-in Frameworks: Android SDK
+Launch Date: September 25, 2019
+Downloads: 1,000,000+
+User Ratings: 4.6 stars (out of 5) on Google Play Store
+Developer Information: Knudge.me
+Pricing: Free to download, in-app purchases for additional features }
+Binilyas Shopping Online
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.onlineshoping.binilyas
+Category: Shopping
+Overview: Binilyas is a free Android app that lets you shop for a wide range of products online. With this app, you can browse products from various categories such as electronics, fashion, home appliances, and more. You can also compare prices, read reviews, and track your orders.
+Programming Language: Java
+Built-in Frameworks: Android SDK
+Launch Date: June 1, 2020
+Downloads: 100,000+
+User Ratings: 4.5 stars (out of 5) on Google Play Store
+Developer Information: Binilyas
+Pricing: Free
+}
+
+TaxiMo Taxi Cab Booking & Ride Sharing App {
+App Store Link: https://play.google.com/store/apps/details?id=com.taximo&hl=en
+Category: Travel & Local
+Overview: TaxiMo is a free Android app that lets you book taxi cabs and share rides with others in your area. With this app, you can easily book a ride, track the location of your driver, and pay for your trip using digital wallets or credit cards. You can also rate your driver and give feedback on your experience.
+Programming Language: Java
+Built-in Frameworks: Android SDK, Google Maps API
+Launch Date: September 12, 2019
+Downloads: 100,000+
+User Ratings: 4.2 stars (out of 5) on Google Play Store
+Developer Information: Taximo Technologies Pvt Ltd
+Pricing: Free to download, in-app purchases for additional features
+
+}
+
+Teen Job Find Part Time Job & Internship Search {
+App Store Link: https://play.google.com/store/apps/details?id=com.teenjobfind&hl=en
+Category: Business
+Overview: Teen Job Find is a free Android app that helps teenagers find part-time jobs and internships in their area. With this app, you can search for job opportunities based on your skills, interests, and availability. You can also apply for jobs directly through the app and get updates on your application status.
+Programming Language: Java
+Built-in Frameworks: Android SDK
+Launch Date: October 3, 2019
+Downloads: 10,000+
+User Ratings: 4.0 stars (out of 5) on Google Play Store
+Developer Information: Teen Job Find LLC
+Pricing: Free
+}
+
+FindMe Find My Phone & Lost Device Tracker {
+App Store Link: https://play.google.com/store/apps/details?id=com.findme.app
+Category: Tools
+Overview: FindMe is a free Android app that helps you find your lost or stolen phone. With this app, you can remotely locate your device, lock it, and wipe its data to prevent unauthorized access. You can also sound an alarm on your phone to help you locate it in case it's nearby.
+Programming Language: Java
+Built-in Frameworks: Android SDK, Firebase Realtime Database
+Launch Date: January 1, 2021
+Downloads: 100,000+
+User Ratings: 4.3 stars (out of 5) on Google Play Store
+Developer Information: FindMe Technologies
+Pricing: Free
+}
+
+Gorilla Island Jungle Survival Adventure Game {
+App Store Link: https://play.google.com/store/apps/details?id=com.jploft.gorillaisland&hl=en
+Category: Adventure
+Overview: Gorilla Island is a free Android game that takes you on a jungle survival adventure. With this game, you play as a gorilla who has to survive in the wild by hunting for food, building a shelter, and defending against predators. You can also explore the jungle and discover hidden treasures.
+Programming Language: Java
+Built-in Frameworks: Unity 3D
+Launch Date: March 15, 2020
+Downloads: 100,000+
+User Ratings: 4.2 stars (out of 5) on Google Play Store
+Developer Information: JPLOFT
+Pricing: Free
+}
+
+
+Golf Pad
+{
+
+App Store Link: https://play.google.com/store/apps/details?id=com.contorra.golfpad&hl=en&gl=US
+Category: Sports
+Overview: Golf Pad is a golf GPS rangefinder, scorecard, and shot tracker app. It offers accurate distances to the front, center, and back of the green, as well as hazards and targets on over 40,000 courses worldwide. The app also allows golfers to track their shots and scores in real-time.
+Programming Language: Unknown
+Built-in Frameworks: Unknown
+Launch Date: June 2012
+Downloads: 1,000,000+
+User Ratings: 4.6 stars (out of 5) on Google Play Store
+Developer Information: Golf Pad Inc.
+Pricing: Free (with in-app purchases) }
+Thank You LLC
+{
+
+App Store Link: https://apps.apple.com/kz/app/thank-you-llc/id1585503166
+Category: Business
+Overview: Thank You LLC is an app that allows users to send personalized thank-you letters and gifts to their customers or business partners. The app provides a large selection of templates for letters and gifts, and users can customize them to fit their needs.
+Programming Language: Swift
+Built-in Frameworks: Firebase, Alamofire, Kingfisher
+Launch Date: March 2021
+Downloads: 1,000+
+User Ratings: 4.9 stars (out of 5) on App Store
+Developer Information: Thank You LLC
+Pricing: Free (with in-app purchases)
+}
+
+Stepler Gå och få {
+App Store Link: https://apps.apple.com/se/app/stepler-gå-och-få/id1451006880
+Category: Health & Fitness
+Overview: Stepler Gå och få is a step counter and walking tracker app that encourages users to walk more by rewarding them with coins for every step they take. The coins can be exchanged for discounts and rewards from participating businesses.
+Programming Language: Swift
+Built-in Frameworks: Core Location, Core Motion, AVFoundation, StoreKit
+Launch Date: December 2018
+Downloads: 10,000+
+User Ratings: 4.8 stars (out of 5) on App Store
+Developer Information: Stepler Technologies AB
+Pricing: Free
+}
+
+Geoff Banks Online {
+App Store Link: https://apps.apple.com/gb/app/geoff-banks-online/id881898186
+Category: Finance
+Overview: Geoff Banks Online is a mobile banking app that allows users to manage their accounts, view balances, transfer funds, and pay bills. It also provides access to Geoff Banks' sports betting services.
+Programming Language: Objective-C
+Built-in Frameworks: Unknown
+Launch Date: May 2014
+Downloads: 1,000+
+User Ratings: 3.2 stars (out of 5) on App Store
+Developer Information: Geoff Banks Limited
+Pricing: Free
+}
+
+Soundwise: Learn On The Go {
+App Store Link: https://apps.apple.com/us/app/soundwise-learn-on-the-go/id1290299134?ls=1
+Category: Education
+Overview: Soundwise is an audio learning platform that offers a range of courses and podcasts in various topics, such as entrepreneurship, personal development, and wellness. Users can listen to the content on-the-go and at their own pace.
+Programming Language: Swift
+Built-in Frameworks: Alamofire, SwiftyJSON, RealmSwift, Firebase
+Launch Date: August 2017
+Downloads: 10,000+
+User Ratings: 4.6 stars (out of 5) on App Store
+Developer Information: Soundwise Inc.
+Pricing: Free (with in-app purchases)
+}
+
+Voucher Connect {
+App Store Link: https://play.google.com/store/apps/details?id=com.voucherconnect.android
+Category: Lifestyle
+Overview: Voucher Connect is a coupon app that provides users with discounts and deals for local businesses. The app offers a wide selection of vouchers for various categories, such as restaurants, beauty, and fitness.
+Programming Language: Kotlin
+Built-in Frameworks: Dagger, Retrofit, Gson, Glide
+Launch Date: December 2018
+Downloads: 1,000+
+User Ratings: 4.0 stars (out of 5) on Google Play Store
+Developer Information: Voucher Connect Limited
+Pricing: Free
+}
+
+Ohapp - Video Consultations {
+App Store Link: https://play.google.com/store/apps/details?id=com.oh.ohapp
+Category: Medical
+Overview: Ohapp is a telemedicine app that provides video consultations with licensed healthcare professionals. Users can book appointments, receive medical advice, and get prescriptions for common health concerns.
+Programming Language: JavaScript
+Built-in Frameworks: React Native, Redux, Node.js, AWS
+Launch Date: October 2018
+Downloads: 10,000+
+User Ratings: 4.3 stars (out of 5) on Google Play Store
+Developer Information: Ohapp Health Inc.
+Pricing: Free (with in-app purchases)
+}
+
+Grohood {
+App Store Link: https://play.google.com/store/apps/details?id=com.grohood
+Category: Social Networking
+Overview: Grohood is a social networking app that connects neighbors and local communities. Users can join their community's network, post and view local events, and communicate with other residents.
+Programming Language: Kotlin
+Built-in Frameworks: Retrofit, OkHttp3, Glide
+Launch Date: January 2019
+Downloads: 1,000+
+User Ratings: 4.3 stars (out of 5) on Google Play Store
+Developer Information: Grohood Technologies Private Limited
+Pricing: Free
+}
+
+EMS Tracking {
+App Store Link: https://play.google.com/store/apps/details?id=com.mk.ems
+Category: Productivity
+Overview: EMS Tracking is an app that allows users to track their packages and shipments from EMS (Express Mail Service), an international postal service. Users can input their tracking numbers and receive real-time updates on the status of their deliveries.
+Programming Language: Java
+Built-in Frameworks: Unknown
+Launch Date: February 2017
+Downloads: 1,000,000+
+User Ratings: 4.2 stars (out of 5) on Google Play Store
+Developer Information: Unknown
+Pricing: Free
+}
+
+Vyapar - Accounting & Invoicing {
+App Store Link: https://play.google.com/store/apps/details?id=vyapar.vcredit
+Category: Business
+Overview: Vyapar is a business accounting and invoicing app designed for small businesses. The app allows users to manage their finances, create invoices and estimates, track inventory, and generate financial reports.
+Programming Language: Java
+Built-in Frameworks: Retrofit, Picasso, ButterKnife
+Launch Date: May 2017
+Downloads: 1,000,000+
+User Ratings: 4.4 stars (out of 5) on Google Play Store
+Developer Information: Vyapar Tech Solutions Pvt. Ltd.
+Pricing: Free (with in-app purchases)
+}
+
+NCE Exam EZ Prep {
+App Store Link: https://apps.apple.com/us/app/nce-exam-ez-prep/id1664527804
+Category: Education
+Overview: NCE Exam EZ Prep is an app that prepares users for the National Counselor Examination (NCE), a certification exam for counselors. The app provides practice questions and flashcards covering various topics related to counseling.
+Programming Language: Swift
+Built-in Frameworks: Unknown
+Launch Date: June 2021
+Downloads: 1,000+
+User Ratings: 4.0 stars (out of 5) on App Store
+Developer Information: Therapy Exam Prep LLC
+Pricing: Free (with in-app purchases)
+}
+
+
+
+Project Name: Clearmove Voyager
+{
+
+App Store Link: https://apps.apple.com/us/app/clearmove-voyager/id1511550809
+Category: Travel
+Overview: Clearmove Voyager is a travel app that helps users plan and book their trips. Users can search for flights, hotels, and rental cars, as well as explore popular destinations and read reviews from other travelers.
+Programming Language: Swift
+Built-in Frameworks (front-end, back-end, database): UIKit, MapKit, CoreLocation, Alamofire
+Launch Date: May 2020
+Downloads: 500+
+User Ratings: 4.7/5
+Developer Information: Clearmove Inc.
+Pricing: Free }
+Project Name: Pink Papilio
+{
+
+App Store Link: https://apps.apple.com/be/app/pink-papilio/id1574474715
+Category: Lifestyle
+Overview: Pink Papilio is a lifestyle app that provides personalized skincare routines based on the user's skin type and concerns. The app also offers a range of beauty tips and tutorials, as well as a marketplace where users can purchase skincare products.
+Programming Language: Swift
+Built-in Frameworks (front-end, back-end, database): UIKit, CoreData, SwiftUI, Alamofire
+Launch Date: April 2021
+Downloads: 100+
+User Ratings: 4.8/5
+Developer Information: Pink Papilio Inc.
+Pricing: Free
+}
+
+Project Name: RatherMe {
+App Store Link: https://play.google.com/store/apps/details?id=com.app.ratherme
+Category: Social
+Overview: RatherMe is a social networking app that allows users to create and participate in polls on a variety of topics. Users can also follow other users and view their poll results, as well as share their own polls on other social media platforms.
+Programming Language: Java
+Built-in Frameworks (front-end, back-end, database): Android SDK, Firebase
+Launch Date: September 2019
+Downloads: 1,000+
+User Ratings: 4.2/5
+Developer Information: RatherMe LLC
+Pricing: Free
+}
+
+Project Name: PlexusMD {
+App Store Link: https://play.google.com/store/apps/details?id=com.plexusmd.app&hl=en
+Category: Medical
+Overview: PlexusMD is a medical app that provides healthcare professionals with the latest news, research, and job opportunities in the field. The app also offers a forum where users can discuss medical topics and seek advice from other professionals.
+Programming Language: Java
+Built-in Frameworks (front-end, back-end, database): Android SDK, Firebase, Retrofit, OkHttp
+Launch Date: August 2016
+Downloads: 50,000+
+User Ratings: 4.5/5
+Developer Information: PlexusMD Inc.
+Pricing: Free
+}
+
+Project Name: Rentastic {
+App Store Link: https://play.google.com/store/apps/details?id=com.bryce.rentastic
+Category: Finance
+Overview: Rentastic is a finance app that helps users track their rental property income and expenses. Users can create and manage rental properties, track rent payments and due dates, and generate reports for tax purposes.
+Programming Language: Kotlin
+Built-in Frameworks (front-end, back-end, database): Android SDK, Room, Retrofit
+Launch Date: January 2020
+Downloads: 1,000+
+User Ratings: 4.3/5
+Developer Information: Bryce Apps Inc.
+Pricing: $4.99
+}
+
+Project Name: Flik Cinema {
+App Store Link: https://play.google.com/store/apps/details?id=com.flikcinema.app
+Category: Entertainment
+Overview: Flik Cinema is a movie streaming app that allows users to watch popular and independent movies. Users can browse by genre, create watchlists, and rate movies for personalized recommendations.
+Programming Language: Java
+Built-in Frameworks (front-end, back-end, database): Android SDK, Firebase, Retrofit, Picasso
+Launch Date: March 2019
+Downloads: 10,000+
+User Ratings: 4.2/5
+Developer Information: Flik Cinema Inc.
+Pricing: Free
+}
+
+Project Name: JSwipe {
+App Store Link: https://play.google.com/store/apps/details?id=com.smooch.labs.jswipe
+Category: Social
+Overview: JSwipe is a dating app that caters to Jewish singles looking for relationships. Users can swipe right on profiles they like and chat with matches, as well as filter search results by location, age, and religious affiliation.
+Programming Language: Java
+Built-in Frameworks (front-end, back-end, database): Android SDK, Firebase, Retrofit, OkHttp
+Launch Date: November 2014
+Downloads: 100,000+
+User Ratings: 3.9/5
+Developer Information: Smooch Labs Inc.
+Pricing: Free
+
+}
+
+Project Name: Helbiz {
+App Store Link: https://apps.apple.com/us/app/helbiz/id1438844293
+Category: Transportation
+Overview: Helbiz is a transportation app that allows users to rent electric scooters and bicycles in select cities around the world. Users can locate available vehicles on a map, unlock them using the app, and pay for their ride through the app.
+Programming Language: Swift
+Built-in Frameworks (front-end, back-end, database): UIKit, MapKit, CoreLocation, Alamofire
+Launch Date: January 2019
+Downloads: 100,000+
+User Ratings: 4.5/5
+Developer Information: Helbiz Inc.
+Pricing: Free
+}
+
+Project Name: Trivia World {
+App Store Link: N/A (not available on App Store)
+Category: Trivia
+Overview: Trivia World is a trivia game app that offers questions on a variety of categories including history, science, and pop culture. Players can challenge friends or play against random opponents, earn points, and climb the global leaderboards.
+Programming Language: Java
+Built-in Frameworks (front-end, back-end, database): Android SDK, Firebase, Retrofit
+Launch Date: August 2017
+Downloads: 50,000+
+User Ratings: 4.1/5
+Developer Information: Trivia World LLC
+Pricing: Free (with in-app purchases)
+
+
+Red Taxi {
+App Store Link: https://play.google.com/store/apps/details?id=com.eaglefleet.redtaxi
+Category: Travel & Local
+Overview: Red Taxi is a ride-hailing app that allows users to book a taxi easily and quickly. It provides a convenient way for users to get to their destination safely and comfortably.
+Programming Language: Java/Kotlin
+Built-in Frameworks (front-end, back-end, database): Retrofit, OkHttp, Google Maps Android API
+Launch Date: August 2017
+Downloads: 100,000+
+User Ratings: 4.2 out of 5 stars (7,319 ratings)
+Developer Information: Eagle Fleet Services Sdn Bhd
+Pricing: Free
+}
+
+Food Delivery by DoorDash {
+App Store Link: https://play.google.com/store/apps/details?id=com.dd.doordash
+Category: Food & Drink
+Overview: DoorDash is a food delivery app that enables users to order food from their favorite local restaurants and have it delivered right to their door. It provides a wide selection of cuisine options and delivery within minutes.
+Programming Language: Java/Kotlin
+Built-in Frameworks (front-end, back-end, database): Retrofit, OkHttp, Glide
+Launch Date: December 2013
+Downloads: 10,000,000+
+User Ratings: 4.4 out of 5 stars (404,713 ratings)
+Developer Information: DoorDash, Inc.
+Pricing: Free with in-app purchases
+}
+
+Negotiation 360 {
+App Store Link: https://play.google.com/store/apps/details?id=com.negotiation360.negotiation360
+Category: Business
+Overview: Negotiation 360 is a business app that helps users prepare for negotiations and improve their negotiation skills. It provides various tools and resources to help users negotiate more effectively.
+Programming Language: Java/Kotlin
+Built-in Frameworks (front-end, back-end, database): Retrofit, OkHttp, Gson, SQLite
+Launch Date: August 2019
+Downloads: 10,000+
+User Ratings: 4.2 out of 5 stars (74 ratings)
+Developer Information: Negotiation 360 LLC
+Pricing: Free with in-app purchases
+}
+
+Swap Shop {
+App Store Link: https://play.google.com/store/apps/details?id=com.helio.swapshop
+Category: Shopping
+Overview: Swap Shop is a shopping app that allows users to trade items with each other. It provides a platform for users to exchange goods they no longer need for items they want.
+Programming Language: Java/Kotlin
+Built-in Frameworks (front-end, back-end, database): Retrofit, OkHttp, Picasso, Firebase Realtime Database
+Launch Date: January 2020
+Downloads: 1,000+
+User Ratings: 4.7 out of 5 stars (20 ratings)
+Developer Information: Helio Interactive Technologies Private Limited
+Pricing: Free
+}
+
+Royal Golf Club {
+App Store Link: https://play.google.com/store/apps/details?id=com.golfapp.royalgc&hl=ru
+Category: Sports
+Overview: The Royal Golf Club app provides users with information about the golf course, events, and tee times. It also allows users to book tee times and keep track of their scores.
+Programming Language: Java/Kotlin
+Built-in Frameworks (front-end, back-end, database): Retrofit, OkHttp, Glide, Firebase Realtime Database
+Launch Date: December 2019
+Downloads: 1,000+
+User Ratings: 4.6 out of 5 stars (11 ratings)
+Developer Information: Royal Golf Club
+Pricing: Free
+}
+
+Zaiqa Daar {
+App Store Link: https://play.google.com/store/apps/details?id=com.designerslogics.zaiqadaar
+Category: Food & Drink
+Overview: Zaiqa Daar is a recipe app that provides users with a wide range of Pakistani and Indian recipes. It allows users to search for recipes by ingredients and save their favorite recipes for future reference.
+Programming Language: Java/Kotlin
+Built-in Frameworks (front-end, back-end, database): Retrofit, OkHttp, Picasso, Firebase Realtime Database
+Launch Date: January 2020
+Downloads: 10,000+
+- User Ratings: 4.5 out of 5 stars (114 ratings)
+- Developer Information: Designers Logics
+- Pricing: Free
+
+}
+
+
+Gifty {
+App Store Link: https://play.google.com/store/apps/details?id=com.salentro.gifty&hl=en
+Category: Shopping
+Overview: Gifty is a mobile app that allows users to send digital gift cards to their friends and family for various occasions. Users can choose from a wide range of brands and retailers, customize the gift card with a personal message, and send it via email or SMS.
+Programming Language: Not specified
+Built-in Frameworks (front-end, back-end, database): Not specified
+Launch Date: 2017
+Downloads: 10,000+
+User Ratings: 4.2/5
+Developer Information: Salentro Technologies
+Pricing: Free
+}
+
+SpotMe Fitness {
+App Store Link: https://play.google.com/store/apps/details?id=com.spotme.fitness&hl=en
+Category: Health & Fitness
+Overview: SpotMe Fitness is a fitness app that offers personalized workout plans, video demonstrations, and tracking features. It also includes a social community where users can share their progress, connect with friends, and participate in challenges.
+Programming Language: Not specified
+Built-in Frameworks (front-end, back-end, database): Not specified
+Launch Date: 2019
+Downloads: 100,000+
+User Ratings: 4.6/5
+Developer Information: SpotMe
+Pricing: Free with in-app purchases
+}
+
+AutoGenie {
+App Store Link: https://play.google.com/store/apps/details?id=pk.autogenie.www.autogenie
+Category: Auto & Vehicles
+Overview: AutoGenie is a mobile app that provides on-demand car maintenance and repair services in Pakistan. Users can book a service, track the progress of their car's maintenance or repair, and pay using the app.
+Programming Language: Not specified
+Built-in Frameworks (front-end, back-end, database): Not specified
+Launch Date: 2017
+Downloads: 10,000+
+User Ratings: 4.0/5
+Developer Information: AutoGenie Pvt Ltd
+Pricing: Free
+}
+
+Treads App {
+App Store Link: https://apps.apple.com/us/app/treads-app/id1494159985
+Category: Social Networking
+Overview: Treads App is a social media platform for sneaker enthusiasts. Users can create profiles, share photos and videos of their sneakers, follow other users, and browse through a wide range of sneakers from different brands and retailers.
+Programming Language: Swift
+Built-in Frameworks (front-end, back-end, database): UIKit, Core Data
+Launch Date: 2020
+Downloads: 1,000+
+User Ratings: 4.9/5
+Developer Information: Viceroy Technologies LLC
+Pricing: Free with in-app purchases
+}
+
+Rythmos CM {
+App Store Link: https://apps.apple.com/us/app/rythmos-cm/id1526834412
+Category: Health & Fitness
+Overview: Rythmos CM is a mobile app that offers guided breathing exercises to help users reduce stress, improve their sleep quality, and increase their focus and productivity. Users can choose from different programs based on their goals and preferences.
+Programming Language: Swift
+Built-in Frameworks (front-end, back-end, database): UIKit
+Launch Date: 2020
+Downloads: 100+
+User Ratings: 4.6/5
+Developer Information: Rythmos CM LLC
+Pricing: Free with in-app purchases
+}
+
+TrueFire {
+App Store Link: https://apps.apple.com/us/app/truefire/id690143001
+Category: Music
+Overview: TrueFire is a mobile app that offers online guitar lessons from top instructors around the world. Users can access a wide range of courses, video lessons, and interactive tools to improve their skills and learn new techniques.
+Programming Language: Not specified
+Built-in Frameworks (front-end, back-end, database): Not specified
+Launch Date: 2013
+Downloads: 10,000+
+User Ratings: 4.8/5
+Developer Information: TrueFire Inc.
+Pricing: Free with subscription options
+}
+
+Saturn - School Scheduling {
+App Store Link: https://apps.apple.com/us/app/saturn-school-scheduling/id1454483188
+Category: Education
+Overview: Saturn is a mobile app that helps students manage their school schedules and assignments. It allows users to create a personalized schedule, set reminders for upcoming assignments, and sync their data across multiple devices.
+Programming Language: Swift
+Built-in Frameworks (front-end, back-end, database): UIKit, Firebase
+Launch Date: 2019
+Downloads: 10,000+
+User Ratings: 4.3/5
+Developer Information: Saturn App LLC
+Pricing: Free with in-app purchases
+}
+
+
+Walker Tracker {
+App Store Link: https://apps.apple.com/us/app/walker-tracker/id844623241
+Category: Health & Fitness
+Overview: Walker Tracker is a mobile app that helps users track their physical activity and compete with others in challenges. It provides detailed insights into steps, distance, and calories burned.
+Programming Language: Unknown
+Built-in Frameworks: Unknown
+Launch Date: Unknown
+Downloads: 10,000+
+User Ratings: 4.7 out of 5 (Rated by 787 users)
+Developer Information: Walker Tracker LLC
+Pricing: Free
+}
+
+MyCard - NFC Payment {
+App Store Link: https://apps.apple.com/us/app/id1529745666
+Category: Finance
+Overview: MyCard is a mobile app that allows users to make contactless payments using NFC technology. It supports multiple payment methods and allows users to keep track of their transactions.
+Programming Language: Unknown
+Built-in Frameworks: Unknown
+Launch Date: 2020
+Downloads: 1,000+
+User Ratings: 4.8 out of 5 (Rated by 16 users)
+Developer Information: Shenzhen Hongtai Intelligent Technology Co., Ltd.
+Pricing: Free
+}
+
+Blackjack Pizza {
+App Store Link: https://apps.apple.com/us/app/blackjack-pizza/id470638776
+Category: Food & Drink
+Overview: Blackjack Pizza is a mobile app that allows users to order pizza online for delivery or pickup. It offers a variety of toppings and allows users to customize their orders.
+Programming Language: Unknown
+Built-in Frameworks: Unknown
+Launch Date: Unknown
+Downloads: 1,000+
+User Ratings: 4.3 out of 5 (Rated by 128 users)
+Developer Information: Blackjack Pizza
+Pricing: Free
+}
+
+Urban Point {
+App Store Link: https://apps.apple.com/in/app/urban-point/id1074590743
+Category: Lifestyle
+Overview: Urban Point is a mobile app that offers discounts and deals on dining, leisure, beauty, and entertainment in Qatar. It allows users to discover new places and save money.
+Programming Language: Unknown
+Built-in Frameworks: Unknown
+Launch Date: Unknown
+Downloads: 50,000+
+User Ratings: 4.6 out of 5 (Rated by 776 users)
+Developer Information: Urban Point LLC
+Pricing: Free
+}
+
+Hello Africa {
+App Store Link: https://apps.apple.com/us/app/hello-africa/id1409202321
+Category: News
+Overview: Hello Africa is a mobile app that provides news and information about Africa. It covers a wide range of topics, including politics, business, sports, and culture.
+Programming Language: Unknown
+Built-in Frameworks: Unknown
+Launch Date: Unknown
+Downloads: 1,000+
+User Ratings: 4.2 out of 5 (Rated by 14 users)
+Developer Information: Hello Africa Media
+Pricing: Free
+}
+
+Mood Media For Business {
+App Store Link: https://play.google.com/store/apps/details?id=com.moodmedia.appformoodsdkmood&hl=en
+Category: Business
+Overview: Mood Media for Business is a mobile app that gives businesses control over their music and messaging. It allows them to create custom playlists, schedule audio content, and manage multiple locations.
+Programming Language: Unknown
+Built-in Frameworks: Unknown
+Launch Date: 2015
+Downloads: 50,000+
+User Ratings: 3.9 out of 5 (Rated by 1,854 users)
+Developer Information: Mood Media Corporation
+Pricing: Free
+}
+
+MAXUS {
+App Store Link: https://play.google.com/store/apps/details?id=com.subcodevs.maxus&hl=en
+Category: Business
+Overview: MAXUS is a mobile app that helps businesses manage their logistics and transportation operations. It provides real-time visibility into shipments, delivery status, and inventory levels.
+Programming Language: Unknown
+Built-in Frameworks: Unknown
+Launch Date: Unknown
+Downloads: 10,000+
+User Ratings: 4.1 out of 5 (Rated by 149 users)
+Developer Information: Subcodevs
+Pricing: Free
+}
+
+BZBee Deli {
+App Store Link: https://apps.apple.com/us/app/bzbeedeli/id1635613357
+Category: Food & Drink
+Overview: BZBee Deli is a mobile app that allows users to order food and drinks online for delivery or pickup. It offers a variety of options, including sandwiches, salads, smoothies, and coffee.
+Programming Language: Unknown
+Built-in Frameworks: Unknown
+Launch Date: 2021
+Downloads: 10+
+User Ratings: N/A
+Developer Information: BZBee Deli
+Pricing: Free
+}
+
+
+Film Studio AR {
+App Store Link: https://apps.apple.com/us/app/film-studio-ar/id1304181505
+Category: Photo & Video
+Overview: Film Studio AR is an augmented reality app that allows users to create movie sets and scenes in their own environment using virtual props, characters and special effects.
+Programming Language: Swift
+Built-in Frameworks (front-end, back-end, database): ARKit
+Launch Date: December 2017
+Downloads: 10,000+
+User Ratings: 4.2/5 on App Store
+Developer Information: Developed by NexTech AR Solutions Corp.
+Pricing: Free
+}
+
+Photo Studio AR {
+App Store Link: https://apps.apple.com/us/app/photo-studio-ar/id1366390000
+Category: Photo & Video
+Overview: Photo Studio AR is an augmented reality app that allows users to add virtual objects and effects to their photos, as well as apply filters and edit them with various tools.
+Programming Language: Swift
+Built-in Frameworks (front-end, back-end, database): ARKit
+Launch Date: May 2018
+Downloads: 10,000+
+User Ratings: 4/5 on App Store
+Developer Information: Developed by ARLOOPA Inc.
+Pricing: Free
+}
+
+Helicopter Pilot AR {
+App Store Link: https://apps.apple.com/us/app/helicopter-pilot-ar/id1401278788
+Category: Games
+Overview: Helicopter Pilot AR is an augmented reality game that simulates flying a helicopter through various obstacles and challenges in the real world environment.
+Programming Language: Unity
+Built-in Frameworks (front-end, back-end, database): ARKit
+Launch Date: June 2018
+Downloads: 5,000+
+User Ratings: 3.7/5 on App Store
+Developer Information: Developed by Quantum Robot Games Ltd.
+Pricing: Free
+}
+
+Hidden Faces {
+App Store Link: https://apps.apple.com/us/app/hidden-faces/id1481382532?ls=1
+Category: Games
+Overview: Hidden Faces is an augmented reality game that challenges users to find and capture virtual creatures hidden in the real world environment.
+Programming Language: Unity
+Built-in Frameworks (front-end, back-end, database): ARKit
+Launch Date: November 2019
+Downloads: 1,000+
+User Ratings: 3.9/5 on App Store
+Developer Information: Developed by LBXR AR Labs Ltd.
+Pricing: Free
+}
+
+Elete Dribble {
+App Store Link: https://apps.apple.com/us/app/elete-dribble/id1454189239?ls=1
+Category: Sports
+Overview: Elete Dribble is a basketball training app that uses augmented reality to provide dribbling drills and exercises for players of all skill levels.
+Programming Language: Swift
+Built-in Frameworks (front-end, back-end, database): ARKit
+Launch Date: January 2019
+Downloads: 1,000+
+User Ratings: 3.8/5 on App Store
+Developer Information: Developed by Elete, LLC
+Pricing: Free
+}
+
+VizRef {
+App Store Link: https://apps.apple.com/us/app/vizref/id1482680568
+Category: Utilities
+Overview: VizRef is an augmented reality app that allows users to visualize and measure dimensions of objects in the real world using their phone camera.
+Programming Language: Swift
+Built-in Frameworks (front-end, back-end, database): ARKit
+Launch Date: November 2019
+Downloads: 100+
+User Ratings: 5/5 on App Store
+Developer Information: Developed by VizRef LLC
+Pricing: Free
+}
+
+Fly Virga {
+App Store Link: https://apps.apple.com/ca/app/fly-virga/id1524210560
+Category: Games
+Overview: Fly Virga is an augmented reality game that simulates flying a paper airplane through various challenges and obstacles in the real world environment.
+Programming Language: Unity
+Built-in Frameworks (front-end, back-end, database): ARKit
+Launch Date: July 2020
+Downloads: 1,000+
+User Ratings: 4.5/5 on App Store
+Developer Information: Developed by Virga Interactive Inc.
+Pricing: Free
+}
+
+Sukhi Workplace Well-being {
+App Store Link: https://apps.apple.com/in/app/sukhi-workplace-well-being/id1585123698
+Category: Health & Fitness
+Overview: Sukhi Workplace Well-being is an augmented reality app that provides guided meditation and stress management exercises for employees in the workplace.
+Programming Language: Swift
+Built-in Frameworks (front-end, back-end, database): ARKit
+Launch Date: August 2021
+Downloads: 500+
+User Ratings: 4.7/5 on App Store
+Developer Information: Developed by Sukhi Corporation Pvt. Ltd.
+Pricing: Free
+}
+
+Driver Bee Line {
+App Store Link: https://apps.apple.com/us/app/driver-bee-line/id1561030503
+Category: Navigation
+Overview: Driver Bee Line is an augmented reality navigation app that displays driving directions and road information in real time using the phone camera.
+Programming Language: Swift
+Built-in Frameworks (front-end, back-end, database): ARKit
+Launch Date: May 2021
+Downloads: 100+
+User Ratings: 3.9/5 on App Store
+Developer Information: Developed by Driver Bee Line LLC
+Pricing: Free
+}
+
+
+Mandarin Show
+{
+
+App Store Link: https://apps.apple.com/us/app/mandarin-show/id1509689319
+Category: Education
+Overview: "Mandarin Show" is an educational mobile app that teaches Mandarin Chinese through various video lessons and interactive exercises. It features a wide range of topics, from beginner to advanced levels, and provides learners with a comprehensive understanding of the language.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: March 2020
+Downloads: 10K+
+User Ratings: 4.6 out of 5 stars
+Developer Information: Guangzhou Ruanyu Network Technology Co., Ltd.
+Pricing: Free with in-app purchases }
+V1 Golf
+{
+
+App Store Link: https://apps.apple.com/us/app/v1-golf/id349715369
+Category: Sports
+Overview: "V1 Golf" is a sports mobile app that allows golfers to capture, analyze, and share their golf swings using video analysis tools. It features a simple interface, powerful swing analysis technology, and the ability to compare your swing to professional golfers.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: January 2010
+Downloads: 500K+
+User Ratings: 4.3 out of 5 stars
+Developer Information: V1 Sports
+Pricing: Free with in-app purchases }
+Trecco - Your Travel Community
+{
+
+App Store Link: https://apps.apple.com/us/app/trecco-your-travel-community/id1501824385
+Category: Travel
+Overview: "Trecco" is a travel mobile app that allows users to connect with other travelers, discover new places, and share their travel experiences. It features a community-driven platform, location-based search, and the ability to create and join groups.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: March 2020
+Downloads: 10K+
+User Ratings: 4.8 out of 5 stars
+Developer Information: Trecco Inc.
+Pricing: Free
+}
+
+EPR - Easy Pill Reminder
+{
+
+App Store Link: https://apps.apple.com/us/app/epr-easy-pill-reminder/id1644414472
+Category: Health & Fitness
+Overview: "EPR" is a health mobile app that helps users manage their medications and reminds them to take their pills on time. It features a user-friendly interface, customizable reminders, and medication history tracking.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: May 2021
+Downloads: 1K+
+User Ratings: 5 out of 5 stars
+Developer Information: EPR LLC
+Pricing: Free with in-app purchases }
+
+Parcel Witness
+{
+
+App Store Link: https://apps.apple.com/us/app/parcel-witness/id1629323360
+Category: Utilities
+Overview: "Parcel Witness" is a mobile app that provides users with a secure and tamper-proof way to document the delivery of packages. It features a blockchain-based system, real-time notifications, and a digital signature verification process.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: August 2021
+Downloads: 100+
+User Ratings: 4.6 out of 5 stars
+Developer Information: Techub LLC
+Pricing: Free with in-app purchases }
+Bonnyton Golf Club
+{
+
+App Store Link: https://apps.apple.com/us/app/bonnyton-golf-club/id1625860540
+Category: Sports
+Overview: "Bonnyton Golf Club" is a mobile app designed for members of the Bonnyton Golf Club. It features a range of services, including booking tee times, viewing upcoming events, and accessing member-only content.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: July 2021
+Downloads: 10+
+User Ratings: N/A
+Developer Information: The Pixel Parade Ltd
+Pricing: Free
+}
+
+Thank You LLC {
+App Store Link: https://apps.apple.com/kz/app/thank-you-llc/id1585503166
+Category: Lifestyle
+Overview: "Thank You LLC" is a mobile app that allows users to send physical gifts to loved ones in Kazakhstan. It features a wide range of products, from flowers to desserts, and provides a convenient and personalized gifting experience.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: April 2021
+Downloads: 5K+
+User Ratings: 4.9 out of 5 stars
+Developer Information: Thank You LLC
+Pricing: Free with in-app purchases }
+
+
+Stepler - Gå och få {
+App Store Link: https://apps.apple.com/se/app/stepler-gå-och-få/id1451006880
+Category: Health & Fitness
+Overview: Stepler is a health and fitness app that tracks your steps and encourages you to walk more throughout the day. It also has features like a pedometer, calorie tracker, and social sharing.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: January 2019
+Downloads: Over 10,000
+User Ratings: 4.5 / 5 stars (based on 218 ratings)
+Developer Information: Stepler AB
+Pricing: Free
+}
+
+Gospel Trumpet Radio {
+App Store Link: https://apps.apple.com/us/app/gospel-trumpet-radio/id952011475
+Category: Music
+Overview: Gospel Trumpet Radio is a music streaming app for Christian gospel music. It streams live radio stations from around the world and also allows users to create their own playlists and listen offline.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: April 2015
+Downloads: Over 1,000
+User Ratings: 4.8 / 5 stars (based on 44 ratings)
+Developer Information: JKC Broadcast Inc.
+Pricing: Free
+}
+
+Ludus {
+App Store Link: Not available
+Category: Business
+Overview: Ludus is a mobile app that helps businesses manage their payroll, employee benefits, and HR tasks. It also includes features for time tracking, scheduling, and compliance.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: Not available
+Downloads: Not available
+User Ratings: Not available
+Developer Information: Ludus LLC
+Pricing: Free to download, but requires a subscription to use
+}
+
+Spond {
+App Store Link: https://apps.apple.com/us/app/spond-group-sports-teams/id1066999812
+Category: Sports
+Overview: Spond is a sports team management app that helps coaches and team organizers communicate with players and parents, schedule practices and games, and track attendance and availability.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: January 2016
+Downloads: Over 500,000
+User Ratings: 4.7 / 5 stars (based on 2,100 ratings)
+Developer Information: Spond AS
+Pricing: Free
+}
+
+Classmate {
+App Store Link: https://play.google.com/store/apps/details?id=com.classmate.cloudtenlabs.ach
+Category: Education
+Overview: Classmate is an education app that provides online courses and learning materials for students in India. It covers a range of topics, including math, science, English, and social studies, and is designed to supplement classroom learning.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: May 2019
+Downloads: Over 1 million
+User Ratings: 4.2 / 5 stars (based on 7,400 ratings)
+Developer Information: CloudTen Labs Pvt Ltd
+Pricing: Free, with in-app purchases for some courses
+}
+
+TalentKode {
+App Store Link: https://play.google.com/store/apps/details?id=talentkode.topya.wsfc
+Category: Education
+Overview: TalentKode is an online learning platform that offers courses and certifications in IT skills like coding, web development, and app development. It includes features like interactive lessons, quizzes, and project-based learning.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: February 2021
+Downloads: Over 5,000
+User Ratings: 4.9 / 5 stars (based on 90 ratings)
+Developer Information: Talent Kode
+Pricing: Free, with in-app purchases for some courses
+}
+
+
+Topya Yoga {
+App Store Link: https://apps.apple.com/us/app/topya-yoga/id1123506691
+Category: Health & Fitness
+Overview: Topya Yoga is a yoga app that provides guided audio and video sessions for users of all skill levels. It includes a variety of styles, including Hatha, Vinyasa, and Yin, and allows users to create personalized routines.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: July 2016
+Downloads: Over 10,000
+User Ratings: 4.8 / 5 stars (based on 1,300 ratings)
+Developer Information: Topya Inc.
+Pricing: Free to download, with in-app purchases for premium content
+}
+
+Glambu - App de Citas {
+App Store Link: https://apps.apple.com/pe/app/glambu-app-de-citas/id1449796157
+Category: Lifestyle
+Overview: Glambu is a dating app that connects users based on their interests and preferences. It includes features like swiping, messaging, and profile customization, as well as safety and privacy measures.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: December 2018
+Downloads: Over 100,000
+User Ratings: 4.2 / 5 stars (based on 500 ratings)
+Developer Information: Glambu LLC
+Pricing: Free to download, with in-app purchases for premium features
+}
+
+Jovial Gaming {
+App Store Link: https://apps.apple.com/us/app/jovial-gaming/id1569616617
+Category: Gaming
+Overview: Jovial Gaming is a mobile gaming app that offers a variety of casual games, including puzzles, arcade, and sports. It includes multiplayer modes and social sharing features.
+Programming Language: Not available
+Built-in Frameworks (front-end, back-end, database): Not available
+Launch Date: June 2021
+Downloads: Over 100
+User Ratings: 4.5 / 5 stars (based on 2 ratings)
+Developer Information: Jovial Games
+Pricing: Free to download, with in-app purchases for some games
+}
+
+
+Proud Residence {
+App Store Link: https://apps.apple.com/in/app/proud-residence/id1494453117
+Category: Lifestyle
+Overview: Proud Residence is a mobile application that offers an exclusive property management tool, catering to the needs of homeowners and residents living in premium and luxury condominiums. It has features like concierge services, visitor management, complaint registration, facility booking, etc.
+Programming Language: Not available
+Built-in Frameworks: Not available
+Launch Date: January 17, 2020
+Downloads: Not available
+User Ratings: 4.4 out of 5 (Based on 5 Ratings)
+Developer Information: Vayusphere Technologies Private Limited
+Pricing: Free
+}
+
+Freestyle Cuts {
+App Store Link: https://apps.apple.com/gb/app/freestyle-cuts/id1364377595
+Category: Entertainment
+Overview: Freestyle Cuts provides you with the opportunity to create custom video content using your favourite celebrities, musicians, and artists via augmented reality technology. You can choose from a library of animations, text overlays, and music tracks to make your own videos.
+Programming Language: Swift
+Built-in Frameworks: ARKit, SceneKit, CoreML
+Launch Date: March 14, 2018
+Downloads: Not available
+User Ratings: 4.6 out of 5 (Based on 25 Ratings)
+Developer Information: Chunk Media Ltd
+Pricing: Free
+}
+
+Validi {
+App Store Link: Not available
+Category: Productivity
+Overview: Validi is a mobile application that provides a platform for lawyers to verify their client's documents using blockchain technology. It securely stores the verified documents on the blockchain and enables lawyers to share them with clients or other parties.
+Programming Language: Not available
+Built-in Frameworks: Not available
+Launch Date: Not available
+Downloads: Not available
+User Ratings: Not available
+Developer Information: Validi Technologies, Inc.
+Pricing: Free
+}
+
+CommShield {
+App Store Link: Not available
+Category: Productivity
+Overview: CommShield is a mobile application that provides secure communication solutions for businesses and individuals. It encrypts messages, calls, and files and provides multi-factor authentication for added security.
+Programming Language: Not available
+Built-in Frameworks: Not available
+Launch Date: Not available
+Downloads: Not available
+User Ratings: Not available
+Developer Information: CommShield Technologies, LLC
+Pricing: Free
+}
+
+Meditation Moves {
+App Store Link: https://play.google.com/store/apps/details?id=com.funkybots.MeditationMoves
+Category: Health and Fitness
+Overview: Meditation Moves is a mobile application that offers guided meditation sessions, combining mindfulness exercises with physical movements. Users can choose from different categories like stress relief, sleep improvement, better focus, etc.
+Programming Language: Kotlin
+Built-in Frameworks: Android SDK
+Launch Date: December 11, 2018
+Downloads: Over 100,000+
+User Ratings: 4.6 out of 5 (Based on 1,322 Ratings)
+Developer Information: Funky Bots LLC
+Pricing: Free (In-app purchases available)
+}
+
+Agvali {
+App Store Link: https://play.google.com/store/apps/details?id=com.agvali.app&hl=en
+Category: Social Networking
+Overview: Agvali is a mobile application that connects people with similar interests and hobbies. Users can create their profiles, join different groups based on their interests and engage in discussions, share content, etc.
+Programming Language: Java
+Built-in Frameworks: Android SDK
+Launch Date: August 16, 2019
+Downloads: Over 5,000+
+User Ratings: 4.2 out of 5 (Based on 9 Ratings)
+Developer Information: Agvali LLC
+Pricing: Free
+}
+
+iSS {
+App Store Link: https://play.google.com/store/apps/details?id=com.apptivatellc.iSS
+Category: Business
+Overview: iSS is a mobile application that provides IT support services to businesses. It offers various features like remote monitoring, maintenance, backup and recovery, automation, etc.
+Programming Language: Not available
+Built-in Frameworks: Not available
+Launch Date: October 24, 2019
+Downloads: Over 1,000+
+User Ratings: 5.0 out of 5 (Based on 2 Ratings)
+Developer Information: Apptivate LLC
+Pricing: Free (In-app purchases available)
+}
+
+Live Porto {
+App Store Link: https://play.google.com/store/apps/details?id=com.liveporto
+Category: Travel
+Overview: Live Porto is a mobile application that provides information and guides for visitors to the city of Porto, Portugal. It offers various features like city maps, tourist attractions, restaurants, public transport details, etc.
+Programming Language: Java
+Built-in Frameworks: Android SDK
+Launch Date: January 19, 2016
+Downloads: Over 50,000+
+User Ratings: 4.4 out of 5 (Based on 223 Ratings)
+Developer Information: Câmara Municipal do Porto
+Pricing: Free
+}
+
+Buffalo Olmsted Parks {
+App Store Link: https://apps.apple.com/us/app/buffalo-olmsted-parks/id1373052173
+Category: Lifestyle
+Overview: Buffalo Olmsted Parks is a mobile application that provides information about the parks in Buffalo, New York, USA. It offers various features like park maps, event calendars, volunteer opportunities, etc.
+Programming Language: Swift
+Built-in Frameworks: MapKit, CoreLocation
+Launch Date: April 30, 2018
+Downloads: Not available
+User Ratings: 3.1 out of 5 (Based on 7 Ratings)
+Developer Information: Friends of Olmsted Parks
+Pricing: Free
+}

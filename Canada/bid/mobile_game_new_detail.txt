@@ -1,0 +1,1191 @@
+***Glyder - Interactive Flight Experience
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.Tanjea.Glyder
+Category: Adventure
+Overview: Glyder is an adventure game that lets players fly through beautiful landscapes and complete missions. The game features a unique flight system that allows players to control their flight path by tilting their device. Players can customize their aircraft with different colors and upgrades, and explore a variety of different environments.
+Built in Tech Stack: Unity, C#
+Launch Date: March 18, 2020
+***Bootleggers - Text-Based RPG
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.ingvar.bootleggers
+Category: Role Playing
+Overview: Bootleggers is a text-based RPG set during the Prohibition era. Players must build their own criminal empire by manufacturing and selling illegal liquor, while also avoiding law enforcement and rival gangs. The game features complex strategy and resource management elements, as well as a large community of players.
+Built in Tech Stack: Python, Django, PostgreSQL
+Launch Date: June 5, 2019
+***Good Job Games
+
+App Store or Play Store Link: https://play.google.com/store/apps/dev?id=6721700247509781910
+Category: Various
+Overview: Good Job Games is a mobile game developer responsible for a variety of popular titles, including Color Road, Sausage Flip, and Color Bump 3D. Their games range from casual arcade-style experiences to more complex puzzle and strategy games.
+Built in Tech Stack: Varies by game
+Launch Date: Varies by game
+***Rapid Runner
+
+App Store or Play Store Link: https://apps.apple.com/app/id1626731578?platform=iphone
+Category: Adventure
+Overview: Rapid Runner is an endless runner game with a unique twist. Players must navigate through a series of obstacles by jumping and sliding, while also collecting coins to unlock new characters and power-ups. The game features intuitive one-touch controls and vibrant 3D graphics.
+Built in Tech Stack: Unity, C#
+Launch Date: May 13, 2022
+***Merge Rivals - Idle Game
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.playeristic.mergerivals&gl=US
+Category: Casual
+Overview: Merge Rivals is an idle game where players merge identical items to create more powerful versions. The game features a variety of different items to merge, including cars, planes, and boats. As players progress, they can unlock new levels and earn rewards.
+Built in Tech Stack: Unity, C#
+Launch Date: August 5, 2019
+***Lucky Penny - Win Rewards
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.electricmanta.luckypenny&gl=US
+Category: Casual
+Overview: Lucky Penny is a casual mobile game that lets players win real-world rewards by spinning a virtual wheel. Prizes include gift cards, merchandise, and cash. The game also features daily challenges and leaderboards to compete with friends.
+Built in Tech Stack: Unity, C#
+Launch Date: January 17, 2021
+***Merge PvP - Merge Battle
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.stewartperry.mergepvp&gl=US
+Category: Strategy
+Overview: Merge PvP is a strategy game where players merge identical units to create stronger ones and defeat opponents. The game features several game modes, including PvP battles and a campaign mode with various challenges. Players can unlock new units and upgrades as they progress.
+Built in Tech Stack: Unity, C#
+Launch Date: May 22, 2020
+***Teddy's Flight - Endless Flying Game
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.NagaStudio.TeddysFlight
+Category: Arcade
+Overview: Teddy's Flight is an endless flying game where players control a teddy bear flying through the clouds. Players must collect coins and power-ups while avoiding obstacles like birds and lightning strikes. The game features simple one-touch controls and colorful graphics.
+Built in Tech Stack: Unity, C#
+Launch Date: April 1, 2020
+
+***Magnets: Cube Clicker
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.unyawn.magnets
+Category: Casual
+Overview: Magnets is a casual clicker game where players must combine magnetic cubes to create more powerful structures. As players progress, they unlock new magnets with unique abilities and face increasingly difficult challenges. The game features simple one-touch controls and minimalist graphics.
+Built in Tech Stack: Unity, C#
+Launch Date: June 7, 2021
+***Golden Helmet
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.Zumoko.GoldenHelmet
+Category: Racing
+Overview: Golden Helmet is a fast-paced motorcycle racing game with a retro aesthetic. Players must navigate through a variety of different tracks while avoiding obstacles and competing against other racers. The game features responsive touch controls and several different game modes.
+Built in Tech Stack: Unity, C#
+Launch Date: February 24, 2020
+***Freekickerz Shootout
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.eSportsTechnologyGmbH.FreekickerzShootout&hl=en&gl=US
+Category: Sports
+Overview: Freekickerz Shootout is a soccer-themed sports game where players must score goals by kicking the ball past defenders and goalkeepers. The game features intuitive swipe controls and a variety of different game modes, including multiplayer matches. Players can also customize their avatar and collect rewards.
+Built in Tech Stack: Unity, C#
+Launch Date: August 11, 2021
+***Xtreme Motorbikes
+
+App Store or Play Store Link: https://apps.apple.com/us/app/xtreme-motorbikes/id1547071668
+Category: Racing
+Overview: Xtreme Motorbikes is a fast-paced motorcycle racing game with realistic physics and graphics. Players can choose from a variety of different motorcycles and customize their appearance and performance. The game features several different game modes, including time trials and multiplayer matches.
+Built in Tech Stack: Unity, C#
+Launch Date: January 25, 2021
+***Bullet Force
+
+App Store or Play Store Link: https://apps.apple.com/us/app/bullet-force/id1009134067
+Category: Action
+Overview: Bullet Force is a first-person shooter game with realistic graphics and intense gameplay. Players must compete against each other in multiplayer matches across a variety of different maps. The game features a wide range of weapons and customization options, as well as multiple game modes.
+Built in Tech Stack: Unity, C#
+Launch Date: September 2, 2016
+***Badlanders
+
+App Store or Play Store Link: https://apps.apple.com/us/app/badlanders/id1523275551
+Category: Action
+Overview: Badlanders is a post-apocalyptic multiplayer shooter game set in a lawless wasteland. Players must scavenge for supplies and weapons while navigating through treacherous terrain and avoiding deadly traps. The game features stunning graphics and intuitive touch controls.
+Built in Tech Stack: Unity, C#
+Launch Date: December 11, 2020
+***Bar Jutsu
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.megacat.barjutsu&hl=en_IN&gl=US
+Category: Arcade
+Overview: Bar Jutsu is an arcade-style game where players must defend themselves against waves of attackers using martial arts moves. The game features simple one-touch controls and pixel art graphics. Players can also unlock new characters and special moves as they progress.
+Built in Tech Stack: Unity, C#
+Launch Date: August 18, 2021
+***Ready Freddys
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.readyfreddy
+Category: Education
+Overview: Ready Freddys is an educational game designed to help young children develop basic skills like counting and letter recognition. The game features a variety of different activities and puzzles, as well as colorful graphics and engaging animations.
+Built in Tech Stack: Unity, C#
+Launch Date: January 8, 2020
+
+***Relax River CB
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.sfera.relaxrivercb
+Category: Health and Fitness
+Overview: Relax River is a free app that allows you to listen to relaxing sounds of nature, water, birds singing, and more. You can customize your own mix of sounds and create your own unique environment to help you relax, meditate, or sleep better.
+Built in Tech Stack: Android SDK, Java, Firebase
+Launch Date: February 11, 2018
+***InMind 2 VR Cardboard
+
+App Store Link: https://apps.apple.com/app/inmind-2-vr-cardboard/id1166999366
+Category: Games, Education
+Overview: InMind 2 is a virtual reality game that takes you on a fascinating journey into the human brain. You become an integral part of the cellular system and unravel the mysteries of the mind. The game is designed to be both entertaining and educational, suitable for all ages.
+Built in Tech Stack: Unity3D, Google VR SDK, C#
+Launch Date: October 7, 2016
+***Grand Hotel Solitaire
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.rainbowgames.grandhotelsolitaire
+Category: Card Games
+Overview: Grand Hotel Solitaire is a classic solitaire game that lets you play various versions of the popular card game. The game has beautiful graphics and animations, relaxing music, and challenging gameplay. It's perfect for killing time or playing when you need to unwind.
+Built in Tech Stack: Unity3D, C#
+Launch Date: November 18, 2020
+***Solitaire
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.hay.solitaire
+Category: Card Games
+Overview: Solitaire is a simple yet addictive card game that's been around for decades. This app offers various versions of the game, from classic to spider solitaire, along with daily challenges and customizable backgrounds. The game is free to play, but offers in-app purchases for additional features.
+Built in Tech Stack: Unity3D, C#
+Launch Date: March 26, 2020
+***Oceans Board Game
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.northstargames.oceans&hl=en_IN&gl=US
+Category: Board Games
+Overview: Oceans is a digital adaptation of the popular board game by North Star Games. It's a fun and strategic game where you create and evolve your own species of marine creatures. The game features beautiful illustrations, smooth animations, and online multiplayer mode.
+Built in Tech Stack: Unity3D, C#
+Launch Date: October 23, 2020
+***Battle Cow Unleashed
+
+Play Store Link: https://play.google.com/store/apps/details?id=crowdler.hashbytestudio.battlecowunleashed&hl=en_IN&gl=US
+Category: Action, Arcade
+Overview: Battle Cow Unleashed is an action-packed game where you control a cow on a mission to save the world from alien invasion. The game features fast-paced gameplay, cartoonish graphics, and catchy music. You can unlock different cows and power-ups as you progress through the levels.
+Built in Tech Stack: Unity3D, C#
+Launch Date: September 25, 2019
+***Zombie FPS Shooter - Devil's Eyes
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.horror.games.fps.zombie.devils.eyes&hl=en_IN&gl=US
+Category: Action, Shooter
+Overview: Zombie FPS Shooter - Devil's Eyes is a thrilling first-person shooter game that takes you into a world infested with zombies. The game features challenging gameplay, realistic graphics, and immersive sound effects. You can upgrade your weapons and skills to survive the zombie apocalypse.
+Built in Tech Stack: Unity3D, C#
+Launch Date: February 19, 2020
+***Superheroes Academy
+
+Play Store Link: https://play.google.com/store/apps/details?id=eu.crystalapps.SuperheroesAcadamy
+Category: Role Playing
+Overview: Superheroes Academy is a role-playing game where you create your own superhero and attend a school for superheroes. The game features engaging gameplay, colorful graphics, and multiple storylines. You can customize your hero's appearance and abilities as you progress through the game.
+Built in Tech Stack: Unity3D, C#
+Launch Date: December 18, 2018
+
+***Cyber Junk
+
+Play Store Link: https://play.google.com/store/apps/details?id=pl.cybermarian.cyberJunk&hl=pl
+Category: Simulation
+Overview: Cyber Junk is a simulation game that allows players to build and manage their own robotic junkyard. Players can collect parts, build robots, and sell them to customers. The game features a unique crafting system and over 100 different robot parts to collect.
+Built-in Tech Stack: Unity, C#
+Launch Date: October 28, 2019
+***Rummy
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.ahoygames.rummy&hl=en
+Category: Card
+Overview: Rummy is a classic card game that can be played with 2-4 players. The objective of the game is to form sets and runs using the cards in your hand. The game features multiple game modes and difficulty levels.
+Built-in Tech Stack: Unity, C#
+Launch Date: December 17, 2014
+***Sea of Fame
+
+Play Store Link: https://play.google.com/store/apps/details?id=pl.kentooplay.seaoffame
+Category: Strategy
+Overview: Sea of Fame is a strategy game that takes place during the Age of Discovery. Players can explore new lands, trade goods, and build their own empire. The game features a realistic economy system, naval battles, and over 50 different buildings to construct.
+Built-in Tech Stack: Unity, C#
+Launch Date: October 21, 2020
+***Okey 101
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.ahoygames.Okey101&hl=pl
+Category: Board
+Overview: Okey 101 is a board game that can be played with 2-4 players. The objective of the game is to form sets and runs using the tiles in your hand. The game features multiple game modes and difficulty levels.
+Built-in Tech Stack: Unity, C#
+Launch Date: January 22, 2016
+***Wypasione Owce
+
+App Store Link: https://apps.apple.com/pl/app/wypasione-owce/id1137145901?l=pl
+Category: Puzzle
+Overview: Wypasione Owce (which roughly translates to "Cool Sheep") is a puzzle game where players must guide sheep to their destination by placing arrows on the ground. The game features over 100 levels and various obstacles to overcome.
+Built-in Tech Stack: Unity, C#
+Launch Date: July 29, 2016
+***Dot Lands
+
+Play Store Link: https://play.google.com/store/apps/details?id=in.codehound.dotlands
+Category: Casual
+Overview: Dot Lands is a casual game where players must connect dots of the same color in order to create squares. The game features over 100 levels and various power-ups to help players complete each level.
+Built-in Tech Stack: Unity, C#
+Launch Date: June 20, 2020
+***Contra
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.ht.contra
+Category: Action
+Overview: Contra is a classic side-scrolling shooter game that has been remastered for mobile devices. Players must fight their way through enemy lines while dodging bullets and collecting power-ups. The game features multiple game modes and difficulty levels.
+Built-in Tech Stack: Unity, C#
+Launch Date: September 26, 2017
+***Real Extreme SUV Offroad Drive Games Free
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.lf.real.extreme.suv.offroad.drive.games.free
+Category: Simulation
+Overview: Real Extreme SUV Offroad Drive Games Free is a simulation game that allows players to drive off-road vehicles in extreme environments. Players can choose from multiple vehicles and must navigate through challenging terrain to reach their destination.
+Built-in Tech Stack: Unity, C#
+Launch Date: June 22, 2018
+
+***Headspace: Meditation & Sleep
+
+App Store Link: https://apps.apple.com/app/apple-store/id866047646
+Category: Health & Fitness
+Overview: Headspace is a meditation app that provides guided meditations and sleep exercises to help users reduce stress, improve focus, and get better sleep. The app offers a variety of meditation techniques, including mindfulness, visualization, and breathing exercises.
+Built-in Tech Stack: React Native, Node.js, PHP, MongoDB
+Launch Date: January 2012
+***Pizza Driver
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.phg.pizzadriver
+Category: Simulation
+Overview: Pizza Driver is a simulation game where players must deliver pizzas to customers while avoiding obstacles and traffic. The game features multiple levels and various challenges to overcome.
+Built-in Tech Stack: Unity, C#
+Launch Date: December 31, 2020
+***Tap2Play LLC (Developer Page)
+
+Play Store Developer Page Link: https://play.google.com/store/apps/dev?id=5111526795743073171
+Category: Various
+Overview: Tap2Play LLC is a mobile app developer that has created a variety of games across different genres, including puzzle, arcade, and action games. Some of their popular titles include Bubble Shooter, Space Invaders, and Street Dunk.
+Built-in Tech Stack: Varies by app
+Launch Date: Varies by app
+***Shuffle Cats Mini
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.zbenko.game
+Category: Card
+Overview: Shuffle Cats Mini is a card game that can be played with 2-4 players. The objective of the game is to be the first player to get rid of all their cards. The game features multiple game modes and power-ups to help players win.
+Built-in Tech Stack: Unity, C#
+Launch Date: October 18, 2018
+***Candy Blast Garden
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.immortalpony.candyblastgarden
+App Store Link: https://apps.apple.com/us/app/candy-blast-garden-match-3/id1454276486?ls=1
+Category: Puzzle
+Overview: Candy Blast Garden is a puzzle game where players must match candy to complete levels and earn points. The game features over 100 levels and various power-ups to help players complete each level.
+Built-in Tech Stack: Unity, C#
+Launch Date: March 7, 2019
+***Space War - Star Fighter Galaxy Attack
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.immortalpony.candyblastgarden
+App Store Link: https://apps.apple.com/us/app/space-war-star-fighter-galaxy-attack/id1461127066?ls=1
+Category: Arcade
+Overview: Space War - Star Fighter Galaxy Attack is an arcade game where players must pilot a spaceship and fight against enemies in space. The game features multiple levels and various power-ups to help players defeat their enemies.
+Built-in Tech Stack: Unity, C#
+Launch Date: May 21, 2019
+***Ticker Tapm
+
+App Store Link: https://apps.apple.com/us/developer/tap2play-llc-ticker-tapm/id1219946891
+Category: Various
+Overview: Ticker Tapm is a mobile app developer that has created a variety of games across different genres, including puzzle, arcade, and action games. Some of their popular titles include Bubble Shooter, Space Invaders, and Street Dunk.
+Built-in Tech Stack: Varies by app
+Launch Date: Varies by app
+***World of the Abyss
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.MadMolly.WorldOfTheAbyss
+Category: Adventure
+Overview: World of the Abyss is an adventure game where players must explore a mystical world and solve puzzles to progress through the game. The game features stunning visuals and various challenges to overcome.
+Built-in Tech Stack: Unity, C#
+Launch Date: March 19, 2021
+
+***Just Block Puzzle Game
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.aaaudi.justblock
+Category: Puzzle
+Overview: Just Block Puzzle Game is a classic block puzzle game that challenges your brain. The goal is to fit the blocks into the grid and create as many lines as possible. The more lines you clear, the higher score you get. It's an addictive and fun game that is suitable for all ages.
+Built in Tech Stack: Java, Android SDK, Android Studio, Firebase
+Launch Date: November 25, 2020
+***Accubow Archery App
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.accubow.archery.app
+Category: Sports
+Overview: The Accubow Archery App is designed for archers to improve their skills and accuracy. It offers a variety of bow training exercises, including holding steady, aiming, and releasing properly. The app also features a virtual bow simulator that allows users to practice in a realistic environment.
+Built in Tech Stack: Unity, C#, ARCore
+Launch Date: June 5, 2019
+***Kiddos Play & Learn - ABC, Number, Color & Piano Games
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.vasundharagames.kiddos.play.color.pad.piano
+Category: Education
+Overview: Kiddos Play & Learn is an educational app that teaches children the basics of letters, numbers, colors, and music. It includes various games and activities that are designed to make learning fun and engaging for kids. The app is suitable for children aged 2-6 years old.
+Built in Tech Stack: Unity, C#, Firebase
+Launch Date: November 26, 2020
+***Puppy Town - Merge & Win
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.cats.puppy.town.game
+Category: Casual
+Overview: Puppy Town is a merge game where you merge puppies to create new breeds. The goal is to collect all the different breeds and expand your town. The game has cute graphics and simple gameplay that makes it suitable for all ages.
+Built in Tech Stack: Unity, C#
+Launch Date: July 24, 2020
+***Pair Matching Puzzle Game
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.pair.match.brain.challenge.puzzle
+Category: Puzzle
+Overview: Pair Matching Puzzle Game is a classic memory matching game where you need to match pairs of cards with the same picture. The game has different difficulty levels and themes to choose from. It's a great way to train your memory and concentration.
+Built in Tech Stack: Unity, C#
+Launch Date: December 11, 2020
+***Math Games - Add, Subtract, Multiply & Divide
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.maths.games.add.subtract.multiply.divide
+Category: Education
+Overview: Math Games is an educational app that helps children learn basic math operations such as addition, subtraction, multiplication, and division. The app includes various games and activities that are designed to make learning fun and engaging for kids.
+Built in Tech Stack: Java, Android SDK, Android Studio
+Launch Date: January 28, 2021
+***Spelling Match - Picture & Object Matching Game
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.spelling.matching.kids.education.object.images
+Category: Education
+Overview: Spelling Match is an educational app that teaches children how to spell words by matching pictures and objects. It includes various levels of difficulty and themes to choose from. The app is suitable for children aged 3-8 years old.
+Built in Tech Stack: Unity, C#
+Launch Date: July 17, 2020
+***Sudoku - Classic Number Puzzle Game
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.sudoku.number.crossword.brain.classic.puzzle.kids
+Category: Puzzle
+Overview: Sudoku is a classic number puzzle game where you need to fill the grid with numbers from 1 to 9 without repeating them in the same row, column, or 3x3 box. The game has different difficulty levels and is suitable for all ages.
+Built in Tech Stack: Java, Android SDK, Android Studio
+Launch Date: December 22, 2020
+
+***Drop the Number: Merge Puzzle
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.numbers.puzzle.game.drop.casual.ball2048
+Category: Puzzle
+Overview: Drop the Number is a merge puzzle game where you need to drop the numbered balls onto the board and merge them to reach the target number. The game has various levels of difficulty and is suitable for all ages.
+Built in Tech Stack: Unity, C#
+Launch Date: August 12, 2020
+***Balls Bricks Breaker - Shoot Balls
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.balls.bricks.breaker.shoot.balls
+Category: Arcade
+Overview: Balls Bricks Breaker is an arcade game where you need to shoot balls at the bricks to break them and clear the level. The game has different power-ups and boosters that make it more exciting and challenging.
+Built in Tech Stack: Unity, C#
+Launch Date: July 31, 2020
+***Zombie Shooter - Survives Killing Hunter Dead
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.zombie.shooter.survives.killing.hunter.dead
+Category: Action
+Overview: Zombie Shooter is an action game where you need to survive the zombie apocalypse by killing the undead and saving the survivors. The game has different weapons and upgrades that help you fight against the hordes of zombies.
+Built in Tech Stack: Unity, C#
+Launch Date: March 2, 2021
+***Bottle Shoot - Stone Gun Fire Games
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.bottle.shoot.stone.gun.fire.games
+Category: Action
+Overview: Bottle Shoot is a shooting game where you need to shoot the bottles with stones and guns to break them and score points. The game has different levels and challenges that make it more interesting and addictive.
+Built in Tech Stack: Unity, C#
+Launch Date: September 4, 2020
+***Kids Learning Alphabet & Numbers - Educational Games
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.kids.learning.alphabet.numbers.educational.games
+Category: Education
+Overview: Kids Learning Alphabet & Numbers is an educational app that teaches children the basics of letters, numbers, and shapes. It includes various games and activities that are designed to make learning fun and engaging for kids.
+Built in Tech Stack: Unity, C#
+Launch Date: March 18, 2021
+***Cross Words Puzzle - Search Connect Logic
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.cross.words.puzzle.search.connect.logic
+Category: Puzzle
+Overview: Cross Words Puzzle is a classic crossword puzzle game where you need to fill the grid with words by solving clues. The game has different difficulty levels and themes to choose from.
+Built in Tech Stack: Java, Android SDK, Android Studio
+Launch Date: April 26, 2021
+***Tank Games: Fight Weapon Shooting Army
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.tank.games.fight.weapon.shooting.army
+Category: Action
+Overview: Tank Games is an action game where you need to control a tank and fight against other tanks to win the battle. The game has different levels and challenges that make it more exciting and challenging.
+Built in Tech Stack: Unity, C#
+Launch Date: November 25, 2020
+***Bubble Shooter Balls - Color Puzzle
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.bubble.shooter.balls.color.puzzle
+Category: Puzzle
+Overview: Bubble Shooter Balls is a classic bubble shooting game where you need to match and shoot the bubbles to clear the level. The game has different power-ups and boosters that make it more interesting and fun.
+Built in Tech Stack: Unity, C#
+Launch Date: August 25, 2020
+
+***Color Bump Balls - Touch Marble Jump
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.color.bump.balls.touch.marble.jump
+Category: Arcade Games
+Overview: Color Bump Balls is an arcade-style game where players must guide a ball through various levels filled with obstacles. The objective of the game is to reach the end of each level without touching any obstacles.
+Built-in Tech Stack: Unity 3D, C#
+Launch Date: October 11, 2018
+***Tiles Dancing Ball - Color Light Song Game
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.tiles.dancing.ball.color.light.song.game
+Category: Music Games
+Overview: Tiles Dancing Ball is a music-based game where players control a ball that jumps on tiles to the rhythm of different songs. The objective of the game is to hit the tiles accurately and avoid missing them to keep the ball going.
+Built-in Tech Stack: Unity 3D, C#
+Launch Date: January 2, 2020
+***Fruit Shoot Archery Arrow Games
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.fruit.shoot.archery.arrow.games
+Category: Sports Games
+Overview: Fruit Shoot Archery Arrow Games is a sports-based game where players use a bow and arrow to shoot fruits hanging from trees. The objective of the game is to shoot as many fruits as possible within a limited time frame.
+Built-in Tech Stack: Unity 3D, C#
+Launch Date: August 6, 2019
+***Fantasy Trivia Questions Answers Game
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.fantasy.trivia.questions.answers.game
+Category: Trivia Games
+Overview: Fantasy Trivia Questions Answers Game is a trivia-based game where players answer questions based on various topics such as sports, entertainment, and history. The objective of the game is to answer as many questions correctly as possible within a limited time frame.
+Built-in Tech Stack: Unity 3D, C#
+Launch Date: April 22, 2020
+***Mindi - Online Multiplayer
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.mindi.cote.online.multiplayer
+Category: Board Games
+Overview: Mindi - Online Multiplayer is a board-style game where players try to get rid of their cards by matching them with cards of the same value or suit. The objective of the game is to be the first player to get rid of all their cards.
+Built-in Tech Stack: Unity 3D, C#
+Launch Date: October 9, 2018
+***Number Chain Connect - Logic Puzzle Pattern
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.number.chain.connect.logic.puzzle.pattern
+Category: Puzzle Games
+Overview: Number Chain Connect is a puzzle-based game where players connect numbers on a grid to create a chain. The objective of the game is to connect all the numbers without crossing the lines.
+Built-in Tech Stack: Unity 3D, C#
+Launch Date: March 23, 2020
+***Baby Phone - Educational Games for Kids & Toddler Toy
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.baby.phone.educational.games.kids.toy
+Category: Educational Games
+Overview: Baby Phone - Educational Games for Kids & Toddler Toy is an educational-based game designed for young children. The game features various activities such as learning numbers, letters, and colors through interactive games and puzzles.
+Built-in Tech Stack: Unity 3D, C#
+Launch Date: January 17, 2020
+***Burger Cook - Food Kitchen Chef Puzzle
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.burger.cook.food.kitchen.chef.puzzle
+Category: Puzzle Games
+Overview: Burger Cook - Food Kitchen Chef Puzzle is a puzzle-based game where players must create burgers by matching different ingredients. The objective of the game is to create as many burgers as possible within a limited time frame.
+Built-in Tech Stack: Unity 3D, C#
+Launch Date: December 30, 2019
+***Word Search Connect - Finder Puzzle Link
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.word.search.connect.finder.puzzle.link
+Category: Puzzle Games
+Overview: Word Search Connect - Finder Puzzle Link is a puzzle-based game where players must find words hidden in a grid of letters. The objective of the game is to find all the words as quickly as possible.
+Built-in Tech Stack: Unity 3D, C
+Launch Date: July 3, 2020
+***Ball Blast - Jump Bounce Shoot Fire
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.ball.blast.jump.bounce.shoot.fire
+Category: Arcade Games
+Overview: Ball Blast - Jump Bounce Shoot Fire is an arcade-style game where players must shoot balls at blocks to destroy them while avoiding obstacles. The objective of the game is to progress through levels by destroying all the blocks in each level.
+Built-in Tech Stack: Unity 3D, C#
+Launch Date: February 2, 2019
+
+***Stickman Gun Fight Shooter Games
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.stickman.gun.fight.shooter.games
+Category: Action
+Overview: Stickman Gun Fight Shooter Games is an action-packed game that lets players fight off hordes of stickman enemies using a variety of weapons. The game features multiple levels with increasing difficulty and various environments.
+Built in Tech Stack: Unity Game Engine, C#
+Launch Date: August 16, 2019
+***Basketball Shoot Dunk Hitting Mania
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.basket.ball.shoot.dunk.hitting.mania
+Category: Sports
+Overview: Basketball Shoot Dunk Hitting Mania is a basketball shooting game that challenges players to score as many points as possible within a limited time. The game features different levels with varying difficulty and several power-ups to help players improve their scores.
+Built in Tech Stack: Unity Game Engine, C#
+Launch Date: November 18, 2020
+***Cat Grooming Pet Life Care Game
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.cat.grooming.pet.life.care.game
+Category: Simulation
+Overview: Cat Grooming Pet Life Care Game is a simulation game where players take care of a virtual cat by feeding, grooming, and playing with it. The game features realistic graphics and sound effects, multiple levels, and various accessories to customize the cat's appearance.
+Built in Tech Stack: Unity Game Engine, C#
+Launch Date: December 4, 2020
+***Roll the Ball Games3D Rolling Ball Balance
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.roll.the.ball.games3d.rollingball.balance
+Category: Puzzle
+Overview: Roll the Ball Games3D Rolling Ball Balance is a puzzle game that challenges players to move a ball from the start point to the end point by rotating the maze and avoiding obstacles. The game features multiple levels with increasing difficulty and various mazes to solve.
+Built in Tech Stack: Unity Game Engine, C#
+Launch Date: August 1, 2018
+***Relief Stress Slime Calm Satisfying Game
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.relief.stress.slime.calm.satisfying.game
+Category: Casual
+Overview: Relief Stress Slime Calm Satisfying Game is a calming game that helps players relieve stress by playing with virtual slime. The game features different colors and textures of slime to choose from and various sounds and animations to create a relaxing atmosphere.
+Built in Tech Stack: Unity Game Engine, C#
+Launch Date: January 24, 2020
+***Color Tap Color Switchs Endless Emoji Game
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.color.tap.colorswitchs.endless.emoji.game
+Category: Arcade
+Overview: Color Tap Color Switchs Endless Emoji Game is an arcade game that challenges players to tap the screen to switch the color of the character and match it with the color of the approaching obstacles. The game features multiple levels with increasing difficulty and various characters to unlock.
+Built in Tech Stack: Unity Game Engine, C#
+Launch Date: October 26, 2020
+***Bike Stunt Trails Tricks Master Fusion
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.bike.stunt.trails.tricks.master.fusion
+Category: Racing
+Overview: Bike Stunt Trails Tricks Master Fusion is a racing game that lets players perform various stunts and tricks on motorbikes while racing against the clock. The game features multiple levels with increasing difficulty and various bikes to unlock.
+Built in Tech Stack: Unity Game Engine, C#
+Launch Date: April 16, 2021
+***Car Stunts Extreme Driving Simulator Impossible
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.car.stunts.extreme.driving.simulator.impossible
+Category: Racing
+Overview: Car Stunts Extreme Driving Simulator Impossible is a racing game that challenges players to drive through impossible tracks and perform stunts and tricks using different cars. The game features multiple levels with increasing difficulty and various cars to unlock.
+Built in Tech Stack: Unity Game Engine, C#
+Launch Date: January 23, 2021
+***Racing Moto Traffic Motorbike Game Motorcycle3D
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.racing.moto.traffic.motorbike.game.motorcycle3d
+
+Category: Racing
+Overview: Racing Moto Traffic Motorbike Game Motorcycle3D is a racing game that lets players race through traffic on motorbikes and perform stunts and tricks to earn points. The game features multiple levels with increasing difficulty and various bikes to unlock.
+Built in Tech Stack: Unity Game Engine, C#
+Launch Date: November 16, 2019
+***Rise Up Balloon Air Fly Save Protect
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.riseup.balloon.air.fly.save.protect
+Category: Arcade
+Overview: Rise Up Balloon Air Fly Save Protect is an arcade game that challenges players to protect a balloon by moving it up and down to avoid obstacles. The game features multiple levels with increasing difficulty and various power-ups to help players advance.
+Built in Tech Stack: Unity Game Engine, C#
+Launch Date: May 17, 2020
+
+***Traffic Racer Stunt 3D - Multiplayer Racing Game
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.car.racing.traffic.speed.racer.stunt
+Category: Racing
+Overview: Traffic Racer Stunt 3D is a multiplayer racing game where players can drive their cars and compete with other players online. The game features various environments, different car models, and challenging tracks. Players can also customize their cars by changing colors and adding vinyls.
+Built in Tech Stack: Unity, C#
+Launch Date: September 2, 2020
+***Highway Traffic Rider Bike Racing 3D Games
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.highway.traffic.rider.bike.racing3d
+Category: Racing
+Overview: Highway Traffic Rider Bike Racing 3D Games is a racing game where players can ride motorcycles and race against traffic on the highway. The game features various modes such as time trial, endless mode, and career mode. It also has different camera angles and weather conditions for added realism.
+Built in Tech Stack: Unity, C#
+Launch Date: August 17, 2020
+***Truck Simulator Drive Games Offroad Heavy 3D
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.truck.simulator.drive.games.offroad.heavy
+Category: Simulation
+Overview: Truck Simulator Drive Games Offroad Heavy 3D is a simulation game where players can control big trucks and transport cargo across off-road terrains. The game features multiple trucks, various cargos, and realistic physics. Players can also upgrade their trucks and buy new ones as they progress through the game.
+Built in Tech Stack: Unity, C#
+Launch Date: October 15, 2020
+***Car Parking Simulator: Reverse Car Driving School
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.car.parking.simulator.bike.driving.school
+Category: Simulation
+Overview: Car Parking Simulator is a driving simulation game where players have to park their cars in different parking spots. The game features various levels with increasing difficulty, realistic physics, and multiple camera angles. It also has a driving school mode where players can learn to drive and improve their skills.
+Built in Tech Stack: Unity, C#
+Launch Date: August 31, 2020
+***Road Racing: Speed Car Game
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.road.racing.speed.bike.car.game
+Category: Racing
+Overview: Road Racing is a racing game where players can race on roads with different terrains and environments. The game features various modes such as time trial, career mode, and free roam. It also has different car models, customizable controls, and realistic physics.
+Built in Tech Stack: Unity, C#
+Launch Date: September 3, 2020
+***Monster Truck Racing Game Offroad Games
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.monster.truck.racing.game.offroad
+Category: Racing
+Overview: Monster Truck Racing Game Offroad Games is a racing game where players can control monster trucks and race across off-road tracks. The game features various modes such as time trial, career mode, and free roam. It also has different monster truck models, customizable controls, and realistic physics.
+Built in Tech Stack: Unity, C#
+Launch Date: October 8, 2020
+***Car Crash Simulator: Beam Damage
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.car.crash.simulator.with.beam.damage
+Category: Simulation
+Overview: Car Crash Simulator is a simulation game where players can crash cars and see the damage in slow motion. The game features various environments, different car models, and realistic physics. It also has a sandbox mode where players can create their own scenarios and test different crashes.
+Built in Tech Stack: Unity, C#
+Launch Date: September 11, 2020
+***Sudo Block Puzzle
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.sudoblocku
+Category: Puzzle
+Overview: Sudo Block Puzzle is a simple puzzle game where players have to place blocks on a grid to fill it up completely. The game features various modes such as classic mode, challenge mode, and multiplayer mode. It also has daily challenges and achievements for added replayability.
+Built in Tech
+
+***Project Name: FE File Explorer - Access files on PC, Mac & NAS
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.belkatechnologies.fe&hl=ru&gl=US
+Category: Productivity
+Overview: FE File Explorer is a powerful file manager app that allows you to access files and folders on your PC, Mac, NAS, and cloud storage accounts from your mobile device. With FE File Explorer, you can browse, copy, move, rename, delete, and manage files and folders with ease. The app also supports a wide range of file formats and allows you to open and view documents, photos, videos, and more.
+Built-in Tech Stack: The app is built using Java and utilizes various Android APIs.
+Launch Date: June 27, 2012
+***Project Name: Pocket Starships - MMO
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=air.com.spectaclegames.pocketstarships&hl=ru&gl=US
+Category: Strategy
+Overview: Pocket Starships is a multiplayer online game that combines strategy, shooting, and RPG elements. In the game, you can build your own spaceship, recruit a team of pilots, and explore the galaxy while battling other players and completing missions. The game features real-time PvP battles, cooperative gameplay, and a player-driven economy.
+Built-in Tech Stack: The app is built using Adobe AIR and ActionScript 3.0.
+Launch Date: November 19, 2014
+***Project Name: Meta Run
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.metarun.game
+Category: Arcade
+Overview: Meta Run is an endless runner game that challenges you to run as far as you can while avoiding obstacles and collecting coins. The game features a colorful, retro-style art design and fast-paced gameplay. You can also unlock new characters and power-ups as you progress through the game.
+Built-in Tech Stack: The app is built using Unity engine and C# programming language.
+Launch Date: June 5, 2018
+***Project Name: Reading World - Kids Learning Games & Phonics App
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.tinyivy.readingworld
+Category: Education
+Overview: Reading World is an educational app designed to help children learn phonics, reading, and writing skills. The app features a variety of interactive games and activities that teach letter recognition, spelling, and vocabulary. The app also includes a virtual library with books that children can read and listen to.
+Built-in Tech Stack: The app is built using Unity engine and C# programming language.
+Launch Date: August 6, 2020
+***Project Name: Farm Day Village Farming: Offline Games
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.bag.farm.day.village.farming.games
+Category: Simulation
+Overview: Farm Day is a farming simulation game that allows you to build and manage your own farm. In the game, you can grow crops, raise animals, produce goods, and sell them in the market. You can also decorate your farm with various items and buildings.
+Built-in Tech Stack: The app is built using Unity engine and C# programming language.
+Launch Date: January 9, 2020
+***Project Name: Pong Challenge
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.prestogames.pongchallenge
+Category: Arcade
+Overview: Pong Challenge is a modern take on the classic arcade game, Pong. In the game, you can play against the computer or challenge other players online. The game features a variety of paddles and balls with different properties, as well as power-ups that can give you an advantage.
+Built-in Tech Stack: The app is built using Unity engine and C# programming language.
+Launch Date: October 11, 2019
+***Project Name: Drift Car Arena Mayhem
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.gss.drift.car.arena.mayhem
+Category: Racing
+Overview: Drift Car Arena Mayhem is a racing game that combines drifting and shooting elements. In the game, you can participate in various races and battles against other players, earning rewards and unlocking new cars and weapons. The game features realistic physics and graphics, as well as a variety of game modes.
+Built-in Tech Stack: The app is built using Unity engine and C# programming language.
+Launch Date: September 17, 2020
+***Project Name: Suicide Poker - Multiplayer Online Poker Games
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.suicidepoker.pro.multiplayer.online.poker.games&hl=en
+Category: Card games
+Overview: Suicide Poker is a multiplayer online poker game that offers Texas Hold'em, Omaha, and other popular poker variants. In the game, you can play against other players from around the world, earn chips, and climb the leaderboard. The game features various tournaments and events, as well as social features like chat and friends list.
+Built-in Tech Stack: The app is built using Unity engine and C# programming language.
+Launch Date: October 6, 2017
+***Project Name: Ballz
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.ketchapp.ballz&hl=en
+Category: Arcade
+Overview: Ballz is a simple yet addictive arcade game that challenges you to destroy bricks with a ball. In the game, you launch balls at a wall of bricks, trying to break as many as possible with each shot. The game features a minimalist art style and infinite levels, with increasing difficulty.
+Built-in Tech Stack: The app is built using Unity engine and C# programming language.
+Launch Date: December 22, 2016
+
+***Project Name: AirXFight
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.falcons.airxfight
+Category: Action
+Overview: AirXFight is an action-packed arcade game that challenges you to pilot a fighter jet and engage in aerial dogfights. In the game, you can collect power-ups, upgrade your weapons, and defeat enemy planes to progress through levels. The game features fast-paced gameplay and realistic graphics.
+Built-in Tech Stack: The app is built using Unity engine and C# programming language.
+Launch Date: January 4, 2021
+***Project Name: Robin Hood - Archer of the Woods
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.falcon.robinhood
+Category: Action
+Overview: Robin Hood is an action-packed archery game that puts you in the shoes of the legendary outlaw. In the game, you can use your bow and arrow to shoot down enemy soldiers, rescue hostages, and complete various missions. The game features intuitive controls and immersive graphics.
+Built-in Tech Stack: The app is built using Unity engine and C# programming language.
+Launch Date: June 10, 2020
+***Project Name: Second Coming of Christ
+
+App Store or Play Store Link: https://apps.apple.com/ua/app/second-coming-of-christ/id1494663732?l=ru
+Category: Entertainment
+Overview: Second Coming of Christ is an interactive app that allows you to experience the story of Jesus Christ's second coming through augmented reality. In the app, you can scan images from the book of Revelation and watch as they come to life with 3D animations and sound effects. The app also includes a virtual tour of Jerusalem.
+Built-in Tech Stack: The app is built using ARKit and Swift programming language.
+Launch Date: February 4, 2020
+***Project Name: Beyblade Spinner Game
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.mm.beybladespinnergame
+Category: Arcade
+Overview: Beyblade Spinner Game is a simple arcade game that challenges you to spin a Beyblade as fast as you can. In the game, you can compete against other players in real-time matches and earn rewards to unlock new Beyblades and arenas. The game features colorful graphics and easy-to-learn gameplay.
+Built-in Tech Stack: The app is built using Unity engine and C# programming language.
+Launch Date: November 13, 2019
+***Project Name: Guess The Shape
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.MM.GuesShape
+Category: Puzzle
+Overview: Guess The Shape is a fun and challenging puzzle game that tests your spatial reasoning skills. In the game, you are shown a silhouette of an object and must guess what it is by rotating and moving the shape. The game features multiple difficulty levels and hundreds of puzzles to solve.
+Built-in Tech Stack: The app is built using Unity engine and C# programming language.
+Launch Date: January 2, 2020
+***Project Name: Tower One - Tower Defense Game
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.thefingerfighters.towerone
+Category: Strategy
+Overview: Tower One is a tower defense game that challenges you to defend your base from waves of enemy attacks. In the game, you can build and upgrade various types of towers, each with unique abilities and strengths. The game features multiple game modes and dozens of levels to complete.
+Built-in Tech Stack: The app is built using Unity engine and C# programming language.
+Launch Date: December 20, 2019
+***Project Name: Transport Idle
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.Transport.Idle
+Category: Simulation
+Overview: Transport Idle is a simulation game that allows you to build and manage your own transportation empire. In the game, you can buy and upgrade various types of vehicles, hire drivers, and transport passengers and cargo across the city. The game features realistic graphics and challenging gameplay.
+Built-in Tech Stack: The app is built using Unity engine and C# programming language.
+Launch Date: August 22, 2019
+***Project Name: Snake Truck Wars
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.snake.truckwars
+Category: Racing
+Overview: Snake Truck Wars is a unique racing game that combines elements of snake and truck games. In the game, you control a long truck that grows longer as it collects power-ups and defeats other trucks. The goal is to be the last truck standing while avoiding collisions with obstacles and other trucks. The game features multiple game modes and customizable trucks.
+
+Built-in Tech Stack: The app is built using Unity engine and C# programming language.
+Launch Date: February 6, 2020
+***Project Name: The Pizza Machine
+
+App Store or Play Store Link: https://play.google.com/store/apps/details?id=com.MobileMonsters.ThePizzaMachine
+Category: Casual
+Overview: The Pizza Machine is a casual game that allows you to run your own pizza restaurant. In the game, you can make pizzas, serve customers, and manage your inventory and finances. The game features colorful graphics and easy-to-learn gameplay.
+Built-in Tech Stack: The app is built using Unity engine and C# programming language.
+Launch Date: September 1, 2019
+
+***L'Arche Mission Zoo
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.Metidia.LArcheMissionZoo
+Category: Educational
+Overview: L'Arche Mission Zoo is an educational game that teaches children about animals and nature. The game includes different animal habitats, puzzles, and interactive activities to engage kids in learning about wildlife.
+Built-in Tech Stack: Unity, C#
+Launch Date: April 29, 2021
+***Hot Shot Runner
+
+App Store Link: https://apps.apple.com/us/app/hot-shot-runner/id1571459478
+Category: Games/Action
+Overview: Hot Shot Runner is an action-packed endless runner game where you must dodge obstacles, collect coins, and defeat bosses to progress through the levels. With customizable characters and power-ups, this game offers a unique gaming experience for users.
+Built-in Tech Stack: Unity, C#
+Launch Date: June 8, 2021
+***Smash Beat - Music Rush
+
+App Store Link: https://apps.apple.com/us/app/smash-beat-music-rush/id1521420241
+Category: Games/Music
+Overview: Smash Beat - Music Rush is a rhythm-based game that challenges users to hit notes in time with the music. With over 100 songs to choose from and different difficulty levels, this game offers endless hours of entertainment for music lovers.
+Built-in Tech Stack: Unity, C#
+Launch Date: May 12, 2020
+***Desiigners Panda Rush
+
+App Store Link: https://apps.apple.com/us/app/desiigners-panda-rush/id1342283361
+Category: Games/Action
+Overview: Desiigners Panda Rush is an endless runner game where players control a panda as it jumps over obstacles and collects coins. With stylish graphics and multiple levels, this game offers a fun and addictive gaming experience for users.
+Built-in Tech Stack: Unity, C#
+Launch Date: January 5, 2018
+***The Walking Pet
+
+App Store Link: https://apps.apple.com/ru/app/the-walking-pet/id1021592731
+Category: Games/Casual
+Overview: The Walking Pet is a casual game where you control a pet as it walks through a cityscape, avoiding obstacles and collecting coins. With different pets to unlock and customizable costumes, this game offers a fun and engaging experience for all ages.
+Built-in Tech Stack: Unity, C#
+Launch Date: August 19, 2015
+***Mad Rocket
+
+App Store Link: https://apps.apple.com/jp/app/mad-rocket/id1615094002?l=en
+Category: Games/Strategy
+Overview: Mad Rocket is a strategy game where players build up their bases, recruit troops, and engage in battles against other players. With real-time gameplay and tactical decision-making, this game offers a challenging and rewarding experience for users.
+Built-in Tech Stack: Unity, C#
+Launch Date: April 22, 2021
+***Blackjack Shooter 1
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.Fabiulous.BlackjackShooter1&hl=it&gl=US
+Category: Games/Casino
+Overview: Blackjack Shooter 1 is a casino game that combines elements of blackjack and slots. Players place bets and spin the reels to try to get the highest score possible. With simple mechanics and attractive graphics, this game offers a fun and engaging gaming experience for users.
+Built-in Tech Stack: Unity, C#
+Launch Date: August 13, 2020
+***Candy Blast Garden
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.immortalpony.candyblastgarden
+Category: Games/Puzzle
+Overview: Candy Blast Garden is a puzzle game where players match candies of the same color to progress through levels. With cute graphics and challenging gameplay, this game offers a fun and addictive experience for all ages.
+Built-in Tech Stack: Unity, C#
+Launch Date: June 22, 2021
+
+***Bottle Me
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.LightGames.BottleMe
+Category: Games/Puzzle
+Overview: Bottle Me is a casual puzzle game where players must arrange bottles of the same color in a specific order to progress through levels. With different gameplay modes and challenging puzzles, this game offers a fun and engaging experience for users.
+Built-in Tech Stack: Unity, C#
+Launch Date: July 9, 2021
+***Pickatale
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.Pickatale.PFS&hl=uk&gl=US
+Category: Education
+Overview: Pickatale is an educational app that offers interactive books and reading lessons for children. With a wide variety of topics and engaging animations, this app helps kids develop their reading skills and knowledge.
+Built-in Tech Stack: Java, Swift, Kotlin
+Launch Date: October 22, 2019
+***Lær å lese med Pickatale
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.Pickatale.LP
+Category: Education
+Overview: Lær å lese med Pickatale is the Norwegian version of the Pickatale educational app. It offers interactive books and reading lessons for children in Norwegian language.
+Built-in Tech Stack: Java, Swift, Kotlin
+Launch Date: November 16, 2019
+***Tycoon Islands
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.MentoPlaza.TycoonIslands.Android
+Category: Games/Simulation
+Overview: Tycoon Islands is a simulation game where players build and manage their own tropical island resort. With realistic graphics and detailed gameplay, this game offers a fun and immersive experience for users.
+Built-in Tech Stack: Unity, C#
+Launch Date: September 3, 2020
+***BabyFirst Mega Puzzles
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.babyfirst.megapuzzles.preschool
+Category: Games/Educational
+Overview: BabyFirst Mega Puzzles is a puzzle game designed for toddlers and preschoolers. With different levels and challenges, this game offers a fun and educational experience for young children.
+Built-in Tech Stack: Unity, C#
+Launch Date: April 14, 2016
+***Fanta Runner AR
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.MediaKing.FantaRunnerAR&hl=sr
+Category: Games/Action
+Overview: Fanta Runner AR is an augmented reality game where players must run and jump through a virtual obstacle course. With immersive gameplay and advanced AR technology, this game offers a unique gaming experience for users.
+Built-in Tech Stack: Unity, C#
+Launch Date: December 8, 2020
+***SkeletonsAR
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.tomicz.skeletonsar&hl=en_GB
+Category: Games/Action
+Overview: SkeletonsAR is an augmented reality game where players use their phone's camera to battle skeletons that appear in the real world. With innovative gameplay and advanced AR technology, this game offers a thrilling and engaging experience for users.
+Built-in Tech Stack: Unity, C#
+Launch Date: August 10, 2019
+***Jumping Santa AR
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.mediaking.jumpingsantaar
+Category: Games/Casual
+Overview: Jumping Santa AR is an augmented reality game where players help Santa Claus collect gifts while avoiding obstacles. With festive graphics and fun gameplay, this game offers a unique holiday gaming experience for users.
+Built-in Tech Stack: Unity, C#
+Launch Date: December 6, 2018
+***Word Joy
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.qqtap.wordjoy
+Category: Games/Word
+Overview: Word Joy is a word puzzle game where players must form words from letters on the board. With different levels and challenges, this game offers a fun and stimulating experience for users.
+Built-in Tech Stack: Unity, C#
+Launch Date: June 3, 2019
+
+***Brick Blast
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.impasoftware.brickblast
+Category: Arcade
+Overview: Brick Blast is a classic arcade game that challenges players to break as many bricks as possible with a ball and paddle. The game features simple but addictive gameplay, crisp graphics, and an immersive soundtrack.
+Built-in Tech Stack: Unity game engine, C#
+Launch Date: May 20, 2020
+***Race to Putrajaya
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.impasoftware.racetoputrajaya&hl=en
+Category: Racing
+Overview: Race to Putrajaya is an adrenaline-fueled racing game that takes place on the streets of Putrajaya, Malaysia. Players can choose from a variety of high-speed cars and compete in intense races against other players from around the world.
+Built-in Tech Stack: Unity game engine, C#
+Launch Date: October 30, 2019
+***Car Eats Car 2
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.spilgames.CarEatsCar2&hl=ru
+Category: Racing
+Overview: Car Eats Car 2 is a thrilling racing game that pits players against each other in a battle for survival. Players must navigate treacherous terrain, avoid obstacles, and collect power-ups to stay ahead of their rivals.
+Built-in Tech Stack: Unity game engine, C#
+Launch Date: August 22, 2018
+***Glyder
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.Tanjea.Glyder
+Category: Adventure
+Overview: Glyder is a captivating adventure game that lets players explore stunning landscapes and discover hidden secrets. The game features smooth, intuitive controls and a beautifully rendered world that players will love to explore.
+Built-in Tech Stack: Unity game engine, C#
+Launch Date: September 2, 2018
+***Bootleggers
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.ingvar.bootleggers
+Category: Strategy
+Overview: Bootleggers is an exciting strategy game that lets players build their own criminal empire. Players must hire gangsters, produce illegal alcohol, and outsmart their rivals to become the most powerful crime lord in town.
+Built-in Tech Stack: Unity game engine, C#
+Launch Date: December 4, 2019
+***Fun Story
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.dteamstudio.funstory
+Category: Casual
+Overview: Fun Story is a fun and addictive casual game that challenges players to solve puzzles and unravel mysteries. With its colorful graphics and engaging gameplay, Fun Story is perfect for players of all ages and skill levels.
+Built-in Tech Stack: Unity game engine, C#
+Launch Date: September 24, 2020
+***Match Cruise
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.dteamstudio.matchcruise
+Category: Puzzle
+Overview: Match Cruise is a challenging puzzle game that tests players' matching skills and strategic thinking. Players must match colored tiles to clear the board and complete each level, all while navigating a delightful cruise ship setting.
+Built-in Tech Stack: Unity game engine, C#
+Launch Date: March 8, 2021
+***Iron Blade
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftICHM
+Category: Action RPG
+Overview: Iron Blade is an intense action RPG that plunges players into a dark and dangerous fantasy world. With its stunning graphics, engaging storyline, and fast-paced combat system, Iron Blade is an epic adventure like no other.
+Built-in Tech Stack: Unity game engine, C#
+Launch Date: May 17, 2017
+
+***CrowdMiners
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.redbeam.crowdminers
+Category: Finance
+Overview: CrowdMiners is an innovative app that allows users to earn cryptocurrency by participating in crowdsourcing tasks. The app provides a simple and user-friendly interface that makes it easy for anyone to start earning cryptocurrency right away.
+Built-in Tech Stack: React Native, Redux, Laravel, Node.js
+Launch Date: December 3, 2018
+***Virtual City Playground: Building Tycoon
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.g5e.virtualcitysb
+Category: Simulation
+Overview: Virtual City Playground: Building Tycoon is a city-building simulation game that lets players design and manage their own virtual cities. With over 500 buildings and landmarks to choose from, players can create a unique and thriving metropolis.
+Built-in Tech Stack: Unity game engine, C#
+Launch Date: April 18, 2019
+***Magic Pool: The Game
+
+App Store Link: https://apps.apple.com/us/app/magic-pool-the-game/id1421185076
+Category: Puzzle
+Overview: Magic Pool: The Game is a fun and challenging puzzle game that challenges players to use strategy and skill to clear each level. With its colorful graphics and addictive gameplay, Magic Pool is perfect for players of all ages and skill levels.
+Built-in Tech Stack: Unity game engine, C#
+Launch Date: August 22, 2018
+***NeoRace
+
+Play Store Link: https://play.google.com/store/apps/details?id=net.a2soft.neorace&hl=ru
+Category: Racing
+Overview: NeoRace is a fast-paced racing game that puts players behind the wheel of a futuristic speedster. With its stunning graphics and intense gameplay, NeoRace is sure to get your adrenaline pumping.
+Built-in Tech Stack: Unity game engine, C#
+Launch Date: August 17, 2018
+***Balansoid
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.weblab.balansoid&hl=pl
+Category: Arcade
+Overview: Balansoid is a fun and challenging arcade game that tests players' reflexes and coordination. Players must balance a ball on an increasingly complex series of platforms while avoiding obstacles and collecting power-ups.
+Built-in Tech Stack: Unity game engine, C#
+Launch Date: June 12, 2019
+***Hunter Master
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.whaleapp.huntermaster
+Category: Role Playing
+Overview: Hunter Master is an exciting RPG game that lets players explore a vast and detailed fantasy world. With its engaging storyline, immersive graphics, and deep character customization options, Hunter Master is sure to keep players coming back for more.
+Built-in Tech Stack: Unity game engine, C#
+Launch Date: February 26, 2020
+***Astro Lords: Oort Cloud MMO
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.tartezal.astrolords&hl=en&gl=US
+Category: Strategy
+Overview: Astro Lords is a massive multiplayer online strategy game that takes place in the depths of space. Players must build their own asteroid bases, mine resources, and engage in epic battles against other players from around the world.
+Built-in Tech Stack: Unity game engine, C#
+Launch Date: April 11, 2017
+***Stealthy
+
+Play Store Link: https://play.google.com/store/apps/details?id=korsour.Stealthy
+Category: Action
+Overview: Stealthy is an action-packed game that challenges players to use strategy and stealth to complete each level. With its intuitive controls, immersive graphics, and thrilling gameplay, Stealthy is sure to keep players on the edge of their seats.
+Built-in Tech Stack: Unity game engine, C#
+Launch Date: May 27, 2019
+
+***Wizard Battles
+
+Play Store Link: https://play.google.com/store/apps/details?id=us.webtunes.WizardBattles
+Category: Strategy
+Overview: Wizard Battles is a multiplayer strategy game that lets players build and customize their own wizards, then battle against other players from around the world. With its engaging gameplay and deep customization options, Wizard Battles is sure to keep players coming back for more.
+Built-in Tech Stack: Unity game engine, C#
+Launch Date: September 25, 2019
+***Quizon
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.rounaq.quizon
+Category: Trivia
+Overview: Quizon is a fun and challenging trivia game that tests players' knowledge in a variety of categories. With hundreds of questions and multiple game modes, Quizon is perfect for players of all ages and skill levels.
+Built-in Tech Stack: React Native, Firebase
+Launch Date: November 14, 2020
+***BrainKilla - Brain Teaser Game
+
+App Store Link: https://apps.apple.com/us/app/brainkilla-brain-teaser-game/id1499789408
+Category: Puzzle
+Overview: BrainKilla is a brain teaser puzzle game that challenges players to solve increasingly difficult puzzles using logic and critical thinking skills. With its minimalist design and intuitive controls, BrainKilla is perfect for players who enjoy a good mental challenge.
+Built-in Tech Stack: Unity game engine, C#
+Launch Date: February 27, 2020
+***Chess Fighters: Battle Tactics
+
+App Store Link: https://apps.apple.com/us/app/chess-fighters-battle-tactics/id1468072585
+Category: Strategy
+Overview: Chess Fighters: Battle Tactics is a unique and innovative chess game that combines classic chess gameplay with tactical combat. With its engaging storyline and deep strategy options, Chess Fighters is sure to appeal to both casual and hardcore gamers.
+Built-in Tech Stack: Unity game engine, C#
+Launch Date: July 25, 2019
+***Super Cock Fighter
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.oppositelock.supercockfighter
+Category: Sports
+Overview: Super Cock Fighter is a fun and lighthearted sports game that lets players compete in the ultimate cockfighting championship. With its colorful graphics and intuitive controls, Super Cock Fighter is perfect for players who enjoy casual sports games.
+Built-in Tech Stack: Unity game engine, C#
+Launch Date: April 16, 2019
+***Drunk Hibachi Game
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.oppositelock.drunkhibachigame
+Category: Casual
+Overview: Drunk Hibachi Game is a silly and entertaining casual game that challenges players to balance drunken customers on a swaying hibachi grill. With its wacky premise and humorous graphics, Drunk Hibachi Game is perfect for players who want to just have some fun.
+Built-in Tech Stack: Unity game engine, C#
+Launch Date: October 10, 2018
+***Monster Truck Kings
+
+App Store Link: https://apps.apple.com/us/app/monster-truck-kings/id1380210164
+Category: Racing
+Overview: Monster Truck Kings is an exhilarating racing game that lets players drive massive monster trucks through challenging courses filled with obstacles and hazards. With its stunning graphics and intense gameplay, Monster Truck Kings is sure to get your heart racing.
+Built-in Tech Stack: Unity game engine, C#
+Launch Date: November 20, 2018
+***Backgammon
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.blackout.backgammon
+Category: Board Game
+Overview: Backgammon is a classic board game that has been enjoyed by players around the world for centuries. This app features intuitive controls, multiple game modes, and challenging AI opponents, making it the perfect way for players to enjoy this timeless game on their mobile devices.
+Built-in Tech Stack: Unity game engine, C#
+Launch Date: June 15, 2018
+
+***Blackout - Brick Breaker
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.blackout.brick
+Category: Arcade
+Overview: Blackout - Brick Breaker is a classic arcade game that challenges players to break through levels of bricks using a bouncing ball and paddle. With its intuitive controls and addictive gameplay, Blackout - Brick Breaker is perfect for fans of retro arcade games.
+Built-in Tech Stack: Unity game engine, C#
+Launch Date: January 2, 2019
+***Blackout - Cube Escape
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.blackout.cube
+Category: Puzzle
+Overview: Blackout - Cube Escape is a challenging puzzle game that tasks players with escaping from a series of increasingly difficult cubes. With its minimalist design and mind-bending puzzles, Blackout - Cube Escape is perfect for players who enjoy a good mental challenge.
+Built-in Tech Stack: Unity game engine, C#
+Launch Date: October 26, 2018
+***Lucky Turtles
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.luckybetting.luckyturtles
+Category: Casual
+Overview: Lucky Turtles is a fun and lighthearted casual game that challenges players to race against other turtles while collecting coins and power-ups. With its colorful graphics and intuitive controls, Lucky Turtles is perfect for players of all ages.
+Built-in Tech Stack: Unity game engine, C#
+Launch Date: October 7, 2020
+***Chess
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.LoopGames.Chess
+Category: Board Game
+Overview: Chess is a classic board game that has been enjoyed by players around the world for centuries. This app features intuitive controls, multiple game modes, and challenging AI opponents, making it the perfect way for players to enjoy this timeless game on their mobile devices.
+Built-in Tech Stack: Unity game engine, C#
+Launch Date: August 21, 2019
+***Color
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.LoopGames.Color
+Category: Casual
+Overview: Color is a relaxing and enjoyable casual game that challenges players to match colors in a variety of different game modes. With its soothing soundtrack and simple gameplay, Color is perfect for players who want to unwind and destress.
+Built-in Tech Stack: Unity game engine, C#
+Launch Date: December 15, 2018
+***Freecell
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.LoopGames.Freecell
+Category: Card Game
+Overview: Freecell is a classic card game that challenges players to sort cards into descending order by suit. With multiple game modes and challenging levels, Freecell is the perfect way to enjoy a timeless card game on your mobile device.
+Built-in Tech Stack: Unity game engine, C#
+Launch Date: April 23, 2019
+***Mr. Santa - Christmas Game
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.bbitsolutions.mrsanta
+Category: Casual
+Overview: Mr. Santa - Christmas Game is a fun and festive casual game that challenges players to collect presents while dodging obstacles and enemies. With its colorful graphics and engaging gameplay, Mr. Santa - Christmas Game is the perfect way to get into the holiday spirit.
+Built-in Tech Stack: Unity game engine, C#
+Launch Date: December 12, 2018
+***Robo Quiz - Trivia Game
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.gamadrill.roboquiz
+Category: Trivia
+Overview: Robo Quiz - Trivia Game is a fun and challenging trivia app that tests players' knowledge in a variety of categories. With hundreds of questions and multiple game modes, Robo Quiz - Trivia Game is perfect for players of all ages and skill levels.
+Built-in Tech Stack: Unity game engine, C#
+Launch Date: November 27, 2018
+
+***Jumpia
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.gamadrill.jumpia
+Category: Adventure Game
+Overview: Jumpia is an adventure game where users control a character that must jump from platform to platform, avoiding obstacles and enemies along the way. The game has different levels with various difficulties and power-ups to collect.
+Built-in Tech Stack: Unity
+Launch Date: March 13, 2021
+***JungleMine
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.gamadrill.junglemine
+Category: Puzzle Game
+Overview: JungleMine is a puzzle game where users must match gems in order to progress through different levels. The game has different challenges and power-ups to help users complete each level.
+Built-in Tech Stack: Unity
+Launch Date: August 6, 2021
+***Merge City
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.merge.city
+Category: Simulation Game
+Overview: Merge City is a simulation game where users build and manage their own city. Users can merge buildings to create new structures, expand their city, and earn rewards. The game has various challenges and achievements to unlock.
+Built-in Tech Stack: Unity
+Launch Date: December 24, 2019
+***Vikings
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.runner.vikings
+Category: Action Game
+Overview: Vikings is an action game where users control a Viking character who must fight enemies and avoid obstacles as they run through different levels. The game has multiple challenges and power-ups to collect.
+Built-in Tech Stack: Unity
+Launch Date: September 3, 2021
+***Xtreme Drive Car Racing 3D
+
+App Store Link: https://apps.apple.com/app/xtreme-drive-car-racing-3d/id1451034471
+Category: Racing Game
+Overview: Xtreme Drive Car Racing 3D is a racing game where users can select different cars and race against opponents on various tracks. The game has multiple levels with different difficulties and power-ups to collect.
+Built-in Tech Stack: Unity
+Launch Date: February 18, 2019
+***Romantic Stories Love Games
+
+App Store Link: https://apps.apple.com/ru/app/romantic-stories-love-games/id1490604719#?platform=iphone
+Category: Interactive Story Game
+Overview: Romantic Stories Love Games is an interactive story game where users can choose their own adventure and make decisions that affect the outcome of the story. The game has multiple stories with different themes and endings.
+Built-in Tech Stack: Unity
+Launch Date: January 5, 2020
+***Heat
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.ionomy.heat
+Category: Puzzle Game
+Overview: Heat is a puzzle game where users must match tiles in order to progress through different levels. The game has different challenges and power-ups to help users complete each level.
+Built-in Tech Stack: Unity
+Launch Date: August 7, 2018
+***Wardog
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.space_arcade_action.soldiers_shooter.platformer_wardog
+Category: Arcade Game
+Overview: Wardog is an arcade game where users control a soldier who must shoot enemies and avoid obstacles as they progress through different levels. The game has multiple challenges and power-ups to collect.
+Built-in Tech Stack: Unity
+Launch Date: April 7, 2021
+
+***Hippo Post
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.hippo.post
+Category: Communication
+Overview: Hippo Post is a messaging app that allows users to send text messages, make voice and video calls, and share multimedia content. The app also includes features like group chat, message encryption, and audio and video conferencing.
+Built-in Tech Stack: Kotlin, Firebase
+Launch Date: June 26, 2019
+***Basketball Stars Battle
+
+App Store Link: https://apps.apple.com/app/basketball-stars-battle/id1454304492
+Category: Sports Game
+Overview: Basketball Stars Battle is a sports game where users can select their favorite basketball player and compete against opponents in one-on-one matches. The game has different levels with various challenges and power-ups to collect.
+Built-in Tech Stack: Unity
+Launch Date: February 14, 2019
+***Parking Escape
+
+App Store Link: https://apps.apple.com/app/parking-escape/id1316937847
+Category: Puzzle Game
+Overview: Parking Escape is a puzzle game where users must navigate their car through a maze of obstacles to reach the parking spot. The game has multiple levels with different difficulties and power-ups to collect.
+Built-in Tech Stack: Unity
+Launch Date: November 2, 2017
+***Climb Car Racing Game
+
+App Store Link: https://apps.apple.com/app/climb-car-racing-game/id1454103653
+Category: Racing Game
+Overview: Climb Car Racing Game is a racing game where users can select different cars and race against opponents on various tracks. The game has multiple levels with different difficulties and power-ups to collect.
+Built-in Tech Stack: Unity
+Launch Date: January 25, 2019
+***TMob
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.ionomy.tmob
+Category: Puzzle Game
+Overview: TMob is a puzzle game where users must match tiles in order to progress through different levels. The game has different challenges and power-ups to help users complete each level.
+Built-in Tech Stack: Unity
+Launch Date: December 18, 2017
+***Rushy Racing
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.neyther.rushyracing
+Category: Racing Game
+Overview: Rushy Racing is a racing game where users can select different cars and race against opponents on various tracks. The game has multiple levels with different difficulties and power-ups to collect.
+Built-in Tech Stack: Unity
+Launch Date: June 21, 2018
+***Cousin Wedding
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.hippo.CousinWedding
+Category: Role Playing
+Overview: Cousin Wedding is a role-playing game where users help the main character plan and prepare for a wedding ceremony. The game has multiple levels with different tasks and challenges to complete.
+Built-in Tech Stack: Unity
+Launch Date: July 6, 2020
+***HippoABC
+
+Play Store Link: https://play.google.com/store/apps/details?id=com.PSVStudio.HippoABC
+Category: Educational Game
+Overview: HippoABC is an educational game that helps young children learn the alphabet and basic vocabulary. The game includes interactive activities like tracing letters, matching pictures to words, and identifying objects by their initial letter.
+Built-in Tech Stack: Unity
+Launch Date: November 28, 2019
